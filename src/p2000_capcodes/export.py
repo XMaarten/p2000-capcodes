@@ -11,9 +11,15 @@ CSV_FIELDS = [
     "capcode",
     "capcode_short",
     "discipline",
+    "service",
     "region",
     "region_code",
     "location",
+    "station",
+    "unit_type",
+    "unit_type_name",
+    "callsign",
+    "unit_number",
     "description",
     "remark",
     "status",
@@ -101,11 +107,19 @@ def export_sqlite(
                 CREATE TABLE capcodes_meta (
                     capcode TEXT PRIMARY KEY,
                     capcode_short TEXT NOT NULL,
+                    service TEXT NOT NULL DEFAULT '',
                     region_code TEXT NOT NULL DEFAULT '',
+                    station TEXT NOT NULL DEFAULT '',
+                    unit_type TEXT NOT NULL DEFAULT '',
+                    unit_type_name TEXT NOT NULL DEFAULT '',
+                    callsign TEXT NOT NULL DEFAULT '',
+                    unit_number TEXT NOT NULL DEFAULT '',
                     status TEXT NOT NULL,
                     confidence TEXT NOT NULL,
                     sources_json TEXT NOT NULL,
                     source_urls_json TEXT NOT NULL,
+                    field_sources_json TEXT NOT NULL,
+                    source_descriptions_json TEXT NOT NULL,
                     conflicts_json TEXT NOT NULL,
                     FOREIGN KEY(capcode) REFERENCES capcodes(capcode)
                 );
@@ -160,19 +174,29 @@ def export_sqlite(
             conn.executemany(
                 """
                 INSERT INTO capcodes_meta(
-                    capcode, capcode_short, region_code, status, confidence,
-                    sources_json, source_urls_json, conflicts_json
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    capcode, capcode_short, service, region_code, station,
+                    unit_type, unit_type_name, callsign, unit_number,
+                    status, confidence, sources_json, source_urls_json,
+                    field_sources_json, source_descriptions_json, conflicts_json
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 [
                     (
                         record.capcode,
                         record.capcode_short,
+                        record.service,
                         record.region_code,
+                        record.station,
+                        record.unit_type,
+                        record.unit_type_name,
+                        record.callsign,
+                        record.unit_number,
                         record.status,
                         record.confidence,
                         json.dumps(record.sources, ensure_ascii=False),
                         json.dumps(record.source_urls, ensure_ascii=False),
+                        json.dumps(record.field_sources, ensure_ascii=False),
+                        json.dumps(record.source_descriptions, ensure_ascii=False),
                         json.dumps(
                             [conflict.as_dict() for conflict in record.conflicts],
                             ensure_ascii=False,

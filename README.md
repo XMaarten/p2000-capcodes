@@ -67,18 +67,37 @@ available.
 
 See [NOTICE.md](NOTICE.md) for attribution notes.
 
-## Source precedence
+## Field-based enrichment
 
-When sources disagree, the selected value follows this default priority while every differing
-value remains visible as a conflict:
+Sources often describe different aspects of the same capcode rather than contradicting each
+other. The merger therefore selects values **per field**, not per complete source record.
 
-1. `manual`
-2. `capcodes_eu`
-3. `tomzulu`
-4. `bommel`
+Typical strengths are:
 
-Agreement between multiple sources is reflected in provenance. No conflicting source value is
-discarded from JSON/SQLite metadata.
+- **TomZulu**: station/location and functional unit type, e.g. `Aalsmeer` + `Bezetting TS`;
+- **Capcodes.eu**: region/station context and callsign, e.g. `Kazerne Aalsmeer (TS-3531)`;
+- **Bommel**: spelled-out or legacy vehicle description, e.g. `Tankautospuit-612`;
+- **manual**: verified corrections, always highest priority for the supplied field.
+
+A merged record can therefore contain all of these at once:
+
+```json
+{
+  "service": "Brandweer",
+  "region": "Amsterdam-Amstelland",
+  "station": "Aalsmeer",
+  "unit_type": "TS",
+  "unit_type_name": "Tankautospuit",
+  "callsign": "TS-3531",
+  "unit_number": "612",
+  "description": "Tankautospuit-612"
+}
+```
+
+The JSON/SQLite metadata also contain `field_sources` and `source_descriptions`, so every
+selected value and every original provider description remain auditable. Different descriptive
+wording is considered complementary; genuine disagreements about service, region, location,
+station or callsign are still reported as conflicts.
 
 ## Generated artifacts
 
@@ -101,8 +120,9 @@ reports/
 ```
 
 The SQLite `capcodes` table is deliberately compatible with the lookup used by
-`cyberjunky/addon-p2000_rtlsdr`. The same database also contains an independent
-`abbreviations` table for consumers that want to enrich P2000 message text:
+`cyberjunky/addon-p2000_rtlsdr`. Enriched fields and provenance live in the one-to-one
+`capcodes_meta` table, so compatibility is retained. The same database also contains an
+independent `abbreviations` table for consumers that want to enrich P2000 message text:
 
 ```sql
 SELECT discipline, region, location, description, remark
@@ -248,11 +268,13 @@ continuously.
 ## Merge behaviour
 
 - Exact duplicate rows within one source are deduplicated and reported.
-- Different non-empty values are retained as conflicts.
+- Values are selected per field using source-specific strengths.
+- Service aliases such as `BRW` and `Brandweer` normalize to one canonical value.
 - Empty versus non-empty prefers the populated value.
-- Explicit source priority chooses the displayed value when sources disagree.
-- `manual` overrides have highest priority.
-- JSON and SQLite metadata keep the alternatives and their source URLs.
+- Differing descriptions/remarks are preserved as complementary source descriptions.
+- Genuine disagreements about identity/location fields remain visible as conflicts.
+- `manual` overrides have highest priority for fields they provide.
+- JSON and SQLite metadata keep field provenance, alternatives and source URLs.
 
 ## License
 

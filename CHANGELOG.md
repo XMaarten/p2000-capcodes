@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.4.0
+
+- Change merging from whole-record source precedence to field-based enrichment.
+- Normalize common service aliases such as `BRW` to `Brandweer`.
+- Add enriched fields: `service`, `station`, `unit_type`, `unit_type_name`, `callsign` and `unit_number`.
+- Preserve every provider's original description/location/remark in `source_descriptions`.
+- Track provenance per selected field in `field_sources`.
+- Treat differing descriptive text as complementary rather than automatically conflicting.
+- Prefer TomZulu for station/unit type, Capcodes.eu for callsigns, and Bommel for spelled-out vehicle descriptions.
+- Extend CSV/JSON/SQLite exports with enriched metadata while keeping the Cyberjunky-compatible `capcodes` table unchanged.
+- Include the corrected generated-data commit logic in the scheduled GitHub Action.
+- Add regression tests for complementary Aalsmeer-style source records.
+
 ## 0.3.0
 
 - Fetch the TomZulu10 general emergency-service abbreviation glossary.

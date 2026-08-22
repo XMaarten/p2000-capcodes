@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 import unicodedata
 
+
 CAPCODE_DIGITS = 9
 
 

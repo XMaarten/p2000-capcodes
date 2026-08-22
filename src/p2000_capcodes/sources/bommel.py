@@ -45,7 +45,7 @@ class BommelSource:
             response = requests.get(
                 self.url,
                 timeout=self.timeout,
-                headers={"User-Agent": "p2000-capcodes/0.1 (+https://github.com/XMaarten)"},
+                headers={"User-Agent": "p2000-capcodes/0.4 (+https://github.com/XMaarten/p2000-capcodes)"},
             )
             response.raise_for_status()
             payload = response.content

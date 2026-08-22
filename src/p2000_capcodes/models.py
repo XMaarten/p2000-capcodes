@@ -56,15 +56,23 @@ class FieldConflict:
 class MergedRecord:
     capcode: str
     discipline: str = ""
+    service: str = ""
     region: str = ""
     region_code: str = ""
     location: str = ""
+    station: str = ""
+    unit_type: str = ""
+    unit_type_name: str = ""
+    callsign: str = ""
+    unit_number: str = ""
     description: str = ""
     remark: str = ""
     status: str = "ok"
     confidence: str = "high"
     sources: list[str] = field(default_factory=list)
     source_urls: list[str] = field(default_factory=list)
+    field_sources: dict[str, list[str]] = field(default_factory=dict)
+    source_descriptions: list[dict[str, str]] = field(default_factory=list)
     conflicts: list[FieldConflict] = field(default_factory=list)
 
     @property
@@ -76,14 +84,22 @@ class MergedRecord:
             "capcode": self.capcode,
             "capcode_short": self.capcode_short,
             "discipline": self.discipline,
+            "service": self.service,
             "region": self.region,
             "region_code": self.region_code,
             "location": self.location,
+            "station": self.station,
+            "unit_type": self.unit_type,
+            "unit_type_name": self.unit_type_name,
+            "callsign": self.callsign,
+            "unit_number": self.unit_number,
             "description": self.description,
             "remark": self.remark,
             "status": self.status,
             "confidence": self.confidence,
             "sources": self.sources,
             "source_urls": self.source_urls,
+            "field_sources": self.field_sources,
+            "source_descriptions": self.source_descriptions,
             "conflicts": [conflict.as_dict() for conflict in self.conflicts],
         }
