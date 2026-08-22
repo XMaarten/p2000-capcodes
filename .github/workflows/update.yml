@@ -1,0 +1,33 @@
+name: Update capcode dataset
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -e '.[scrape]'
+      - run: python -m playwright install --with-deps chromium
+      - name: Build dataset
+        run: p2000-capcodes update
+      - name: Commit changed generated data
+        run: |
+          if git diff --quiet -- data reports; then
+            echo "No dataset changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          git commit -m "Update capcode dataset"
+          git push

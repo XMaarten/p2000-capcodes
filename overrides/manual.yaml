@@ -1,0 +1,16 @@
+# Manual corrections and additional records.
+#
+# Keep this file small and auditable. Every record from another provider should
+# include source + source_url. A manual observation can use source: manual and
+# explain the evidence in source_record_id.
+#
+# Example:
+# records:
+#   - capcode: "001234567"
+#     discipline: Ambulance
+#     region: Example region
+#     description: Example description
+#     source: example-provider
+#     source_url: https://example.invalid/capcode/1234567
+#     source_record_id: verified 2026-08-22
+records: []
