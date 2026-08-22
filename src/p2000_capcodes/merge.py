@@ -1,8 +1,8 @@
 from __future__ import annotations
 
 from collections import defaultdict
+from collections.abc import Callable
 from dataclasses import dataclass
-from typing import Callable
 
 from p2000_capcodes.enrich import DerivedFields, derive_fields, normalize_service
 from p2000_capcodes.models import FieldConflict, MergedRecord, SourceRecord
