@@ -1,0 +1,15 @@
+{
+  "source_records": 30631,
+  "unique_capcodes": 17064,
+  "bommel_records": 9647,
+  "exact_duplicate_capcodes": 11,
+  "conflicting_duplicate_capcodes": 46,
+  "records_with_field_conflicts": 9548,
+  "abbreviation_records": 1236,
+  "source_errors": {},
+  "bommel_download": {
+    "url": "https://p2000.bommel.net/cap2csv.php",
+    "sha256": "9aef63a7276a46eb8ad9e4302ea33912577b7cd6180b21b993aac91fa9932cc5",
+    "size": 726344
+  }
+}

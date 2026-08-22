@@ -1,0 +1,7452 @@
+# Records missing from Bommel
+
+Records known only from other configured sources: **7448**
+
+- `000100009` — - — 4 | BRW | Aalsmeer | Bezetting slagkracht TS — sources: tomzulu
+- `000100091` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100099` — - — 11 | BRW | Aalsmeer | Noodprocedure — sources: tomzulu
+- `000100109` — Brandweer — BRW Amsterdam-Amstelland/Kazerne Amstelveen (Alle vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `000100110` — Brandweer — BRW Amsterdam-Amstelland/Kazerne Amstelveen ( Bemanning COH ) — sources: capcodes_eu, tomzulu
+- `000100111` — Brandweer — BRW Amsterdam-Amstelland/Kazerne Amstelveen ( Officieren Spoed ) — sources: capcodes_eu, tomzulu
+- `000100112` — Brandweer — BRW Amsterdam-Amstelland/Kazerne Amstelveen ( Officieren ) — sources: capcodes_eu, tomzulu
+- `000100120` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100121` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100122` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100131` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100181` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100191` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100192` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100193` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100210` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100211` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100212` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100221` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100291` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100300` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100310` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100311` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100312` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100391` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100408` — - — 38 | BRW | Driemond | Verkenningseenheid — sources: tomzulu
+- `000100409` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100410` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100411` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100412` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100491` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100510` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100511` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100512` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100591` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100610` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100611` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100691` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100700` — - — 53 | BRW | Amsterdam Nico | Kazernealarm noodprocedure — sources: tomzulu
+- `000100710` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100711` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100712` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100791` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100800` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100810` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100811` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100891` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100900` — - — 62 | BRW | Amsterdam Pieter | Kazernealarm Noodprocedure — sources: tomzulu
+- `000100910` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100911` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100912` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000100991` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101000` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101010` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101011` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101012` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101091` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101100` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101110` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101112` — Brandweer — BRW Amsterdam-Amstelland ( Reserve AGS ) — sources: capcodes_eu, tomzulu
+- `000101191` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101200` — - — 77 | BRW | Amsterdam Victor | Kazernealarm noodprocedure — sources: tomzulu
+- `000101210` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101211` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101212` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101291` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101300` — Brandweer — BRW Amsterdam-Amstelland/RVhv ( Ondersteunings Peloton A ) — sources: capcodes_eu, tomzulu
+- `000101306` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101307` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101308` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101309` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101310` — Brandweer — BRW Amsterdam-Amstelland/RVhv ( Plotter ) — sources: capcodes_eu, tomzulu
+- `000101311` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101381` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101391` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101410` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101411` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101412` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101491` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101510` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101511` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101591` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101600` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101609` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101610` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101611` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101612` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101613` — - — 105 | BRW | Diemen | Bezetting MCU — sources: tomzulu
+- `000101619` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101691` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101700` — - — 108 | BRW | Duivendrecht | Postalarm — sources: tomzulu
+- `000101708` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101709` — - — 110 | BRW | Duivendrecht | Bezetting TS-SK — sources: tomzulu
+- `000101710` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101711` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101712` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101719` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101791` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101800` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101809` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101810` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101811` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101812` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101891` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101900` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101902` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101910` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101911` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101920` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101921` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101930` — - — 128 | BRW | Veiligheidscentrum Sloterdijk | Functionaris Brandweer Ondersteuning Ploeg 3 — sources: tomzulu
+- `000101931` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101940` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101941` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101991` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000101992` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102000` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102001` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102003` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102004` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102005` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102006` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102008` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102009` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102010` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102014` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102015` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102020` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102023` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102024` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102025` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102028` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102029` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102031` — - — 155 | BRW | Regionaal | DCU Zuid - Kazerne — sources: tomzulu
+- `000102032` — - — 156 | BRW | Regionaal | DCU Noord - Kazerne Nico — sources: tomzulu
+- `000102033` — - — 157 | BRW | Regionaal | DCU Zuidoost - Kazerne — sources: tomzulu
+- `000102040` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102041` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102049` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102050` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102051` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102052` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102053` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102055` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102059` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102060` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102061` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102062` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102063` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102064` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102065` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102070` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102073` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102075` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu
+- `000102080` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102082` — - — 176 | BRW | AYMA | Pompbedieners — sources: tomzulu
+- `000102083` — - — 177 | BRW | AYMA | Monitor Bedieners — sources: tomzulu
+- `000102084` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102088` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102111` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102411` — KNRM — 181 | Reddingsbrigade Amsterdam (Strand Groep) — sources: tomzulu
+- `000102428` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102491` — - — 183 | BRW | BRW Amsterdam-Amstelland | Persoonlijke Code — sources: tomzulu
+- `000102502` — - — 184 | BRW | BRW Amsterdam-Amstelland | Aansturing rampenzender RTVNH — sources: tomzulu
+- `000102531` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu
+- `000102539` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102540` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102560` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102561` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102600` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102601` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102609` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102610` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102611` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102612` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102613` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102614` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102615` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102616` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102617` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102618` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102619` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102620` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102621` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102622` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102623` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102624` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102625` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102626` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102630` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102631` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102632` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102633` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102640` — - — 213 | BRW | Regionaal | Regionaal Procescoördinator Omgevingszorg — sources: tomzulu
+- `000102641` — - — 214 | BRW | Regionaal | Hoofd Milieu RAC Omgevingsdienst — sources: tomzulu
+- `000102642` — - — 215 | BRW | Regionaal | Inspecteur Milieu RAC Omgevingsdienst — sources: tomzulu
+- `000102643` — - — 216 | BRW | Regionaal | Hoofd RAC Omgevingsdienst — sources: tomzulu
+- `000102644` — - — 217 | BRW | Regionaal | Informatiecoördinator RAC Omgevingsdienst — sources: tomzulu
+- `000102645` — - — 218 | BRW | Regionaal | Verslaglegger RAC Omgevingsdienst — sources: tomzulu
+- `000102650` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102651` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102655` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102660` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102670` — - — 224 | BRW | Regionaal | Lokaal Coördinatie Punt Ouder-Amstel (Coördinator) — sources: tomzulu
+- `000102671` — - — 225 | BRW | Regionaal | Lokaal Coördinatiepunt Ouder-Amstel (Voorlichter) — sources: tomzulu
+- `000102680` — - — 226 | BRW | Regionaal | Lokaal Coördinatie Punt Aalsmeer & Amstelveen (Coördinator) — sources: tomzulu
+- `000102681` — - — 227 | BRW | Regionaal | Lokaal Coördinatie Punt Aalsmeer & Amstelveen (Voorlichter) — sources: tomzulu
+- `000102690` — - — 228 | BRW | Regionaal | Lokaal Coördinatie Punt Uithoorn (Coördinator) — sources: tomzulu
+- `000102691` — - — 229 | BRW | Regionaal | Lokaal Coördinatiepunt Uithoorn (Voorlichter) — sources: tomzulu
+- `000102700` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102705` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102706` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102711` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102721` — - — 234 | BRW | Gemeentelijk Actiecentrum | Nieuw West (Beleidsmedewerker) — sources: tomzulu
+- `000102731` — - — 235 | BRW | Gemeentelijk Actiecentrum | Amsterdam Noord (Beleidsmedewerker) — sources: tomzulu
+- `000102741` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102751` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102761` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102771` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102781` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102799` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102800` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102801` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102802` — - — 244 | BRW | VR Amsterdam-Amstelland | OvD Bevolkingszorg Regio — sources: tomzulu
+- `000102902` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu
+- `000102911` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu
+- `000102912` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu
+- `000102981` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102982` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102983` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102991` — - — 248 | BRW | Regionaal | Infocode Bevelvoerders Vrijwillig — sources: tomzulu
+- `000102993` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102994` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102995` — Brandweer — BRW Amsterdam-Amstelland ( Lichtkrant AC Haarlem ) — sources: capcodes_eu, tomzulu
+- `000102996` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102997` — Brandweer — Brandweer Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000102999` — Brandweer — BRW Amsterdam-Amstelland ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000103001` — Brandweer — BRW Zaanstreek-Waterland ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000103002` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103047` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103048` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103052` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103075` — Brandweer — RBZW ( Coordinator BOT Team ) ) — sources: capcodes_eu, tomzulu
+- `000103076` — Brandweer — RBZW ( Leden BOT Team ) ) — sources: capcodes_eu, tomzulu
+- `000103080` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103081` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103082` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103104` — Brandweer — BRW Oosthuizen ( Staf ) — sources: capcodes_eu, tomzulu
+- `000103111` — Brandweer — BRW Kwadijk ( Staf ) — sources: capcodes_eu, tomzulu
+- `000103117` — - — 55 | KNBRD | Warder | Reddingboot De Beer Opstappers — sources: tomzulu
+- `000103118` — - — 56 | KNBRD | Zeevang | IJs reddingsteam — sources: tomzulu
+- `000103172` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103176` — Brandweer — BRW Beemster ( Kazernecommandant ) — sources: capcodes_eu, tomzulu
+- `000103232` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103243` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103251` — Brandweer — BRW Edam-Volendam ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000103364` — - — 85 | BRW | Waterland | Burgemeester — sources: tomzulu
+- `000103367` — KNRM — KNRM Marken ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000103368` — KNRM — 88 | Marken | IJs reddingsteam — sources: tomzulu
+- `000103472` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103562` — - — 98 | BRW | Purmerend | Kazerne Coördinator Vrijwilligers — sources: tomzulu
+- `000103683` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103685` — Brandweer — BRW Assendelft ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000103741` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103742` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103792` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103793` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103794` — Brandweer — BRW Krommeniedijk ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000103927` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000103931` — Brandweer — BRW Wormerveer ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000103998` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104000` — Brandweer — BRW Zaandam-Vermiljoenweg ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000104010` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104014` — Brandweer — BRW Zaandam-Kalf ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000104022` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104023` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104117` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu
+- `000104119` — Brandweer — BRW Zaandam-Botenmakersstraat ( Lichtkrant ) — sources: capcodes_eu
+- `000104133` — Brandweer — BRW Zaandam-Houtveldweg ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000104135` — Brandweer — BRW Zaandam-Houtveldweg ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000104263` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104264` — Brandweer — BRW Zaandijk ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000104314` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104524` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104668` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104670` — Brandweer — RBZW ( ROT Ondersteuners ) — sources: capcodes_eu, tomzulu
+- `000104671` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104672` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104677` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104678` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104680` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104681` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104739` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104854` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104876` — Brandweer — Bedrijfsbrandweer ADM Koog a/d Zaan — sources: capcodes_eu, tomzulu
+- `000104901` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104902` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104903` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104904` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104905` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104906` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104907` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104908` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104909` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104910` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104911` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104912` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104914` — - — 215 | BRW | Purmerend | First Responders — sources: tomzulu
+- `000104915` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104916` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104917` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104918` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104919` — - — 220 | BRW | Zaanstad-Noord | First Responders — sources: tomzulu
+- `000104920` — Brandweer — Hoofdofficier van Justitie — sources: capcodes_eu, tomzulu
+- `000104921` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu
+- `000104922` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104923` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104924` — - — 224 | BRW | Zaanstreek Noord en Zuid | First Responders — sources: tomzulu
+- `000104925` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104926` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104931` — - — 227 | BRW | Waterland-Noord | Decentrale Uitgifte — sources: tomzulu
+- `000104932` — - — 228 | BRW | Waterland-Zuid | Decentrale Uitgifte — sources: tomzulu
+- `000104933` — - — 229 | BRW | Zaanstreek | Decentrale Uitgifte — sources: tomzulu
+- `000104952` — - — 230 | BRW | Regionaal | RTV-NH Rampenzender Aansturing — sources: tomzulu
+- `000104960` — - — 231 | BRW | Regionaal | Strategisch Adviseur Bz GBT — sources: tomzulu
+- `000104962` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104965` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104966` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104967` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104970` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104972` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104973` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104974` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104975` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000104976` — - — 243 | BRW | Regionaal | Infocode GRIP 3 — sources: tomzulu
+- `000104979` — - — 244 | BRW | Regionaal | Informatiemanager — sources: tomzulu
+- `000104980` — Brandweer — Brandweer Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000106305` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106310` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106315` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106320` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106335` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106490` — Brandweer — BRW Kennemerland ( Districtscommandant Midden ) — sources: capcodes_eu, tomzulu
+- `000106495` — - — 9 | BRW | MKB Noord Holland | Teammanager — sources: tomzulu
+- `000106555` — Brandweer — BRW Kennemerland ( Hoofd Stafsectie Brandweer ) — sources: capcodes_eu, tomzulu
+- `000106570` — Brandweer — BRW Kennemerland ( Lid Operationeel Team ) — sources: capcodes_eu, tomzulu
+- `000106585` — Brandweer — BRW Kennemerland ( Team Brandonderzoek ) — sources: capcodes_eu, tomzulu
+- `000106588` — - — 23 | BRW | Regionaal | RTVNH rampenzender aansturing — sources: tomzulu
+- `000106681` — KNRM — KNRM Kennemerland ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000106686` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106709` — KNRM — KNBRD Kennemerland ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000106741` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106781` — KNRM — KNBRD Kennemerland ( Monitorcode RAC ) — sources: capcodes_eu, tomzulu
+- `000106799` — KNRM — KNBRD Kennemerland ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `000106900` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106910` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106957` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000106974` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107010` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107087` — Brandweer — BRW Haarlem-West ( Intern Alarm Waterongeval ) — sources: capcodes_eu, tomzulu
+- `000107110` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107118` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107119` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107310` — - — 61 | BRW | Zandvoort | Bevelvoerder van Dienst — sources: tomzulu
+- `000107316` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107319` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107326` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107329` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107340` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107341` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107349` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107388` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107402` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107419` — - — 77 | BRW | Beverwijk Oost | Chauffeurs HA — sources: tomzulu
+- `000107421` — Brandweer — BRW Beverwijk ( Blusgroep West ) — sources: capcodes_eu, tomzulu
+- `000107431` — Brandweer — BRW Beverwijk ( Blusploeg oost ) — sources: capcodes_eu, tomzulu
+- `000107441` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107488` — Brandweer — BRW Beverwijk ( Kazernebediening West ) — sources: capcodes_eu, tomzulu
+- `000107502` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107640` — - — 95 | BRW | Heemstede | Bevelvoerder van dienst (Dagdienst) — sources: tomzulu
+- `000107641` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107702` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107752` — - — 103 | BRW | Uitgeest | Schippers Werkboot Recreatieschap Alkmaarder- en Uitgeestermeer — sources: tomzulu
+- `000107802` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107810` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107811` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000107982` — Brandweer — BRW Spaarndam ( Lichtkrant Kazerne ) — sources: capcodes_eu, tomzulu
+- `000108002` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108064` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108182` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108184` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108199` — Brandweer — Bedrijfsbrandweer Corus ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `000108210` — Brandweer — BRW Hoofddorp ( BvD ) — sources: capcodes_eu, tomzulu
+- `000108218` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108219` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108301` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108310` — Brandweer — BRW Schiphol ( BvD Post Sloten ) — sources: capcodes_eu, tomzulu
+- `000108321` — Brandweer — BRW Schiphol ( Blusploeg TS-340 Post Rijk ) — sources: capcodes_eu, tomzulu
+- `000108381` — Brandweer — BRW Schiphol ( Lichtkrant Post Sloten ) — sources: capcodes_eu, tomzulu
+- `000108382` — Brandweer — BRW Schiphol ( Lichtkrant Post Rijk ) — sources: capcodes_eu, tomzulu
+- `000108399` — Brandweer — BRW Schiphol ( Proefalarm Post Sloten ) — sources: capcodes_eu, tomzulu
+- `000108410` — Brandweer — BRW Nieuw Vennep ( BvD Beroeps ) — sources: capcodes_eu, tomzulu
+- `000108411` — Brandweer — BRW Nieuw Vennep ( Blusgroep Beroeps TS-347 ) — sources: capcodes_eu, tomzulu
+- `000108481` — Brandweer — BRW Nieuw Vennep ( Lichtkrant Beroeps ) — sources: capcodes_eu, tomzulu
+- `000108500` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108502` — Brandweer — BRW Zwanenburg-Halfweg ( Ploegchef ) — sources: capcodes_eu, tomzulu
+- `000108510` — Brandweer — BRW Zwanenburg-Halfweg ( Bevelvoerder Ploeg 1 ) — sources: capcodes_eu, tomzulu
+- `000108511` — Brandweer — BRW Zwanenburg-Halfweg ( Blusploeg 1 ) — sources: capcodes_eu, tomzulu
+- `000108520` — Brandweer — BRW Zwanenburg-Halfweg ( Bevelvoerder Ploeg 2 ) — sources: capcodes_eu, tomzulu
+- `000108521` — Brandweer — BRW Zwanenburg-Halfweg ( Blusploeg 2 ) — sources: capcodes_eu, tomzulu
+- `000108530` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108531` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108564` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108575` — Brandweer — BRW Zwanenburg-Halfweg ( WvD Ploeg ) — sources: capcodes_eu, tomzulu
+- `000108581` — Brandweer — BRW Zwanenburg-Halfweg ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000108602` — Brandweer — BRW Rijssenhout ( Ploegchef ) — sources: capcodes_eu, tomzulu
+- `000108611` — Brandweer — BRW Rijssenhout ( Blusploeg TS-349 ) — sources: capcodes_eu, tomzulu
+- `000108614` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108664` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108675` — Brandweer — BRW Rijssenhout ( WVD ) — sources: capcodes_eu, tomzulu
+- `000108681` — Brandweer — BRW Rijssenhout ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000108710` — - — 159 | BRW | Badhoevedorp | Bevelvoerder van Dienst — sources: tomzulu
+- `000108764` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108775` — Brandweer — BRW Badhoevedorp ( WVD ) — sources: capcodes_eu, tomzulu
+- `000108802` — Brandweer — BRW Lisserbroek ( Ploegchef ) — sources: capcodes_eu, tomzulu
+- `000108810` — - — 165 | BRW | Lisserbroek | Bevelvoerder van dienst — sources: tomzulu
+- `000108811` — Brandweer — BRW Lisserbroek ( Blusgroep TS-342 ) — sources: capcodes_eu, tomzulu
+- `000108864` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu, tomzulu
+- `000108881` — Brandweer — BRW Lisserbroek ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000108901` — Brandweer — Brandweer Kennemerland — sources: capcodes_eu
+- `000108903` — Brandweer — BRW Halfweg ( Commandant ) — sources: capcodes_eu
+- `000120002` — Ambulance — RAVAA Amsterdam ( Directie GGD Amsterdam ) — sources: capcodes_eu, tomzulu
+- `000120004` — Ambulance — RAVAA Amsterdam ( Directie GGD Zaanstreek-Waterland ) — sources: capcodes_eu, tomzulu
+- `000120046` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120050` — Ambulance — RAVAA Amsterdam ( AED Groep Marken ) — sources: capcodes_eu, tomzulu
+- `000120051` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120060` — Ambulance — RAVAA Amsterdam ( AED Groep Uitdam ) — sources: capcodes_eu
+- `000120061` — Ambulance — RAVAA Amsterdam ( Dienstdoende Arts ) — sources: capcodes_eu, tomzulu
+- `000120062` — Ambulance — 264 | Purmerland / Den Ilp | AED groep — sources: tomzulu
+- `000120063` — Ambulance — 265 | Oosthuizen / Schardam / Beets / Warder | AED groep — sources: tomzulu
+- `000120064` — Ambulance — RAVAA Amsterdam ( AED Groep Monnickendam ) — sources: capcodes_eu, tomzulu
+- `000120065` — Ambulance — RAVAA Amsterdam ( AED Groep Broek in Waterland/Zuiderwoude ) — sources: capcodes_eu, tomzulu
+- `000120066` — Ambulance — RAVAA Amsterdam ( AED Groep Watergang/Ilpendam ) — sources: capcodes_eu, tomzulu
+- `000120067` — Ambulance — 269 | Middelie / Hobrede / Kwadijk | AED groep — sources: tomzulu
+- `000120068` — Ambulance — RAVAA Amsterdam ( AED Groep Krommenie ) — sources: capcodes_eu, tomzulu
+- `000120069` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120072` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120076` — Ambulance — CPA Amsterdam-Amstelland ( AED Groep Wormer ) — sources: capcodes_eu, tomzulu
+- `000120077` — Ambulance — 278 | Jisp | AED groep — sources: tomzulu
+- `000120078` — Ambulance — 279 | Oostknollendam | AED groep — sources: tomzulu
+- `000120079` — Ambulance — 280 | Spijkerboor | AED groep — sources: tomzulu
+- `000120081` — Ambulance — CPA Amsterdam-Amstelland ( AED Aalsmeer ) — sources: capcodes_eu, tomzulu
+- `000120082` — Ambulance — CPA Amsterdam-Amstelland ( AED Kudelstaart ) — sources: capcodes_eu, tomzulu
+- `000120084` — Ambulance — CPA Amsterdam-Amstelland ( AED Oostzaan ) — sources: capcodes_eu, tomzulu
+- `000120093` — Ambulance — GHOR Amsterdam ( CvDG ) — sources: capcodes_eu, tomzulu
+- `000120113` — Ambulance — RAVAA Amsterdam ( GGD Ambu 13-113 Amsterdam ) — sources: capcodes_eu, tomzulu
+- `000120156` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120158` — Ambulance — 325 | Regionaal | Ambulancelance 13-158 — sources: tomzulu
+- `000120159` — Ambulance — 326 | Regionaal | Ambulancelance 13-159 — sources: tomzulu
+- `000120174` — Ambulance — RAVAA Amsterdam ( VZA Ambu 13-174 Amstelveen ) — sources: capcodes_eu
+- `000120176` — Ambulance — RAVAA Amsterdam ( VZA Ambu 13-176 Amstelveen ) — sources: capcodes_eu, tomzulu
+- `000120177` — Ambulance — RAVAA Amsterdam ( VZA Ambu 13-177 Amstelveen ) — sources: capcodes_eu, tomzulu
+- `000120180` — Ambulance — RAVAA Amsterdam ( VZA Ambu 13-180 Amstelveen ) — sources: capcodes_eu
+- `000120202` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120203` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120204` — Ambulance — RAVAA Amsterdam ( VZA Ambu ??? ) — sources: capcodes_eu, tomzulu
+- `000120205` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120206` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120207` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120208` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120209` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120210` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120211` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120212` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120213` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120214` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120215` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120216` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120217` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120218` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120219` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120220` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120262` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120263` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120264` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120265` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120269` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120270` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120271` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120272` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120273` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120274` — Ambulance — 370 | Westknollendam | AED groep — sources: tomzulu
+- `000120301` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120302` — Ambulance — 372 | Regionaal | Mobiele Intensive Care Unit 13-302 — sources: tomzulu
+- `000120340` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120341` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120342` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120343` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120344` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120345` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120346` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120422` — Ambulance — 380 | Ouderkerk aan de Amstel | AED groep — sources: tomzulu
+- `000120423` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120430` — Ambulance — GHOR Amsterdam ( Ambulanceteam Amsterdam-Amstelland ) — sources: capcodes_eu, tomzulu
+- `000120450` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120502` — Ambulance — 384 | Rode Kruis | Nederlandse Rode Kruis (Leden) — sources: tomzulu
+- `000120590` — Ambulance — 385 | Amsterdam | Special Operations Response Team 13-590 — sources: tomzulu
+- `000120591` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120627` — Ambulance — 387 | Rode Kruis | Noodhulpteam Opkomstlocatie Amsterdam — sources: tomzulu
+- `000120630` — Ambulance — GHOR Amsterdam ( Sigma Amsterdam ) — sources: capcodes_eu, tomzulu
+- `000120632` — Ambulance — 389 | Rode Kruis | Noodhulpteam Opkomstlocatie Oostzaan — sources: tomzulu
+- `000120671` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120701` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120702` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120703` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120704` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120705` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120706` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120707` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120708` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120739` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120770` — Ambulance — RAVAA Amsterdam ( Brug A-10 Zuid Amsterdam ) — sources: capcodes_eu, tomzulu
+- `000120771` — Ambulance — RAVAA Amsterdam ( Brug Zeilstraat Amsterdam ) — sources: capcodes_eu, tomzulu
+- `000120772` — - — 403 | BRUG | Amsterdam-West | Brug Overtoom — sources: tomzulu
+- `000120773` — Ambulance — RAVAA Amsterdam ( Schellingwoudebrug Amsterdam ) — sources: capcodes_eu, tomzulu
+- `000120774` — - — 405 | BRUG | Diemen | Bruggen Diemen — sources: tomzulu
+- `000120775` — Ambulance — RAVAA Amsterdam ( Brug Aalsmeer ) — sources: capcodes_eu, tomzulu
+- `000120776` — - — 407 | BRUG | Vrouwenakker | Brug Vrouwenakker N231 — sources: tomzulu
+- `000120777` — - — 408 | BRUG | Ouderkerk a/d Amstel | Brug Ouderkerk a/d Amstel — sources: tomzulu
+- `000120778` — Ambulance — RAVAA Amsterdam ( Brug Schiphol ) — sources: capcodes_eu, tomzulu
+- `000120779` — Ambulance — RAVAA Amsterdam ( Brug N-201 Uithoorn ) — sources: capcodes_eu, tomzulu
+- `000120780` — - — 411 | BRUG | Amsterdam | Brug IJdoornlaan Amsterdam — sources: tomzulu
+- `000120795` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120800` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120810` — Ambulance — RAVAA Amsterdam ( PSH Team Amstel-Meerlanden ) — sources: capcodes_eu, tomzulu
+- `000120830` — Ambulance — 419 | Regionaal | NRK Noodhulp-Team UGS Amsterdam — sources: tomzulu
+- `000120831` — Ambulance — 420 | Regionaal | NRK Noodhulp-Team UGS Zaanstreek Waterland — sources: tomzulu
+- `000120840` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000120990` — Ambulance — Ambulance Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000123122` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123123` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123124` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123125` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123126` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123127` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123128` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123129` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123130` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123131` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123132` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123133` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123134` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123135` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123136` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123137` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123138` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123139` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123292` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123293` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123296` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123297` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123321` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu
+- `000123322` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu
+- `000123631` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123632` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123633` — Ambulance — 271 | Regionaal | Noodhulp Team) (UGS Volendam) — sources: tomzulu
+- `000123709` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu
+- `000123711` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu
+- `000123713` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu
+- `000123719` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123817` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123818` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123819` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123831` — Ambulance — 276 | Regionaal | Noodhulpteam) — sources: tomzulu
+- `000123889` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000123999` — Ambulance — Ambulance Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000126142` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126144` — Ambulance — CPA Kennemerland ( Ambu 12-144 Haarlem ) — sources: capcodes_eu, tomzulu
+- `000126148` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126149` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126150` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126159` — Ambulance — CPA Kennemerland ( Ambu 12-159 ) — sources: capcodes_eu, tomzulu
+- `000126161` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126162` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126163` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126164` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126165` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126166` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126167` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126171` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126172` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126173` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126240` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126251` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126261` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126298` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126299` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126319` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu
+- `000126341` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126346` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126347` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126348` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126349` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126401` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126402` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126403` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126517` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126720` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu
+- `000126840` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126841` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000126850` — Ambulance — 222 | Regionaal | Dienstvoertuig DPG 12-850 — sources: tomzulu
+- `000126889` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127026` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu
+- `000127060` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127063` — Brandweer — BRW Kennemerland ( ICT Functionaris ) — sources: capcodes_eu, tomzulu
+- `000127065` — Brandweer — BRW Kennemerland ( ICT Functionaris ) — sources: capcodes_eu, tomzulu
+- `000127070` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127075` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127080` — Ambulance — 235 | GMK | GHOR Hoofd ondersteuning — sources: tomzulu
+- `000127095` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127105` — - — 237 | BRW | GMK | Informatiemanager Beleidsteam — sources: tomzulu
+- `000127115` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127120` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127130` — Brandweer — BRW Kennemerland ( Persoonlijke code Piket HOvD Noord ) — sources: capcodes_eu, tomzulu
+- `000127155` — Brandweer — BRW Kennemerland ( Regionaal Functionaris Beleidsteam ) — sources: capcodes_eu, tomzulu
+- `000127165` — - — 242 | BRW | GMK Noord Holland | ICT — sources: tomzulu
+- `000127166` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127195` — - — 247 | BRW | GMK | Adviseur Openbare Orde en Veiligheid Beleidsteam — sources: tomzulu
+- `000127200` — Brandweer — BRW Kennemerland ( Adviseur Communicatie ) — sources: capcodes_eu, tomzulu
+- `000127205` — Brandweer — BRW Kennemerland ( Regionaal Functionaris Beleidsteam ) — sources: capcodes_eu, tomzulu
+- `000127210` — Brandweer — BRW Kennemerland ( Hoofd Sectie Gemeente ) — sources: capcodes_eu, tomzulu
+- `000127215` — - — 251 | BRW | GMK | Gemeentesecretaris Beleidsteam — sources: tomzulu
+- `000127235` — - — 253 | BRW | GMK | Verslagleggers Beleidsteam — sources: tomzulu
+- `000127240` — Brandweer — BRW Kennemerland ( Regionaal Functionaris ) — sources: capcodes_eu, tomzulu
+- `000127245` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127250` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127255` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127260` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127265` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127270` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127280` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127285` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127290` — - — 263 | BRW | GMK | Infocode Boswachters PWN Noordhollands Duinreservaat — sources: tomzulu
+- `000127295` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127300` — - — 265 | MKB | Noord Holland | Techniek binnenstad Haarlem — sources: tomzulu
+- `000127305` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127310` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127315` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127320` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127325` — GHOR — 270 | Regionaal | OvD-G 2 — sources: tomzulu
+- `000127355` — Ambulance — 271 | Regionaal | Noodhulp Team (UGS Ikea Haarlem) — sources: tomzulu
+- `000127365` — - — 274 | POL | Regionaal | Medewerker Algemeen commandant Politiezorg — sources: tomzulu
+- `000127375` — Ambulance — 272 | Regionaal | Noodhulp Team (UGS IJsbaan Haarlem) — sources: tomzulu
+- `000127380` — Ambulance — 275 | Regionaal | Noodhulp Team) (UGS Velsen) — sources: tomzulu
+- `000127385` — Ambulance — 276 | Regionaal | Noodhulp Team (UGS Hoofddorp) — sources: tomzulu
+- `000127390` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127405` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127425` — GHOR — 279 | Regionaal | Inzet Coördinator logistiek en verzorging GHOR — sources: tomzulu
+- `000127440` — - — 280 | BRW | GMK | Liaison Ministerie van Defensie — sources: tomzulu
+- `000127445` — - — 281 | POL | GMK | Decontaminatie — sources: tomzulu
+- `000127460` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127480` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127535` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127545` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127555` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127570` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127580` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127581` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127583` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127588` — - — 291 | GMK | Haarlem | Bollard parkeergarage Raaks-Zijlvest — sources: tomzulu
+- `000127595` — - — 292 | BRW | Heemstede | Gemeentelijk personeel — sources: tomzulu
+- `000127600` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127605` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127620` — - — 295 | BRW | Evenement code | Surveillance Team — sources: tomzulu
+- `000127655` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127665` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127675` — - — 298 | BRW | GMK | Communicatieadviseur Operationeel Team — sources: tomzulu
+- `000127680` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127685` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127690` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127695` — Brandweer — BRW Kennemerland ( Persoonlijke Code Personeel Gem. Heemskerk ) — sources: capcodes_eu
+- `000127705` — - — 302 | BRW | GMK | Omgevingsanalist Actiecentrum Communicatie — sources: tomzulu
+- `000127710` — Brandweer — BRW Kennemerland ( BOT VZA Haarlemmermeer ) — sources: capcodes_eu, tomzulu
+- `000127715` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127727` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127729` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127730` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127731` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127733` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127736` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127737` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127739` — - — 312 | BRW | Haarlem | Techniek binnenstad — sources: tomzulu
+- `000127740` — - — 313 | BRW | Regionaal | Coördinator Staf Bevolkingszorg — sources: tomzulu
+- `000127741` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127743` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127746` — - — 316 | BRW | Haarlem | Techniek binnenstad — sources: tomzulu
+- `000127747` — - — 317 | BRW | Haarlem | Techniek binnenstad — sources: tomzulu
+- `000127750` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127751` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127755` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127757` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127759` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127761` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127763` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127772` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127773` — Brandweer — BRW Kennemerland ( Persoonlijke Code Peroneel Gem. Heemskerk ) — sources: capcodes_eu
+- `000127785` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127796` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127800` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127805` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127810` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127820` — - — 331 | BRW | GMK | GRIP 2 (Infocode) — sources: tomzulu
+- `000127830` — - — 332 | BRW | GMK | GRIP 3 (Infocode) — sources: tomzulu
+- `000127840` — - — 333 | BRW | GMK | GRIP 4 (Infocode) — sources: tomzulu
+- `000127860` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127861` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127863` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127870` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127875` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127880` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127890` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127910` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127919` — - — 344 | BRUG | Buitenkaag | Brugbediening Kaagbrug — sources: tomzulu
+- `000127920` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127927` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127931` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127932` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127933` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127934` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127936` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127938` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu
+- `000127941` — - — 352 | BRW | Regionaal | Dienst BedrijfsBeveiliging (DBB) TATA Steel — sources: tomzulu
+- `000127943` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127944` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127945` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127960` — - — 356 | BRW | Hoofddorp | Bussluis Waddenweg — sources: tomzulu
+- `000127969` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu
+- `000127980` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127981` — Brandweer — BRW Kennemerland ( Monitorcode Communicatie Alarmeringen ) — sources: capcodes_eu, tomzulu
+- `000127985` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000127995` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000128001` — Brandweer — BRW Beverwijk ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000128002` — Brandweer — BRW Bloemendaal ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000128003` — Brandweer — BRW Haarlem ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000128005` — Brandweer — BRW Haarlemmermeer ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000128006` — - — 365 | BRW | Regionaal | Burgemeester gemeente Heemskerk — sources: tomzulu
+- `000128007` — Brandweer — BRW Heemstede ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000128008` — - — 367 | BRW | Regionaal | Burgemeester gemeente Uitgeest — sources: tomzulu
+- `000128009` — Brandweer — BRW Velsen ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000128010` — Brandweer — BRW Zandvoort ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000128021` — Ambulance — CPA Kennemerland ( Adviseur OOV Beverwijk ) — sources: capcodes_eu, tomzulu
+- `000128022` — Ambulance — CPA Kennemerland ( Adviseur OOV Bloemendaal ) — sources: capcodes_eu, tomzulu
+- `000128025` — Ambulance — CPA Kennemerland ( Adviseur OOV Haarlemmermeer ) — sources: capcodes_eu, tomzulu
+- `000128026` — Ambulance — CPA Kennemerland ( Adviseur OOV Heemskerk ) — sources: capcodes_eu, tomzulu
+- `000128027` — Ambulance — CPA Kennemerland ( Adviseur OOV Heemstede ) — sources: capcodes_eu, tomzulu
+- `000128030` — Ambulance — CPA Kennemerland ( Adviseur OOV Zandvoort ) — sources: capcodes_eu, tomzulu
+- `000128081` — Ambulance — CPA Kennemerland ( BWT Functionaris Gemeente Beverwijk ) — sources: capcodes_eu, tomzulu
+- `000128082` — Ambulance — CPA Kennemerland ( BWT Functionaris Gemeente Bloemendaal ) — sources: capcodes_eu, tomzulu
+- `000128085` — Ambulance — CPA Kennemerland ( BWT Functionaris Gemeente Haarlemmermeer ) — sources: capcodes_eu, tomzulu
+- `000128086` — Ambulance — CPA Kennemerland ( BWT Functionaris Gemeente Heemskerk ) — sources: capcodes_eu, tomzulu
+- `000128088` — - — 381 | BRW | gemeente Uitgeest | Bouw- en Woningtoezicht — sources: tomzulu
+- `000128090` — Ambulance — CPA Kennemerland ( BWT Functionaris Gemeente Zandvoort ) — sources: capcodes_eu, tomzulu
+- `000128127` — Ambulance — Ambulance Kennemerland — sources: capcodes_eu, tomzulu
+- `000130004` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000130005` — - — 429 | POL | Regionaal | Team Explosieven Veiligheid — sources: tomzulu
+- `000130700` — - — 431 | POL | Regionaal | Hoofd Officier van Dienst — sources: tomzulu
+- `000130750` — - — 432 | POL | Dienst Regionale InformatieOrganisatie (DRIO) | Officier van dienst intelligence - Real Time Intelligence Center — sources: tomzulu
+- `000130900` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000130980` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000130981` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000130982` — - — 435 | POL | GMK | Piket Beheer — sources: tomzulu
+- `000130990` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000130991` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000130998` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000130999` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu, tomzulu
+- `000131543` — Politie — Politie Amsterdam-Amstelland — sources: capcodes_eu
+- `000133200` — Politie — Politie Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000133204` — - — 280 | POL | Regionaal | Algemeen Commandant Politie — sources: tomzulu
+- `000133206` — - — 281 | POL | Regionaal | Sectie Medewerker Politie — sources: tomzulu
+- `000133208` — Politie — Politie Zaanstreek-Waterland — sources: capcodes_eu
+- `000133212` — Politie — Politie Zaanstreek-Waterland — sources: capcodes_eu, tomzulu
+- `000136091` — Politie — Politie Kennemerland — sources: capcodes_eu
+- `000136999` — Politie — Politie Kennemerland — sources: capcodes_eu, tomzulu
+- `000200001` — Brandweer — BRW NH-Noord ( Monitorcode ) — sources: capcodes_eu
+- `000200098` — Brandweer — BRW NH-Noord ( Hoofd BB/TgB ) — sources: capcodes_eu, tomzulu
+- `000200203` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000200204` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000200282` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000200299` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000200448` — KNRM — 49 | Reddingstation Wijdenes | Reddingboten De Arend en De Gooier — sources: tomzulu
+- `000200458` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000200468` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000200477` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000200498` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000202440` — - — 71 | RB | Reddingsbrigade Texel De Koog | Lifeguards — sources: tomzulu
+- `000202441` — - — 72 | RB | Reddingsbrigade Texel De Koog | Strandploeg — sources: tomzulu
+- `000202442` — - — 73 | RB | Reddingsbrigade Texel De Cocksdorp | Strandploeg — sources: tomzulu
+- `000202658` — Brandweer — Brandweer Noord-Holland Noord — sources: capcodes_eu
+- `000203700` — - — 84 | BRW | Alkmaar | Burgemeester — sources: tomzulu
+- `000203703` — - — 85 | BRW | Alkmaar | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203730` — - — 86 | BRW | Bergen | Burgemeester — sources: tomzulu
+- `000203733` — - — 87 | BRW | Bergen | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203740` — - — 88 | BRW | Castricum | Burgemeester — sources: tomzulu
+- `000203750` — - — 89 | BRW | Den Helder | Burgemeester — sources: tomzulu
+- `000203753` — - — 90 | BRW | Den Helder | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203760` — - — 91 | BRW | Drechterland | Burgemeester — sources: tomzulu
+- `000203763` — - — 92 | BRW | Drechterland | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203770` — - — 93 | BRW | Enkhuizen | Burgemeester — sources: tomzulu
+- `000203773` — - — 94 | BRW | Enkhuizen | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203800` — - — 95 | BRW | Hoorn | Burgemeester — sources: tomzulu
+- `000203803` — - — 96 | BRW | Hoorn | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203810` — - — 97 | BRW | gemeente Dijk en Waard | Burgemeester — sources: tomzulu
+- `000203813` — - — 98 | BRW | gemeente Dijk en Waard | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203820` — - — 99 | BRW | Heiloo | Burgemeester — sources: tomzulu
+- `000203840` — - — 100 | BRW | Medemblik | Burgemeester — sources: tomzulu
+- `000203843` — - — 101 | BRW | Medemblik | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203880` — Brandweer — BRW Opmeer ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000203890` — Brandweer — BRW Schagen ( Burgemeester ) — sources: capcodes_eu, tomzulu
+- `000203893` — Brandweer — BRW Schagen ( Ambtenaar OOV ) — sources: capcodes_eu, tomzulu
+- `000203910` — - — 105 | BRW | Bovenkarspel (Stedebroec) | Burgemeester — sources: tomzulu
+- `000203913` — - — 106 | BRW | Bovenkarspel (Stedebroec) | Ambtenaar Openbare Veiligheid — sources: tomzulu
+- `000203920` — - — 107 | BRW | Texel | Burgemeester — sources: tomzulu
+- `000203940` — - — 108 | BRW | Koggenland | Burgemeester — sources: tomzulu
+- `000203943` — - — 109 | BRW | Koggenland | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000203950` — - — 110 | BRW | Hollands Kroon | Burgemeester — sources: tomzulu
+- `000203953` — - — 111 | BRW | Hollands Kroon | Ambtenaar openbare orde en veiligheid — sources: tomzulu
+- `000204001` — - — 112 | BRW | Alkmaar Centrum | Kazerne Coördinator — sources: tomzulu
+- `000204002` — - — 113 | BRW | Koedijk | Kazerne Coördinator — sources: tomzulu
+- `000204003` — - — 114 | BRW | Graft-de-Rijp | Kazerne Coördinator — sources: tomzulu
+- `000204005` — - — 115 | BRW | Stompetoren | Kazerne Coördinator — sources: tomzulu
+- `000204006` — - — 116 | BRW | Castricum | Kazerne Coördinator — sources: tomzulu
+- `000204007` — - — 117 | BRW | Akersloot | Kazerne Coördinator — sources: tomzulu
+- `000204008` — - — 118 | BRW | Limmen | Kazerne Coördinator — sources: tomzulu
+- `000204010` — - — 119 | BRW | Bergen | Kazerne Coördinator — sources: tomzulu
+- `000204011` — - — 120 | BRW | Schoorl | Kazerne Coördinator — sources: tomzulu
+- `000204012` — - — 121 | BRW | Groet | Kazerne Coördinator — sources: tomzulu
+- `000204013` — - — 122 | BRW | Egmond aan Zee | Kazerne Coördinator — sources: tomzulu
+- `000204014` — - — 123 | BRW | Heiloo | Kazerne Coördinator — sources: tomzulu
+- `000204041` — - — 124 | BRW | Alkmaar | Coördinator Verzorgingsploeg — sources: tomzulu
+- `000204101` — - — 125 | BRW | Alkmaar-Centrum | Bezetting TS Beroeps — sources: tomzulu
+- `000204102` — - — 126 | BRW | Koedijk | Bezetting TS — sources: tomzulu
+- `000204103` — - — 127 | BRW | De Rijp | Bezetting TS — sources: tomzulu
+- `000204105` — - — 128 | BRW | Stompetoren | Bezetting TS — sources: tomzulu
+- `000204106` — - — 129 | BRW | Castricum | Bezetting TS — sources: tomzulu
+- `000204107` — - — 130 | BRW | Akersloot | Bezetting TS — sources: tomzulu
+- `000204108` — - — 131 | BRW | Limmen | Bezetting TS — sources: tomzulu
+- `000204110` — - — 132 | BRW | Bergen | Bezetting TS — sources: tomzulu
+- `000204111` — - — 133 | BRW | Schoorl | Bezetting TS — sources: tomzulu
+- `000204112` — - — 134 | BRW | Groet | Bezetting TS — sources: tomzulu
+- `000204113` — - — 135 | BRW | Egmond aan Zee | Bezetting TS — sources: tomzulu
+- `000204114` — - — 136 | BRW | Heiloo | Bezetting TS — sources: tomzulu
+- `000204121` — - — 137 | BRW | Alkmaar-Centrum | Bezetting TS Vrijwilligers — sources: tomzulu
+- `000204123` — - — 138 | BRW | De Rijp | Bezetting SI — sources: tomzulu
+- `000204130` — - — 139 | BRW | Bergen | Dagdienst — sources: tomzulu
+- `000204131` — - — 140 | BRW | Schoorl | Dagdienst — sources: tomzulu
+- `000204133` — - — 141 | BRW | Egmond aan Zee | Dagdienst — sources: tomzulu
+- `000204361` — - — 142 | BRW | Alkmaar-Centrum | Lichtkrant — sources: tomzulu
+- `000204362` — - — 143 | BRW | Koedijk | Lichtkrant — sources: tomzulu
+- `000204363` — - — 144 | BRW | De Rijp | Lichtkrant — sources: tomzulu
+- `000204365` — - — 145 | BRW | Stompetoren | Lichtkrant — sources: tomzulu
+- `000204366` — - — 146 | BRW | Castricum | Lichtkrant — sources: tomzulu
+- `000204367` — - — 147 | BRW | Akersloot | Lichtkrant — sources: tomzulu
+- `000204368` — - — 148 | BRW | Limmen | Lichtkrant — sources: tomzulu
+- `000204370` — - — 149 | BRW | Bergen | Lichtkrant — sources: tomzulu
+- `000204371` — - — 150 | BRW | Schoorl | Lichtkrant — sources: tomzulu
+- `000204372` — - — 151 | BRW | Groet | Lichtkrant — sources: tomzulu
+- `000204373` — - — 152 | BRW | Egmond aan Zee | Lichtkrant — sources: tomzulu
+- `000204374` — - — 153 | BRW | Heiloo | Lichtkrant — sources: tomzulu
+- `000204401` — - — 154 | BRW | Den Helder | Kazerne Coördinator — sources: tomzulu
+- `000204402` — - — 155 | BRW | Julianadorp | Kazerne Coördinator — sources: tomzulu
+- `000204403` — - — 156 | BRW | Wieringerwerf | Kazerne Coördinator — sources: tomzulu
+- `000204404` — - — 157 | BRW | Anna Paulowna | Kazerne Coördinator — sources: tomzulu
+- `000204405` — - — 158 | BRW | Breezand | Kazerne Coördinator — sources: tomzulu
+- `000204406` — - — 159 | BRW | Den Oever | Kazerne Coördinator — sources: tomzulu
+- `000204407` — - — 160 | BRW | Hippolytushoef | Kazerne Coördinator — sources: tomzulu
+- `000204408` — - — 161 | BRW | Middenmeer | Kazerne Coördinator — sources: tomzulu
+- `000204409` — - — 162 | BRW | Slootdorp | Kazerne Coördinator — sources: tomzulu
+- `000204410` — - — 163 | BRW | Anna Paulowna | Kazerne Coördinator — sources: tomzulu
+- `000204411` — - — 164 | BRW | Winkel | Kazerne Coördinator — sources: tomzulu
+- `000204412` — - — 165 | BRW | Den Burg | Kazerne Coördinator — sources: tomzulu
+- `000204413` — - — 166 | BRW | De Cocksdorp | Kazerne Coördinator — sources: tomzulu
+- `000204421` — - — 167 | BRW | Den Helder | Kazerne Coördinator vrijwilligers — sources: tomzulu
+- `000204439` — - — 168 | BRW | Korps Marinebrandweer | Sectie Nieuwe Haven Den Helder Piket Officier — sources: tomzulu
+- `000204472` — - — 169 | BRW | Texel | Staatsbosbeheer — sources: tomzulu
+- `000204501` — - — 170 | BRW | Den Helder | Bezetting TS Beroeps — sources: tomzulu
+- `000204502` — - — 171 | BRW | Julianadorp | Bezetting TS — sources: tomzulu
+- `000204503` — - — 172 | BRW | Wieringerwerf | Bezetting TS — sources: tomzulu
+- `000204504` — - — 173 | BRW | Anna Paulowna | Bezetting TS — sources: tomzulu
+- `000204505` — - — 174 | BRW | Breezand | Bezetting TS — sources: tomzulu
+- `000204506` — - — 175 | BRW | Den Oever | Bezetting TS — sources: tomzulu
+- `000204507` — - — 176 | BRW | Hippolytushoef | Bezetting TS — sources: tomzulu
+- `000204508` — - — 177 | BRW | Middenmeer | Bezetting TS — sources: tomzulu
+- `000204509` — - — 178 | BRW | Slootdorp | Bezetting TS — sources: tomzulu
+- `000204510` — - — 179 | BRW | Wieringerwaard | Bezetting TS — sources: tomzulu
+- `000204511` — - — 180 | BRW | Winkel | Bezetting TS — sources: tomzulu
+- `000204512` — - — 181 | BRW | Den Burg | Bezetting TS — sources: tomzulu
+- `000204513` — - — 182 | BRW | De Cocksdorp | Bezetting TS — sources: tomzulu
+- `000204518` — - — 183 | BRW | Texel | Texels Eigen Stoomboot Onderneming (Patientenvervoer) — sources: tomzulu
+- `000204519` — - — 184 | BRW | Korps Marine Brandweer Den Helder | Sectie Nieuwe Haven (Kazernealarm + Bezetting TS) — sources: tomzulu
+- `000204521` — - — 185 | BRW | Den Helder | Bezetting TS Vrijwilligers — sources: tomzulu
+- `000204532` — - — 186 | BRW | Den Burg | Bezetting TST-NB — sources: tomzulu
+- `000204801` — - — 187 | BRW | Heerhugowaard-Centrum | Kazerne Coördinator ANW Ploeg — sources: tomzulu
+- `000204802` — - — 188 | BRW | Heerhugowaard De Noord | Kazerne Coördinator — sources: tomzulu
+- `000204803` — - — 189 | BRW | Schagen | Kazerne Coördinator — sources: tomzulu
+- `000204804` — - — 190 | BRW | Callantsoog | Kazerne Coördinator — sources: tomzulu
+- `000204805` — - — 191 | BRW | Dirkshorn | Kazerne Coördinator — sources: tomzulu
+- `000204806` — - — 192 | BRW | Schagerbrug | Kazerne Coördinator — sources: tomzulu
+- `000204807` — - — 193 | BRW | Harenkarspel | Kazerne Coördinator — sources: tomzulu
+- `000204808` — - — 194 | BRW | Avenhorn | Kazerne Coördinator — sources: tomzulu
+- `000204809` — - — 195 | BRW | Berkhout | Kazerne Coördinator — sources: tomzulu
+- `000204810` — - — 196 | BRW | Obdam | Kazerne Coördinator — sources: tomzulu
+- `000204811` — - — 197 | BRW | Ursem | Kazerne Coördinator — sources: tomzulu
+- `000204812` — - — 198 | BRW | Zuid-Scharwoude | Kazerne Coördinator — sources: tomzulu
+- `000204813` — - — 199 | BRW | Noord-Scharwoude | Kazerne Coördinator — sources: tomzulu
+- `000204814` — - — 200 | BRW | Opmeer | Kazerne Coördinator — sources: tomzulu
+- `000204821` — - — 201 | BRW | Heerhugowaard-Centrum | Kazerne Coördinator Dagdienst Ploeg — sources: tomzulu
+- `000204901` — - — 202 | BRW | Heerhugowaard-Centrum | Bezetting TS ANW — sources: tomzulu
+- `000204902` — - — 203 | BRW | Heerhugowaard De Noord | Bezetting TS — sources: tomzulu
+- `000204903` — - — 204 | BRW | Schagen | Bezetting TS — sources: tomzulu
+- `000204904` — - — 205 | BRW | Callantsoog | Bezetting TS — sources: tomzulu
+- `000204905` — - — 206 | BRW | Dirkshorn | Bezetting TS — sources: tomzulu
+- `000204906` — - — 207 | BRW | Schagerbrug | Bezetting TS — sources: tomzulu
+- `000204907` — - — 208 | BRW | Warmenhuizen | Bezetting TS — sources: tomzulu
+- `000204908` — - — 209 | BRW | Avenhorn | Bezetting TS — sources: tomzulu
+- `000204909` — - — 210 | BRW | Berkhout | Bezetting TS — sources: tomzulu
+- `000204910` — - — 211 | BRW | Obdam | Bezetting TS — sources: tomzulu
+- `000204911` — - — 212 | BRW | Ursem | Bezetting TS — sources: tomzulu
+- `000204912` — - — 213 | BRW | Zuid-Scharwoude | Bezetting TS — sources: tomzulu
+- `000204913` — - — 214 | BRW | Noord-Scharwoude | Bezetting TS — sources: tomzulu
+- `000204914` — - — 215 | BRW | Opmeer | Bezetting TS — sources: tomzulu
+- `000204921` — - — 216 | BRW | Heerhugowaard-Centrum | Bezetting TS dagdienst — sources: tomzulu
+- `000204941` — - — 217 | BRW | Heerhugowaard-Centrum | Bezetting 2e TS — sources: tomzulu
+- `000205061` — - — 218 | BRW | Middenmeer | Brug bediening Schagerbrug N248 — sources: tomzulu
+- `000205161` — - — 219 | BRW | Heerhugowaard-Centrum | Lichtkrant — sources: tomzulu
+- `000205162` — - — 220 | BRW | Heerhugowaard De Noord | Lichtkrant — sources: tomzulu
+- `000205172` — - — 221 | BRW | Zuid-Scharwoude | Lichtkrant — sources: tomzulu
+- `000205173` — - — 222 | BRW | Noord-Scharwoude | Lichtkrant — sources: tomzulu
+- `000205201` — - — 223 | BRW | Hoorn | Kazerne Coördinator ANW Ploeg — sources: tomzulu
+- `000205202` — - — 224 | BRW | Blokker | Kazerne Coördinator — sources: tomzulu
+- `000205203` — - — 225 | BRW | Zwaag | Kazerne Coördinator — sources: tomzulu
+- `000205204` — - — 226 | BRW | Medemblik | Kazerne Coördinator — sources: tomzulu
+- `000205205` — - — 227 | BRW | Abbekerk | Kazerne Coördinator — sources: tomzulu
+- `000205206` — - — 228 | BRW | Andijk | Kazerne Coördinator — sources: tomzulu
+- `000205207` — - — 229 | BRW | Nibbixwoud | Kazerne Coördinator — sources: tomzulu
+- `000205208` — - — 230 | BRW | Wervershoof | Kazerne Coördinator — sources: tomzulu
+- `000205209` — - — 231 | BRW | Wognum | Kazerne Coördinator — sources: tomzulu
+- `000205210` — - — 232 | BRW | Bovenkarspel (Stedebroec) | Kazerne Coördinator — sources: tomzulu
+- `000205211` — - — 233 | BRW | Hen/Venhuizen | Kazerne Coördinator — sources: tomzulu
+- `000205212` — - — 234 | BRW | Westwoud | Kazerne Coördinator — sources: tomzulu
+- `000205213` — - — 235 | BRW | Enkhuizen | Kazerne Coördinator — sources: tomzulu
+- `000205221` — - — 236 | BRW | Hoorn | Kazerne Coördinator Dagdienst Ploeg — sources: tomzulu
+- `000205301` — - — 237 | BRW | Hoorn | Bezetting TS - Vrijwilligers — sources: tomzulu
+- `000205302` — - — 238 | BRW | Blokker | Bezetting TS - ANW Ploeg — sources: tomzulu
+- `000205303` — - — 239 | BRW | Zwaag | Bezetting TS - ANW Ploeg — sources: tomzulu
+- `000205304` — - — 240 | BRW | Medemblik | Bezetting TS — sources: tomzulu
+- `000205305` — - — 241 | BRW | Abbekerk | Bezetting TS — sources: tomzulu
+- `000205306` — - — 242 | BRW | Andijk | Bezetting TS — sources: tomzulu
+- `000205307` — - — 243 | BRW | Nibbixwoud | Bezetting TS — sources: tomzulu
+- `000205308` — - — 244 | BRW | Wervershoof | Bezetting TS — sources: tomzulu
+- `000205309` — - — 245 | BRW | Wognum | Bezetting TS — sources: tomzulu
+- `000205310` — - — 246 | BRW | Bovenkarspel (Stedebroec) | Bezetting TS — sources: tomzulu
+- `000205311` — - — 247 | BRW | Hen/Venhuizen | Bezetting TS — sources: tomzulu
+- `000205312` — - — 248 | BRW | Westwoud | Bezetting TS — sources: tomzulu
+- `000205313` — - — 249 | BRW | Enkhuizen | Bezetting TS — sources: tomzulu
+- `000205321` — - — 250 | BRW | Hoorn | Kazerneploeg — sources: tomzulu
+- `000205323` — - — 251 | BRW | Zwaag | Bezetting TS dagdienst — sources: tomzulu
+- `000205563` — - — 252 | BRW | Zwaag | Lichtkrant — sources: tomzulu
+- `000205564` — - — 253 | BRW | Medemblik | Lichtkrant — sources: tomzulu
+- `000205565` — - — 254 | BRW | Abbekerk | Lichtkrant — sources: tomzulu
+- `000205566` — - — 255 | BRW | Andijk | Lichtkrant — sources: tomzulu
+- `000205567` — - — 256 | BRW | Nibbixwoud | Lichtkrant — sources: tomzulu
+- `000205568` — - — 257 | BRW | Wervershoof | Lichtkrant — sources: tomzulu
+- `000205569` — - — 258 | BRW | Wognum | Lichtkrant — sources: tomzulu
+- `000205570` — - — 259 | BRW | Bovenkarspel (Stedebroec) | Lichtkrant — sources: tomzulu
+- `000205571` — - — 260 | BRW | Hen/Venhuizen | Lichtkrant — sources: tomzulu
+- `000205572` — - — 261 | BRW | Westwoud | Lichtkrant — sources: tomzulu
+- `000205573` — - — 262 | BRW | Enkhuizen | Lichtkrant — sources: tomzulu
+- `000205601` — - — 263 | BRW | Regionaal | CoPI (GRIP 1) — sources: tomzulu
+- `000205602` — - — 264 | BRW | Regionaal | CoPI (GRIP 2) — sources: tomzulu
+- `000205603` — - — 265 | BRW | Regionaal | CoPI (GRIP 3) — sources: tomzulu
+- `000205613` — - — 266 | BRW | Regionaal | Omgevingsdienst Oost Milieupiket — sources: tomzulu
+- `000205614` — - — 267 | BRW | Regionaal | Omgevingsdienst West Milieupiket — sources: tomzulu
+- `000205615` — - — 268 | BRW | Regionaal | Omgevingsdienst Oost — sources: tomzulu
+- `000205616` — - — 269 | BRW | Regionaal | Omgevingsdienst West — sources: tomzulu
+- `000205617` — - — 270 | BRW | Regionaal | Piket ICT — sources: tomzulu
+- `000205618` — - — 271 | BRW | Regionaal | Dares Coordinator — sources: tomzulu
+- `000205619` — - — 272 | BRW | Regionaal | Dares Groepscode — sources: tomzulu
+- `000205620` — - — 273 | BRW | Regionaal | Directeur van Dienst — sources: tomzulu
+- `000205621` — - — 274 | BRW | Regionaal | Piket Operationeel Leider — sources: tomzulu
+- `000205622` — - — 275 | BRW | Regionaal | Stafsectie Brandweerzorg — sources: tomzulu
+- `000205623` — - — 276 | BRW | Regionaal | Algemeen Commandant Brandweerzorg — sources: tomzulu
+- `000205625` — - — 277 | BRW | Voorlichter van Dienst — sources: tomzulu
+- `000205627` — - — 278 | BRW | Regionaal | Team Brandonderzoek — sources: tomzulu
+- `000205628` — - — 279 | BRW | Regionaal | Informatiemanager CoPI — sources: tomzulu
+- `000205629` — - — 280 | BRW | Regionaal | Informatiemanager Bevolkingszorg — sources: tomzulu
+- `000205630` — - — 281 | BRW | Regionaal | Algemeen Commandant Bevolkingszorg — sources: tomzulu
+- `000205632` — - — 282 | BRW | Regionaal | GEO Informatiemanager CoPI — sources: tomzulu
+- `000205633` — - — 283 | BRW | Regionaal | Leider CoPI — sources: tomzulu
+- `000205636` — - — 284 | BRW | Regionaal | Teammanager Regio Alkmaar — sources: tomzulu
+- `000205637` — - — 285 | BRW | Regionaal | Teammanager Noord — sources: tomzulu
+- `000205639` — - — 286 | BRW | Regionaal | Teammanager West-Friesland — sources: tomzulu
+- `000205641` — - — 287 | BRW | Regionaal | HOvD West — sources: tomzulu
+- `000205642` — - — 288 | BRW | Regionaal | HOvD Oost — sources: tomzulu
+- `000205651` — - — 289 | BRW | Regionaal | OvD (Texel) — sources: tomzulu
+- `000205652` — - — 290 | BRW | Regionaal | OvD (Noord) — sources: tomzulu
+- `000205653` — - — 291 | BRW | Regionaal | OvD (Centrum) — sources: tomzulu
+- `000205654` — - — 292 | BRW | Regionaal | OvD (Oost) — sources: tomzulu
+- `000205655` — - — 293 | BRW | Regionaal | OvD (Zuid) — sources: tomzulu
+- `000205658` — - — 294 | BRW | Regionaal | OvD Bevolkingszorg — sources: tomzulu
+- `000205669` — - — 295 | BRW | Regionaal | Coördinator Acute Herstelzorg — sources: tomzulu
+- `000205674` — - — 296 | BRW | Regionaal | Pelotonscommandant IBGS 600 — sources: tomzulu
+- `000205675` — - — 297 | BRW | Regionaal | Pelotonscommandant Logistiek — sources: tomzulu
+- `000205682` — - — 298 | BRW | Den Burg | Verkenningseenheid — sources: tomzulu
+- `000205683` — - — 299 | BRW | Dirkshorn | Verkenningseenheid — sources: tomzulu
+- `000205684` — - — 300 | BRW | Heiloo | Verkenningseenheid — sources: tomzulu
+- `000205686` — - — 301 | BRW | Westwoud | Verkenningseenheid — sources: tomzulu
+- `000205687` — - — 302 | BRW | Anna Paulowna | Verkenningseenheid — sources: tomzulu
+- `000205688` — - — 303 | BRW | Berkhout | Verkenningseenheid — sources: tomzulu
+- `000205689` — - — 304 | BRW | Anna Paulowna | TDV Onderwater drone — sources: tomzulu
+- `000205695` — - — 305 | BRW | Regionaal | Adviseur Gevaarlijke Stoffen 10-6521 — sources: tomzulu
+- `000205696` — - — 306 | BRW | Regionaal | Coördinator Verkenningseenheden — sources: tomzulu
+- `000205701` — - — 307 | BRW | Den Burg | Bemanning HA — sources: tomzulu
+- `000205702` — - — 308 | BRW | Den Helder | Transport Ploeg — sources: tomzulu
+- `000205703` — - — 309 | BRW | Winkel | Transport Ploeg — sources: tomzulu
+- `000205704` — - — 310 | BRW | Enkhuizen | Transport Ploeg — sources: tomzulu
+- `000205705` — - — 311 | BRW | Blokker | Transport Ploeg ANW — sources: tomzulu
+- `000205706` — - — 312 | BRW | Stompetoren | Bezetting HA — sources: tomzulu
+- `000205707` — - — 313 | BRW | Koedijk | Bezetting HA — sources: tomzulu
+- `000205708` — - — 314 | BRW | Zuid-Scharwoude | Bezetting HA — sources: tomzulu
+- `000205711` — - — 315 | BRW | Den Burg | Bezetting HW — sources: tomzulu
+- `000205712` — - — 316 | BRW | Den Helder | Bezetting HW — sources: tomzulu
+- `000205713` — - — 317 | BRW | Enkhuizen | Bezetting HW — sources: tomzulu
+- `000205714` — - — 318 | BRW | Hoorn | Bezetting HW ANW — sources: tomzulu
+- `000205715` — - — 319 | BRW | Heerhugowaard-Centrum | Bezetting HW — sources: tomzulu
+- `000205716` — - — 320 | BRW | Alkmaar Centrum | Bezetting HW — sources: tomzulu
+- `000205721` — - — 321 | BRW | Schagen | Bezetting HV-KR — sources: tomzulu
+- `000205722` — - — 322 | BRW | Wognum | Chauffeurs/Kraanbedieners HV-KR — sources: tomzulu
+- `000205723` — - — 323 | BRW | Alkmaar Centrum | Bezetting HV-KR — sources: tomzulu
+- `000205725` — - — 324 | BRW | Blokker | Bezetting HA Dagdienst Ploeg — sources: tomzulu
+- `000205731` — - — 325 | BRW | Hoorn | Duikploeg — sources: tomzulu
+- `000205732` — - — 326 | BRW | Heerhugowaard-Centrum | Duikploeg — sources: tomzulu
+- `000205734` — - — 327 | BRW | Hoorn | Bezetting HW Dagdienst — sources: tomzulu
+- `000205740` — - — 328 | BRW | Opmeer | Bezetting SB-BA — sources: tomzulu
+- `000205741` — - — 329 | BRW | Den Burg | Bezetting WT — sources: tomzulu
+- `000205742` — - — 330 | BRW | Egmond aan Zee | Bezetting WT — sources: tomzulu
+- `000205752` — - — 331 | BRW | Alkmaar Centrum | Duikploeg — sources: tomzulu
+- `000205764` — - — 332 | BRW | Hoorn | Ondersteuningsploeg GW - DAG — sources: tomzulu
+- `000205771` — - — 333 | BRW | Zuid-Scharwoude | Waterwinploeg — sources: tomzulu
+- `000205772` — - — 334 | BRW | Den Helder | Ondersteuningsteam Grootschalige Watervoorziening — sources: tomzulu
+- `000205773` — - — 335 | BRW | Winkel | Ondersteuningsteam Grootschalige Watervoorziening — sources: tomzulu
+- `000205774` — - — 336 | BRW | Hoorn | Ondersteuningsteam Grootschalige Watervoorziening — sources: tomzulu
+- `000205775` — - — 337 | BRW | Koedijk | Ondersteuningsteam Grootschalige Watervoorziening — sources: tomzulu
+- `000205776` — - — 338 | BRW | Bovenkarspel (Stedebroec) | Ondersteuningsteam Grootschalige Watervoorziening — sources: tomzulu
+- `000205777` — - — 339 | BRW | Den Burg | Opbouwploeg WTS — sources: tomzulu
+- `000205781` — - — 340 | BRW | Den Helder | DPH-GW 10-6562 — sources: tomzulu
+- `000205782` — - — 341 | BRW | Alkmaar Centrum | Bezetting HA + DPH-GW — sources: tomzulu
+- `000205785` — - — 342 | BRW | Den Burg | DPH-GW 10-6561 — sources: tomzulu
+- `000205786` — - — 343 | BRW | Winkel | Bedieners DPH-GW 10-6563 — sources: tomzulu
+- `000205787` — - — 344 | BRW | Bovenkarspel (Stedebroec) | DPH-GW 10-6564 — sources: tomzulu
+- `000205788` — - — 345 | BRW | Blokker | Bedieners DPH-GW 10-6565 — sources: tomzulu
+- `000205789` — - — 346 | BRW | Zuid-Scharwoude | Bedieners DPH-GW 10-6567 — sources: tomzulu
+- `000205799` — - — 347 | BRW | Zuid-Scharwoude | Bemanning HA/SO — sources: tomzulu
+- `000205803` — - — 348 | BRW | Zuid-Scharwoude | Bedieners LIH-RTV — sources: tomzulu
+- `000205805` — - — 349 | BRW | Stompetoren | Adembeschermingshaakarmbak — sources: tomzulu
+- `000205814` — - — 350 | BRW | Obdam | Chauffeur/Bedienaar CO-MU — sources: tomzulu
+- `000205821` — - — 351 | BRW | Alkmaar Centrum | Verzorgingsploeg — sources: tomzulu
+- `000205829` — - — 352 | BRW | Regionaal | Technische Dienst — sources: tomzulu
+- `000205830` — - — 353 | BRW | Texel | Ademlucht- en Arbeidshygiëne Dienst — sources: tomzulu
+- `000205831` — - — 354 | BRW | Team Noordkop | Ademlucht- en Arbeidshygiëne Dienst — sources: tomzulu
+- `000205832` — - — 355 | BRW | Team West Friesland | Ademlucht- en Arbeidshygiëne Dienst — sources: tomzulu
+- `000205833` — - — 356 | BRW | Team Alkmaar | Ademlucht- en Arbeidshygiëne Dienst — sources: tomzulu
+- `000205837` — - — 357 | BRW | Regionaal | Geo Informatie Manager Coördinatieteam Plaats Incident — sources: tomzulu
+- `000205861` — - — 358 | BRW | Zuid-Scharwoude | Bezetting Brandweer Vaartuig (BRV) — sources: tomzulu
+- `000205862` — - — 359 | BRW | Akersloot | Brandweer Vaartuig (BRV) — sources: tomzulu
+- `000205881` — - — 360 | BRW | Den Burg | Natuurbrand Verkenners — sources: tomzulu
+- `000205883` — - — 361 | BRW | Bergen | Natuurbrand Verkenners — sources: tomzulu
+- `000205884` — - — 362 | BRW | Castricum | Natuurbrand Verkenners — sources: tomzulu
+- `000205885` — - — 363 | BRW | Egmond aan Zee | Natuurbrand Verkenners — sources: tomzulu
+- `000205886` — - — 364 | BRW | Schoorl | Natuurbrand Verkenners — sources: tomzulu
+- `000205887` — - — 365 | BRW | Den Helder | Natuurbrand Verkenners — sources: tomzulu
+- `000205888` — - — 366 | BRW | Callantsoog | Natuurbrand Verkenners — sources: tomzulu
+- `000205892` — - — 367 | BRW | Den Helder | Bezetting SAA — sources: tomzulu
+- `000205893` — - — 368 | BRW | Bergen | Bezetting SAA — sources: tomzulu
+- `000205896` — - — 369 | BRW | Team Alkmaar | Monitor — sources: tomzulu
+- `000205897` — - — 370 | BRW | Team Noordkop | Monitor — sources: tomzulu
+- `000205899` — - — 371 | BRW | Team Westfriesland | Monitor — sources: tomzulu
+- `000220000` — Ambulance — CPA NH-Noord ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `000220110` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220117` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220118` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220119` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu
+- `000220180` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220185` — Ambulance — CPA NH-Noord ( Ambulance 10-185 West ) — sources: capcodes_eu, tomzulu
+- `000220192` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220201` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220202` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220211` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220212` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220270` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu
+- `000220271` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu
+- `000220272` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220280` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220281` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220294` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220295` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220340` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220343` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220344` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220345` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220432` — Ambulance — 420 | Regionaal | Laagcomplexe ZorgAmbulancelance 10-432 — sources: tomzulu
+- `000220433` — Ambulance — 421 | Regionaal | Laagcomplexe ZorgAmbulancelance 10-433 — sources: tomzulu
+- `000220434` — Ambulance — 422 | Regionaal | Laagcomplexe ZorgAmbulancelance 10-434 — sources: tomzulu
+- `000220741` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220742` — Ambulance — 428 | Regionaal | Achterwacht Witte kruis — sources: tomzulu
+- `000220814` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220815` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220831` — Ambulance — GHOR NH-Noord ( Sigma Noord-Kennemerland ) — sources: capcodes_eu, tomzulu
+- `000220832` — Ambulance — 437 | Regionaal | NRK Noodhulp-Team UGS Schagerbrug — sources: tomzulu
+- `000220833` — Ambulance — GHOR NH-Noord ( Sigma West-Friesland ) — sources: capcodes_eu, tomzulu
+- `000220834` — Ambulance — 439 | Regionaal | NRK Noodhulp-Team UGS Den Burg Texel — sources: tomzulu
+- `000220841` — Ambulance — GHOR NH-Noord ( HS GHOR ) — sources: capcodes_eu, tomzulu
+- `000220856` — Ambulance — GHOR NH-Noord ( Hoofd Actiecentrum ) — sources: capcodes_eu, tomzulu
+- `000220857` — Ambulance — 442 | Regionaal | Operationeel Medewerker Actiecentrum — sources: tomzulu
+- `000220889` — Ambulance — Ambulance Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000220899` — Ambulance — GHOR NH-Noord ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000230106` — - — 447 | POL | Regionaal | Functionaris GBT Gemeentelijk Beleidsteam — sources: tomzulu
+- `000230111` — Politie — Politie Noord-Holland Noord — sources: capcodes_eu, tomzulu
+- `000230116` — - — 449 | POL | Regionaal | Functionaris ROT Regionaal Operationeel team — sources: tomzulu
+- `000300010` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300011` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300020` — Brandweer — BRW Friesland ( HOVD ROGS Zuid ) — sources: capcodes_eu, tomzulu
+- `000300021` — Brandweer — BRW Friesland ( HOvD ROGS Zuid Dienstdoende Functionaris ) — sources: capcodes_eu, tomzulu
+- `000300022` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300030` — Brandweer — BRW Friesland — sources: capcodes_eu, tomzulu
+- `000300031` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300041` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300042` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300050` — Brandweer — BRW Friesland ( Technische Dienst en Beheer MKF ) — sources: capcodes_eu, tomzulu
+- `000300051` — Brandweer — BRW Friesland ( Technische Dienst en Beheer MKF ) — sources: capcodes_eu, tomzulu
+- `000300060` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300061` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300070` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300072` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300078` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000300079` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302001` — - — 22 | BRW | Buitenpost | Kazernealarm — sources: tomzulu
+- `000302002` — - — 23 | BRW | Drogeham | Kazernealarm — sources: tomzulu
+- `000302003` — - — 24 | BRW | Surhuisterveen | Kazernealarm — sources: tomzulu
+- `000302004` — - — 25 | BRW | Hollum | Postalarm — sources: tomzulu
+- `000302005` — - — 26 | BRW | Nes | Postalarm — sources: tomzulu
+- `000302006` — - — 27 | BRW | Akkrum | Kazernealarm — sources: tomzulu
+- `000302007` — - — 28 | BRW | Grou | Kazernealarm — sources: tomzulu
+- `000302008` — - — 29 | BRW | Bolsward | Kazernealarm — sources: tomzulu
+- `000302009` — - — 30 | BRW | Damwoude | Kazernealarm — sources: tomzulu
+- `000302010` — - — 31 | BRW | Zwaagwesteinde | Kazernealarm — sources: tomzulu
+- `000302011` — - — 32 | BRW | Anjum | Kazernealarm — sources: tomzulu
+- `000302012` — - — 33 | BRW | Dokkum | Kazernealarm — sources: tomzulu
+- `000302013` — - — 34 | BRW | Ternaard | Kazernealarm — sources: tomzulu
+- `000302014` — Brandweer — BRW Ferwerd ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000302015` — - — 36 | BRW | Hallum | Kazernealarm — sources: tomzulu
+- `000302016` — Brandweer — BRW Franeker ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000302017` — - — 38 | BRW | Bakhuizen | Kazernealarm — sources: tomzulu
+- `000302018` — - — 39 | BRW | Balk | Kazernealarm — sources: tomzulu
+- `000302019` — - — 40 | BRW | Sloten | Kazernealarm — sources: tomzulu
+- `000302020` — - — 41 | BRW | Harlingen | Kazernealarm — sources: tomzulu
+- `000302021` — - — 42 | BRW | Heerenveen | Kazernealarm — sources: tomzulu
+- `000302022` — - — 43 | BRW | Jubbega | Kazernealarm — sources: tomzulu
+- `000302023` — Brandweer — BRW Nieuwehorne ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000302024` — - — 45 | BRW | Tjalleberd | Kazernealarm — sources: tomzulu
+- `000302025` — - — 46 | BRW | Sint Annaparochie | Kazernealarm — sources: tomzulu
+- `000302026` — - — 47 | BRW | Kollum | Kazernealarm — sources: tomzulu
+- `000302027` — - — 48 | BRW | Leeuwarden-Hoofdpost | Kazernealarm — sources: tomzulu
+- `000302028` — - — 49 | BRW | Leeuwarden-Noord | Kazernealarm — sources: tomzulu
+- `000302029` — - — 50 | BRW | Stiens | Kazernealarm — sources: tomzulu
+- `000302030` — - — 51 | BRW | Echten | Kazernealarm — sources: tomzulu
+- `000302031` — Brandweer — BRW Lemmer ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000302032` — - — 53 | BRW | Mantgum | Kazernealarm — sources: tomzulu
+- `000302033` — - — 54 | BRW | Wommels | Kazernealarm — sources: tomzulu
+- `000302034` — - — 55 | BRW | Marssum | Kazernealarm — sources: tomzulu
+- `000302035` — - — 56 | BRW | Menaam | Kazernealarm — sources: tomzulu
+- `000302036` — - — 57 | BRW | Hindeloopen | Kazernealarm — sources: tomzulu
+- `000302037` — - — 58 | BRW | Koudum | Kazernealarm — sources: tomzulu
+- `000302038` — - — 59 | BRW | Stavoren | Kazernealarm — sources: tomzulu
+- `000302039` — - — 60 | BRW | Workum | Kazernealarm — sources: tomzulu
+- `000302040` — - — 61 | BRW | Appelscha | Kazernealarm — sources: tomzulu
+- `000302041` — - — 62 | BRW | Haulerwijk | Kazernealarm — sources: tomzulu
+- `000302042` — - — 63 | BRW | Oldeberkoop | Kazernealarm — sources: tomzulu
+- `000302043` — - — 64 | BRW | Oosterwolde | Kazernealarm — sources: tomzulu
+- `000302044` — - — 65 | BRW | Beetsterzwaag | Kazernealarm — sources: tomzulu
+- `000302045` — - — 66 | BRW | Gorredijk | Kazernealarm — sources: tomzulu
+- `000302046` — - — 67 | BRW | Ureterp | Kazernealarm — sources: tomzulu
+- `000302047` — Brandweer — BRW Schiermonnikoog ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000302048` — Brandweer — BRW Joure ( Korpsalarm + B Compagnie ) — sources: capcodes_eu, tomzulu
+- `000302049` — Brandweer — BRW Langweer ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000302050` — - — 71 | BRW | Sint Nicolaasga | Kazernealarm — sources: tomzulu
+- `000302051` — - — 72 | BRW | Drachten | Kazernealarm — sources: tomzulu
+- `000302052` — - — 73 | BRW | Sneek | Kazernealarm — sources: tomzulu
+- `000302053` — - — 74 | BRW | Midsland | Kazernealarm — sources: tomzulu
+- `000302054` — - — 75 | BRW | West-Terschelling | Kazernealarm — sources: tomzulu
+- `000302055` — Brandweer — BRW Bergum ( Korpsalarm + B Compagnie ) — sources: capcodes_eu, tomzulu
+- `000302056` — - — 77 | BRW | Giekerk | Kazernealarm — sources: tomzulu
+- `000302057` — - — 78 | BRW | Vlieland | Kazernealarm — sources: tomzulu
+- `000302058` — - — 79 | BRW | Noordwolde | Kazernealarm — sources: tomzulu
+- `000302059` — - — 80 | BRW | Scherpenzeel | Kazernealarm — sources: tomzulu
+- `000302060` — - — 81 | BRW | Wolvega | Kazernealarm — sources: tomzulu
+- `000302061` — - — 82 | BRW | Makkum | Kazernealarm — sources: tomzulu
+- `000302062` — - — 83 | BRW | Parrega | Kazernealarm — sources: tomzulu
+- `000302063` — - — 84 | BRW | Witmarsum | Kazernealarm — sources: tomzulu
+- `000302064` — - — 85 | BRW | Heeg | Kazernealarm — sources: tomzulu
+- `000302065` — - — 86 | BRW | Ylst | Kazernealarm — sources: tomzulu
+- `000302066` — - — 87 | BRW | Woudsend | Kazernealarm — sources: tomzulu
+- `000302069` — - — 88 | BRW | Oudega | Postalarm — sources: tomzulu
+- `000302206` — - — 89 | BRW | Sneek | Palen binnenstad — sources: tomzulu
+- `000302207` — - — 90 | BRW | Sneek | Palen Grootzand — sources: tomzulu
+- `000302210` — Brandweer — BRW Friesland ( Groepscode Brugbediening Workum ) — sources: capcodes_eu, tomzulu
+- `000302220` — Ambulance — CPA Friesland ( Bediening Van Harinxmabrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302222` — Ambulance — CPA Friesland ( Bediening Zwettebrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302223` — Ambulance — CPA Friesland ( Bediening Slauerhoffbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302224` — Ambulance — CPA Friesland ( Bediening Hermesbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302225` — Ambulance — CPA Friesland ( Bediening Verlaatsbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302226` — Ambulance — CPA Friesland ( Bediening Vrouwenpoortsbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302227` — Ambulance — CPA Friesland ( Bediening Noorderbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302228` — Ambulance — CPA Friesland ( Bediening Eebrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302229` — Ambulance — CPA Friesland ( Bediening Greunsbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302230` — - — 101 | BRUG | Leeuwarden | Bediening Hempens Brug — sources: tomzulu
+- `000302231` — - — 102 | BRUG | Leeuwarden | Brugwachter Pylkewiersterbrege — sources: tomzulu
+- `000302232` — - — 103 | BRUG | Leeuwarden | Brugwachter 1e kanaalsbrug — sources: tomzulu
+- `000302233` — Brandweer — CPA Friesland ( Bediening 2e Kanaalsbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302234` — Ambulance — CPA Friesland ( Bediening Vlietsterbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302235` — Ambulance — CPA Friesland ( Bediening Oosterbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302236` — Ambulance — CPA Friesland ( Bediening Blokhuisbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302237` — Ambulance — CPA Friesland ( Bediening Beursbrug Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302240` — Brandweer — BRW Friesland ( Groepscode Brugbediening Leeuwarden ) — sources: capcodes_eu, tomzulu
+- `000302241` — Ambulance — CPA Friesland ( Bediening Heerenzijlbrug Terhorne ) — sources: capcodes_eu, tomzulu
+- `000302242` — Ambulance — CPA Friesland ( Bediening Dorpsbrug Warga ) — sources: capcodes_eu, tomzulu
+- `000302243` — Ambulance — CPA Friesland ( Bediening Meineslootbrug Akkrum ) — sources: capcodes_eu, tomzulu
+- `000302245` — Ambulance — CPA Friesland ( Bediening Weidlansbrug Akkrum ) — sources: capcodes_eu, tomzulu
+- `000302246` — Ambulance — CPA Friesland ( Bediening Palmabrug Warga ) — sources: capcodes_eu, tomzulu
+- `000302247` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302248` — Brandweer — Brandweer Friesland — sources: capcodes_eu
+- `000302250` — Brandweer — BRW Friesland ( Groepscode Brugbediening Lemmer ) — sources: capcodes_eu, tomzulu
+- `000302251` — - — 117 | BRUG | Lemmer | Brugwachter Blokjesbrug — sources: tomzulu
+- `000302252` — - — 118 | BRUG | Lemmer | Brugwachter Flevobrug — sources: tomzulu
+- `000302253` — Ambulance — CPA Friesland ( Bediening Pier Christiaanbrug Echtenerbrug ) — sources: capcodes_eu, tomzulu
+- `000302260` — Ambulance — CPA Friesland ( Bediening Skulenboarchbrug Jistrum ) — sources: capcodes_eu, tomzulu
+- `000302261` — Ambulance — CPA Friesland ( Bediening Blauwverlaatbrug Augustinusga ) — sources: capcodes_eu, tomzulu
+- `000302262` — Ambulance — CPA Friesland ( Bediening Bergumurdaambrug Bergum ) — sources: capcodes_eu, tomzulu
+- `000302263` — Ambulance — CPA Friesland ( Bediening Brug Oudeschouw ) — sources: capcodes_eu, tomzulu
+- `000302264` — Ambulance — CPA Friesland ( Bediening Zandslootbrug Terhorne ) — sources: capcodes_eu, tomzulu
+- `000302265` — Ambulance — CPA Friesland ( Bediening Brug Uitwellingerga ) — sources: capcodes_eu, tomzulu
+- `000302266` — Ambulance — CPA Friesland ( Bediening Prinses Magrietbrugsluis Lemmer ) — sources: capcodes_eu, tomzulu
+- `000302267` — Ambulance — CPA Friesland ( Bediening Follegaslootbrug Follega ) — sources: capcodes_eu, tomzulu
+- `000302268` — Ambulance — CPA Friesland ( Bediening Warnserbrug Warns ) — sources: capcodes_eu, tomzulu
+- `000302269` — Ambulance — CPA Friesland ( Bediening JF Sluisbrug Stavoren ) — sources: capcodes_eu, tomzulu
+- `000302271` — Ambulance — CPA Friesland ( Bediening Sudergobrug Workum ) — sources: capcodes_eu, tomzulu
+- `000302272` — Ambulance — CPA Friesland ( Bediening Van Panhuysbrug Tjerkwerd ) — sources: capcodes_eu, tomzulu
+- `000302273` — Ambulance — CPA Friesland ( Bediening Kruiswaterbrug A7 Bolsward ) — sources: capcodes_eu, tomzulu
+- `000302276` — Ambulance — CPA Friesland ( Bediening Hellingbrug Woudsend ) — sources: capcodes_eu, tomzulu
+- `000302278` — Ambulance — CPA Friesland ( Bediening Noorderoudeweg Boornzwaag ) — sources: capcodes_eu, tomzulu
+- `000302279` — Ambulance — CPA Friesland ( Bediening Brug Scharsterbrug ) — sources: capcodes_eu, tomzulu
+- `000302280` — Ambulance — CPA Friesland ( Bediening Scharsterrijnbrug A6 Joure-Lemmer ) — sources: capcodes_eu, tomzulu
+- `000302281` — Ambulance — CPA Friesland ( Bediening Janeslootbrug Langweer ) — sources: capcodes_eu, tomzulu
+- `000302282` — Ambulance — CPA Friesland ( Bediening LH Sluis en Brug Nijetrijne ) — sources: capcodes_eu, tomzulu
+- `000302283` — Ambulance — CPA Friesland ( Bediening Rottemerbrug Rottum ) — sources: capcodes_eu, tomzulu
+- `000302285` — Ambulance — CPA Friesland ( Bediening Brug Wartena ) — sources: capcodes_eu, tomzulu
+- `000302286` — Brandweer — Brandweer Friesland — sources: capcodes_eu
+- `000302288` — - — 141 | BRUG | Dronrijp | Brug Dronrijp — sources: tomzulu
+- `000302289` — Ambulance — CPA Friesland ( Bediening Stationsbrug Franeker ) — sources: capcodes_eu, tomzulu
+- `000302290` — Ambulance — CPA Friesland ( Bediening Tjerk Hiddesbrug Harlingen ) — sources: capcodes_eu, tomzulu
+- `000302291` — Ambulance — CPA Friesland ( Bediening Brug Dokkumer Nieuwe Zijlen ) — sources: capcodes_eu, tomzulu
+- `000302292` — Ambulance — CPA Friesland ( Bediening Brug Klaarkamp Dokkumer Ee ) — sources: capcodes_eu, tomzulu
+- `000302293` — Ambulance — CPA Friesland ( Bediening Koningsbrug Harlingen ) — sources: capcodes_eu, tomzulu
+- `000302294` — Ambulance — CPA Friesland ( Bediening Zijlroedebrug Lemmer ) — sources: capcodes_eu, tomzulu
+- `000302295` — Ambulance — CPA Friesland ( Bediening Bruggen Gorredijk ) — sources: capcodes_eu, tomzulu
+- `000302296` — Ambulance — CPA Friesland ( Bediening Dorpsbrug Donkerbroek ) — sources: capcodes_eu, tomzulu
+- `000302297` — Ambulance — CPA Friesland ( Bediening Brug Stroobos ) — sources: capcodes_eu, tomzulu
+- `000302298` — Ambulance — CPA Friesland ( Bediening Brug Kootstertille ) — sources: capcodes_eu, tomzulu
+- `000302299` — Ambulance — CPA Friesland ( Bediening Brug Spannenburg ) — sources: capcodes_eu, tomzulu
+- `000302300` — Ambulance — CPA Friesland ( Bediening Van Helomavaartbrug Oldetrijne ) — sources: capcodes_eu, tomzulu
+- `000302301` — Ambulance — CPA Friesland ( Bediening Jousterbrug Heerenveen ) — sources: capcodes_eu, tomzulu
+- `000302302` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302304` — Ambulance — CPA Friesland ( Bediening Brug Kiesterzijl Franeker ) — sources: capcodes_eu, tomzulu
+- `000302305` — Ambulance — CPA Friesland ( Bediening Brug Engwierum ) — sources: capcodes_eu, tomzulu
+- `000302306` — Ambulance — CPA Friesland ( Bediening Petersbrug Moskou ) — sources: capcodes_eu
+- `000302307` — Ambulance — CPA Friesland ( Bediening Brug Oostermeer ) — sources: capcodes_eu, tomzulu
+- `000302308` — Ambulance — CPA Friesland ( Bediening Brug Oldelamer ) — sources: capcodes_eu, tomzulu
+- `000302309` — Ambulance — CPA Friesland ( Bediening Brug Nieuweschoot ) — sources: capcodes_eu, tomzulu
+- `000302310` — Ambulance — CPA Friesland ( Bediening Frisiabrug Franeker ) — sources: capcodes_eu, tomzulu
+- `000302311` — Ambulance — CPA Friesland ( Bediening Brug Sylsterrijd Buitenpost-Lauwersoog ) — sources: capcodes_eu, tomzulu
+- `000302312` — Ambulance — CPA Friesland ( Bediening Fonejachtbrug Waldwei ) — sources: capcodes_eu, tomzulu
+- `000302315` — Ambulance — CPA Friesland ( Bediening Sudergoabrug Workum ) — sources: capcodes_eu, tomzulu
+- `000302316` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302317` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302318` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302320` — Ambulance — CPA Friesland ( Bediening Koebrug Stavoren ) — sources: capcodes_eu, tomzulu
+- `000302321` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302322` — Ambulance — CPA Friesland ( Bediening Johan Friso Sluis Stavoren ) — sources: capcodes_eu, tomzulu
+- `000302323` — Brandweer — BRW Friesland ( Groepscode Brugbediening Workum ) — sources: capcodes_eu, tomzulu
+- `000302325` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302326` — - — 173 | BRUG | Lemmer | Brugwachter Friese Sluis — sources: tomzulu
+- `000302335` — Ambulance — CPA Friesland ( Bediening Blauwpoortsbrug Bolsward ) — sources: capcodes_eu, tomzulu
+- `000302336` — Ambulance — CPA Friesland ( Bediening Gysbert Japicxbrug Bolsward ) — sources: capcodes_eu, tomzulu
+- `000302338` — Brandweer — BRW Friesland ( Groepscode Bruggen Bolsward ) — sources: capcodes_eu, tomzulu
+- `000302340` — Ambulance — CPA Friesland ( Bediening Brug Wolsum ) — sources: capcodes_eu, tomzulu
+- `000302341` — Ambulance — CPA Friesland ( Bediening Brug Abbega ) — sources: capcodes_eu, tomzulu
+- `000302342` — Ambulance — CPA Friesland ( Bediening Brug Heeg ) — sources: capcodes_eu, tomzulu
+- `000302343` — Ambulance — CPA Friesland ( Bediening Brug Osingahuizen ) — sources: capcodes_eu, tomzulu
+- `000302344` — Ambulance — CPA Friesland ( Bediening Geeuwbrug IJlst ) — sources: capcodes_eu, tomzulu
+- `000302345` — Ambulance — CPA Friesland ( Bediening Brug Nijesyl ) — sources: capcodes_eu, tomzulu
+- `000302346` — Ambulance — CPA Friesland ( Bediening Brug Oppenhuizen ) — sources: capcodes_eu, tomzulu
+- `000302347` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302350` — Ambulance — CPA Friesland ( Bediening Brug Sloten ) — sources: capcodes_eu, tomzulu
+- `000302351` — Ambulance — CPA Friesland ( Bediening Brug Balk ) — sources: capcodes_eu, tomzulu
+- `000302352` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302355` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302360` — - — 190 | BRUG | Heerenveen | Herenwal Brug — sources: tomzulu
+- `000302361` — Ambulance — CPA Friesland ( Bediening Schansbrug Heerenveen ) — sources: capcodes_eu
+- `000302362` — Ambulance — CPA Friesland ( Bediening Stationsbrug Heerenveen ) — sources: capcodes_eu, tomzulu
+- `000302363` — Ambulance — CPA Friesland ( Bediening Oppenhuizerbrug Sneek ) — sources: capcodes_eu, tomzulu
+- `000302364` — Ambulance — CPA Friesland ( Bediening Lemmerwegbrug Sneek ) — sources: capcodes_eu, tomzulu
+- `000302365` — Ambulance — CPA Friesland ( Bediening Harinxmabrug Sneek ) — sources: capcodes_eu, tomzulu
+- `000302366` — Brandweer — BRW Friesland ( Groepscode Brugbediening Sneek ) — sources: capcodes_eu, tomzulu
+- `000302370` — Brandweer — BRW Friesland ( Bediening Eebrug Dokkum ) — sources: capcodes_eu, tomzulu
+- `000302371` — Brandweer — BRW Friesland ( Bediening Schreiersbrug Dokkum ) — sources: capcodes_eu, tomzulu
+- `000302372` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302374` — Brandweer — BRW Friesland ( Bediening ????brug Dokkum ) — sources: capcodes_eu, tomzulu
+- `000302375` — Brandweer — BRW Friesland ( Groepscode Brugbediening Dokkum ) — sources: capcodes_eu, tomzulu
+- `000302388` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302390` — Brandweer — BRW Friesland ( Groepscode Brugbediening Harlingen ) — sources: capcodes_eu, tomzulu
+- `000302391` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302392` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302393` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302394` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302395` — - — 207 | BRUG | Harlingen | Brugwachter Julianabrug — sources: tomzulu
+- `000302396` — - — 208 | BRUG | Harlingen | Brugwachter Singelbrug — sources: tomzulu
+- `000302397` — Brandweer — Brandweer Friesland — sources: capcodes_eu
+- `000302399` — Brandweer — Brandweer Friesland — sources: capcodes_eu
+- `000302400` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302410` — Brandweer — Brandweer Friesland — sources: capcodes_eu
+- `000302412` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302414` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302416` — - — 212 | BRW | De Fryske Marren | OvD Bevolkingszorg — sources: tomzulu
+- `000302418` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302419` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302420` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302422` — - — 216 | BRW | Schiermonnikoog | OvD Bevolkingszorg — sources: tomzulu
+- `000302423` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302424` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302426` — Brandweer — Brandweer Friesland — sources: capcodes_eu, tomzulu
+- `000302708` — Brandweer — Brandweer Friesland — sources: capcodes_eu
+- `000302800` — Politie — Politie Friesland ( Wekelijks Proefalarm ) — sources: capcodes_eu, tomzulu
+- `000302810` — Politie — Politie Friesland ( SGBO Piketcoordinator ) — sources: capcodes_eu, tomzulu
+- `000302822` — Politie — Politie Friesland ( OvD-P Zuid ) — sources: capcodes_eu, tomzulu
+- `000302840` — Politie — Politie Friesland ( Grip-1 ) — sources: capcodes_eu, tomzulu
+- `000302853` — Brandweer — Brandweer Friesland — sources: capcodes_eu
+- `000303015` — - — 222 | BRW | Regionaal | Plotters CoPI — sources: tomzulu
+- `000303037` — - — 487 | POL | District Fryslân | Beleids Team Dokkum Harlingen en Leeuwarden (Informatiemanager CoPI) — sources: tomzulu
+- `000303038` — - — 488 | POL | District Fryslân | Beleids Team Drachten Heerenveen en Sneek (Informatiemanager CoPI) — sources: tomzulu
+- `000303045` — - — 225 | BRW | Regionaal | Voorlichter van Dienst — sources: tomzulu
+- `000303046` — - — 226 | BRW | Harlingen | OvD Haven — sources: tomzulu
+- `000303050` — Brandweer — BRW Leeuwarden ( Hoofd BOT Team ) — sources: capcodes_eu, tomzulu
+- `000303051` — Brandweer — BRW Friesland ( Coordinator BOT ) — sources: capcodes_eu, tomzulu
+- `000303055` — - — 229 | BRW | Regionaal | Persvoorlichting (Infocode) — sources: tomzulu
+- `000303056` — - — 230 | BRW | Regionaal | Persvoorlichting (Alarmcode) — sources: tomzulu
+- `000303081` — - — 232 | BRW | Balk | Oppervlaktewater Redteam — sources: tomzulu
+- `000303082` — Brandweer — BRW N.W Friesland ( Teamleiders ) — sources: capcodes_eu, tomzulu
+- `000303083` — - — 234 | BRW | Lemmer | Oppervlaktewater Redteam — sources: tomzulu
+- `000303084` — Brandweer — BRW N.W Friesland ( Teamleiders ) — sources: capcodes_eu, tomzulu
+- `000303085` — - — 236 | BRW | Koudum | Oppervlaktewater Redteam — sources: tomzulu
+- `000303086` — - — 237 | BRW | Jubbega | Oppervlaktewater Redteam — sources: tomzulu
+- `000303087` — - — 238 | BRW | Grou | Oppervlaktewater Redteam — sources: tomzulu
+- `000303088` — - — 239 | BRW | Burgum | Oppervlaktewater Redteam — sources: tomzulu
+- `000303089` — - — 240 | BRW | Harlingen | Oppervlaktewater Redteam — sources: tomzulu
+- `000303090` — - — 241 | BRW | Wolvega | Oppervlaktewater Redteam — sources: tomzulu
+- `000303091` — - — 242 | BRW | Specialisme Technische Hulpverlening (STH) Noord | Leiding — sources: tomzulu
+- `000303092` — - — 243 | BRW | Specialisme Technische Hulpverlening (STH) Noord | Team — sources: tomzulu
+- `000303094` — - — 244 | BRW | Regionaal | Adviseur Natuurbrand — sources: tomzulu
+- `000303095` — - — 245 | BRW | Regionaal | Informatie Manager Verspreiding Natuurbrand — sources: tomzulu
+- `000303096` — - — 246 | BRW | Regionaal | Informatie Manager Verspreiding Natuurbrand — sources: tomzulu
+- `000303137` — - — 253 | BRW | Ameland | Coördinatieteam Waddeneilanden — sources: tomzulu
+- `000303139` — - — 254 | BRW | Hollum | Bezetting NBB — sources: tomzulu
+- `000303144` — - — 257 | BRW | Nes | Bezetting NBB — sources: tomzulu
+- `000303155` — - — 260 | BRW | Akkrum | Verkenningseenheid — sources: tomzulu
+- `000303185` — - — 269 | BRW | Bolsward | Logistiek & Verzorging — sources: tomzulu
+- `000303186` — - — 270 | BRW | Bolsward | Bemanning HA — sources: tomzulu
+- `000303226` — - — 281 | BRW | Dokkum | Bezetting HW Ploeg B — sources: tomzulu
+- `000303282` — - — 289 | BRW | Franeker | Bezetting HV-KR Ploeg 2 — sources: tomzulu
+- `000303286` — Brandweer — BRW Franeker ( Verzorgingsgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000303288` — - — 291 | BRW | Franeker | Jeugdbrandweer — sources: tomzulu
+- `000303289` — Brandweer — BRW Franeker ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000303332` — - — 301 | BRW | Harlingen | Bezetting HW Ploeg 2 — sources: tomzulu
+- `000303337` — - — 303 | BRW | Harlingen | Ploeg 3 — sources: tomzulu
+- `000303353` — - — 312 | BRW | Heerenveen | Bedieners HW Ploeg 1 — sources: tomzulu
+- `000303354` — - — 313 | BRW | Heerenveen | Bedieners HW Ploeg 2 — sources: tomzulu
+- `000303355` — - — 314 | BRW | Heerenveen | Bedieners HW Ploeg 3 — sources: tomzulu
+- `000303358` — - — 315 | BRW | Heerenveen | Chauffeurs dagdienst — sources: tomzulu
+- `000303400` — - — 320 | BRW | Sint Annaparochie - Het Bildt | Verkenningseenheid — sources: tomzulu
+- `000303427` — Brandweer — BRW Leeuwarden ( Duikgroep ) — sources: capcodes_eu, tomzulu
+- `000303428` — - — 328 | BRW | Leeuwarden Hoofdpost | Kleine Logistiek & Verzorging — sources: tomzulu
+- `000303447` — Brandweer — BRW Leeuwarden ( Post Noord Blusgroep 2 B ) — sources: capcodes_eu, tomzulu
+- `000303461` — - — 334 | BRW | Stiens | Decontaminatie Ploeg — sources: tomzulu
+- `000303470` — - — 336 | BRW | Echten | Schipper — sources: tomzulu
+- `000303494` — - — 340 | BRW | Mantgum | Kazernetechniek — sources: tomzulu
+- `000303507` — Brandweer — BRW Marssum ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000303589` — - — 353 | BRW | Oldeberkoop | Bezetting WT — sources: tomzulu
+- `000303647` — - — 364 | BRW | Schiermonnikoog | Coördinatieteam Waddeneilanden — sources: tomzulu
+- `000303649` — - — 365 | BRW | Schiermonnikoog | Ondersteuningspeloton — sources: tomzulu
+- `000303662` — - — 370 | BRW | Joure | Bezetting HV-KR Ploeg 3 — sources: tomzulu
+- `000303695` — Brandweer — BRW Drachten — sources: capcodes_eu, tomzulu
+- `000303711` — Brandweer — BRW Drachten ( Chauffeursgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000303743` — Brandweer — BRW Sneek ( Dagdienst HW Ploeg ) — sources: capcodes_eu, tomzulu
+- `000303750` — - — 402 | BRW | Midsland | Verkenningseenheid — sources: tomzulu
+- `000303766` — - — 405 | BRW | Terschelling | Staatsbosbeheer — sources: tomzulu
+- `000303767` — - — 406 | BRW | Terschelling | Coördinatieteam Waddeneilanden — sources: tomzulu
+- `000303780` — Brandweer — BRW Bergum ( Chauffeurs ) — sources: capcodes_eu, tomzulu
+- `000303805` — - — 417 | BRW | Vlieland | Postcoördinator — sources: tomzulu
+- `000303806` — - — 418 | BRW | Vlieland | Postcoördinator — sources: tomzulu
+- `000303807` — - — 419 | BRW | Vlieland | Coördinatieteam Waddeneilanden — sources: tomzulu
+- `000303833` — Brandweer — BRW Wolvega ( Bevelvoerders Blusgroep A ) — sources: capcodes_eu, tomzulu
+- `000303846` — Brandweer — BRW Wolvega ( Chauffeurs ) — sources: capcodes_eu, tomzulu
+- `000303851` — - — 425 | BRW | Makkum | Kazernehek — sources: tomzulu
+- `000303875` — - — 430 | BRW | Witmarsum | Verkenningseenheid — sources: tomzulu
+- `000303931` — - — 438 | BRW | Oudega | Postalarm — sources: tomzulu
+- `000303940` — - — 439 | BRW | Heerenveen | Teamleider Team Digitale Verkenning — sources: tomzulu
+- `000303941` — - — 440 | BRW | Heerenveen | Team Digitale Verkenning — sources: tomzulu
+- `000320000` — Ambulance — CPA Friesland ( Wekelijks Proefalarm ) — sources: capcodes_eu, tomzulu
+- `000320460` — KNRM — KNRM Vlieland ( Bemanning Hubert Dijkstra ) — sources: capcodes_eu
+- `000320462` — Ambulance — Ambulance Friesland — sources: capcodes_eu, tomzulu
+- `000320468` — KNRM — KNRM West-Terschelling ( Reddingsboot Arie Visser Patientenvervoer ) — sources: capcodes_eu, tomzulu
+- `000320475` — KNRM — KNRM Nes Ameland ( Patientenvervoer Anna Margaretha ) — sources: capcodes_eu, tomzulu
+- `000320480` — KNRM — KNRM Schiermonnikoog-Haven ( Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `000320482` — KNRM — KNRM Schiermonnikoog-Haven ( Koning Willem 1 Patientenvervoer ) — sources: capcodes_eu, tomzulu
+- `000320490` — KNRM — 447 | KNRM Reddingstation Terschelling Paal 8 | Kusthulpverleningsvoertuig — sources: tomzulu
+- `000320499` — KNRM — KNRM ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000320503` — Ambulance — 449 | Regionaal | Ambulancelance 02-114 — sources: tomzulu
+- `000320511` — Ambulance — 450 | Regionaal | Ambulancelance 02-116 — sources: tomzulu
+- `000320530` — Ambulance — 451 | Regionaal | Ambulancelance 02-148 — sources: tomzulu
+- `000320540` — Ambulance — 452 | Regionaal | Ambulancelance 02-146 — sources: tomzulu
+- `000320541` — Ambulance — 453 | Regionaal | Ambulancelance 02-152 — sources: tomzulu
+- `000320552` — Ambulance — 454 | Regionaal | Ambulancelance 02-118 — sources: tomzulu
+- `000320560` — Ambulance — 455 | Regionaal | Ambulancelance 02-132 — sources: tomzulu
+- `000320561` — Ambulance — 456 | Regionaal | Ambulancelance 02-133 — sources: tomzulu
+- `000320570` — Ambulance — 457 | Regionaal | Ambulancelance 02-154 — sources: tomzulu
+- `000320580` — Ambulance — 458 | Regionaal | Ambulancelance 02-141 — sources: tomzulu
+- `000320582` — Ambulance — 459 | Regionaal | Ambulancelance 02-143 — sources: tomzulu
+- `000320591` — Ambulance — CPA Friesland ( Ambu 02-124 Drachten ) — sources: capcodes_eu, tomzulu
+- `000320592` — Ambulance — CPA Friesland ( Ambu 02-125 Drachten ) — sources: capcodes_eu, tomzulu
+- `000320593` — Ambulance — CPA Friesland ( Ambu 02-126 Drachten ) — sources: capcodes_eu, tomzulu
+- `000320600` — Ambulance — 463 | Regionaal | Ambulancelance 02-134 — sources: tomzulu
+- `000320601` — Ambulance — 464 | Regionaal | Ambulancelance 02-135 — sources: tomzulu
+- `000320631` — Ambulance — 465 | Regionaal | Ambulancelance 02-129 — sources: tomzulu
+- `000320640` — Ambulance — 466 | Regionaal | Ambulancelance 02-136 — sources: tomzulu
+- `000320669` — Ambulance — Ambulance Friesland — sources: capcodes_eu, tomzulu
+- `000320701` — Ambulance — Ambulance Friesland — sources: capcodes_eu, tomzulu
+- `000320704` — Ambulance — 469 | Regionaal | Rode Kruis Noodhulp Team (UGS Heerenveen) — sources: tomzulu
+- `000320706` — Ambulance — 470 | Regionaal | Rode Kruis Noodhulp Team (UGS Dronrijp) — sources: tomzulu
+- `000320783` — KNRM — 471 | Reddingstation Ameland Nes | Lifeguards Ameland — sources: tomzulu
+- `000320880` — Ambulance — Ambulance Friesland — sources: capcodes_eu, tomzulu
+- `000320901` — Ambulance — GHOR Friesland ( Wekelijks Proefalarm ) — sources: capcodes_eu, tomzulu
+- `000320908` — Ambulance — MKA Veiligheidsregio Friesland ( OvD-G ) — sources: capcodes_eu, tomzulu
+- `000320909` — Ambulance — CPA Friesland ( OvD-G Zuid ) — sources: capcodes_eu, tomzulu
+- `000320911` — Ambulance — GHOR Friesland ( HS /CVD-G ) — sources: capcodes_eu, tomzulu
+- `000320912` — Ambulance — GHOR Friesland ( RGF ) — sources: capcodes_eu, tomzulu
+- `000320950` — Ambulance — GHOR Friesland ( Sigmateam Ameland ) — sources: capcodes_eu, tomzulu
+- `000320960` — Ambulance — GHOR Friesland ( Sigmateam Vlieland ) — sources: capcodes_eu, tomzulu
+- `000320970` — Ambulance — GHOR Friesland ( Sigmateam Schiermonnikoog ) — sources: capcodes_eu, tomzulu
+- `000320980` — Ambulance — CPA Friesland ( Sigma Team Terschelling ) — sources: capcodes_eu, tomzulu
+- `000330112` — Politie — Politie Friesland — sources: capcodes_eu, tomzulu
+- `000331112` — Politie — Politie Friesland — sources: capcodes_eu, tomzulu
+- `000400001` — Brandweer — BRW Groningen ( Testcode ) — sources: capcodes_eu, tomzulu
+- `000400003` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400004` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400005` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400006` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400007` — - — 8 | BRW | Regionaal | Adviseur Gevaarlijke Stoffen (ROT) — sources: tomzulu
+- `000400008` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400025` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400026` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400027` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400028` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400029` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400030` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400031` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400032` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400036` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400040` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400043` — Brandweer — BRW Groningen ( Bedrijfsbrandweer Informatie Beheer Groep ) — sources: capcodes_eu, tomzulu
+- `000400044` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400049` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400072` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400074` — Brandweer — BRW Rhede-Duitsland ( Bemanning TS ) — sources: capcodes_eu, tomzulu
+- `000400099` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400100` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400101` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400102` — Brandweer — Brandweer Groningen — sources: capcodes_eu
+- `000400108` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400109` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400110` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400115` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400116` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400117` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400118` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400190` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400191` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400192` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400199` — - — 61 | BRW | Duitsland | Feuerwehr Landkreis Leer (Ortsfeuerwehr Bunde) (Bezetting TS) — sources: tomzulu
+- `000400265` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400266` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400281` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400293` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400301` — Brandweer — BRW Groningen-Sontweg — sources: capcodes_eu, tomzulu
+- `000400304` — Brandweer — BRW Groningen-Sontweg ( PBA ) — sources: capcodes_eu, tomzulu
+- `000400305` — Brandweer — BRW Groningen-Sontweg ( Poederblusaanhanger ) — sources: capcodes_eu, tomzulu
+- `000400400` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400406` — Brandweer — Brandweer Groningen — sources: capcodes_eu
+- `000400408` — Brandweer — Brandweer Groningen — sources: capcodes_eu
+- `000400463` — Brandweer — BRW Haren ( TS-HV533 ) — sources: capcodes_eu, tomzulu
+- `000400466` — Brandweer — BRW Haren ( Reddingsboot ) — sources: capcodes_eu, tomzulu
+- `000400749` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400751` — Brandweer — BRW Delfzijl ( TAS-631 ) — sources: capcodes_eu, tomzulu
+- `000400752` — Brandweer — BRW Delfzijl ( TAS-641 ) — sources: capcodes_eu, tomzulu
+- `000400753` — Brandweer — BRW Delfzijl ( HV-670 ) — sources: capcodes_eu, tomzulu
+- `000400754` — Brandweer — BRW Delfzijl ( HW-650 ) — sources: capcodes_eu, tomzulu
+- `000400755` — Brandweer — BRW Delfzijl ( WO-691 ) — sources: capcodes_eu, tomzulu
+- `000400756` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400778` — Brandweer — BRW Delfzijl — sources: capcodes_eu, tomzulu
+- `000400801` — Brandweer — BRW Wagenborgen ( Blusploeg ) — sources: capcodes_eu, tomzulu
+- `000400838` — - — 194 | BRW | Woldendorp | Postalarm — sources: tomzulu
+- `000400839` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400852` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400853` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400861` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400862` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400868` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400869` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400882` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400883` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400884` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400885` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400886` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400900` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000400961` — Brandweer — BRW Middelstum ( Chef Blusploeg 1 ) — sources: capcodes_eu
+- `000400962` — Brandweer — BRW Middelstum ( Chef Blusploeg 2 ) — sources: capcodes_eu
+- `000401023` — - — 223 | BRW | Bellingwolde | TS 01-2831 — sources: tomzulu
+- `000401048` — Brandweer — BRW Bellingwedde ( Kazernealarm ) — sources: capcodes_eu, tomzulu
+- `000401049` — Brandweer — BRW Bellingwedde ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000401167` — Brandweer — BRW Veendam ( Chauffeurs Blusgroep A1 ) — sources: capcodes_eu, tomzulu
+- `000401190` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401205` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401232` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401307` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401312` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401313` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401368` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401402` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401456` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401457` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401516` — Brandweer — BRW Zoutkamp ( Chauffeurs ) — sources: capcodes_eu
+- `000401571` — Brandweer — BRW Leek ( Commandant ) — sources: capcodes_eu, tomzulu
+- `000401662` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000401689` — Brandweer — BRW Winsum ( Commandant Winsum/Baflo ) — sources: capcodes_eu, tomzulu
+- `000401742` — Brandweer — BRW Grijpskerk ( Bevelvoerders Ploeg 2 ) — sources: capcodes_eu, tomzulu
+- `000402070` — Brandweer — GHOR Groningen ( RGF ) — sources: capcodes_eu
+- `000402075` — Brandweer — Brandweer Groningen — sources: capcodes_eu, tomzulu
+- `000402114` — Ambulance — 388 | Regionaal | Noodhulpteam (UGS 4 Groningen) — sources: tomzulu
+- `000402130` — Ambulance — GHOR Groningen ( GAGS ) — sources: capcodes_eu, tomzulu
+- `000420000` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000420502` — Ambulance — Ambulance Groningen — sources: capcodes_eu
+- `000420506` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000420512` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000420550` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000420554` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421100` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421101` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421104` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421105` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421106` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421107` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421109` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421110` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421112` — - — 409 | BRUG | Hoogkerk | Brugwachter Vierverlatenbrug — sources: tomzulu
+- `000421116` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421118` — - — 411 | BRUG | Delfzijl | Brug 15 — sources: tomzulu
+- `000421119` — Ambulance — Ambulance Groningen — sources: capcodes_eu
+- `000421121` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421122` — Ambulance — Ambulance Groningen, — sources: capcodes_eu, tomzulu
+- `000421123` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421124` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421125` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421126` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421127` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421128` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421129` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421130` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421131` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421134` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421135` — - — 424 | BRUG | Julianabrug — sources: tomzulu
+- `000421137` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421140` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421141` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421142` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421143` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421145` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421146` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421147` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421148` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421151` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421152` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421153` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421154` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421155` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421156` — - — 439 | BRUG | Veendam | Phoenixbrug — sources: tomzulu
+- `000421158` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421159` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421160` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421161` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421162` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421163` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421164` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421165` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421166` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421168` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421169` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421170` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421171` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421172` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421173` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421174` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421175` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421176` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421177` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421180` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421181` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421183` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421184` — - — 462 | BRUG | Veendam | Wilhelminabrug — sources: tomzulu
+- `000421185` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000421186` — Ambulance — Ambulance Groningen — sources: capcodes_eu, tomzulu
+- `000430112` — Politie — Politie Groningen — sources: capcodes_eu, tomzulu
+- `000431112` — Politie — Politie Groningen — sources: capcodes_eu, tomzulu
+- `000500018` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500020` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500021` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500044` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500045` — Brandweer — BRW Drenthe ( Regiotestcode ) — sources: capcodes_eu
+- `000500050` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000500053` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500080` — - — 15 | BRW | MkNN | Hoofd Meldkamer — sources: tomzulu
+- `000500081` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500090` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500091` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500095` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500098` — - — 20 | BRW | MkNN | Lichtkrant — sources: tomzulu
+- `000500118` — - — 23 | BRW | Annen | Postalarm — sources: tomzulu
+- `000500155` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500168` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500215` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500216` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500255` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500299` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500311` — Brandweer — BRW Assen ( Blusgroep B ) — sources: capcodes_eu, tomzulu
+- `000500330` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500331` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500333` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500335` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500339` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500340` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500341` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500342` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500343` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500345` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500347` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500349` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500351` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500353` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500354` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500358` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500359` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500395` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500396` — - — 62 | BRW | Assen West | Bezetting SAA dagdienst Ploeg — sources: tomzulu
+- `000500398` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500399` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500415` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500420` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000500467` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500518` — Brandweer — BRW Coevorden ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000500554` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000500668` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500718` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500767` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500768` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500800` — Brandweer — Bedrijfsbrandweer Forbo Novilon Coevorden — sources: capcodes_eu, tomzulu
+- `000500810` — Brandweer — Bedrijfsbrandweer Munitiecomplex Veenhuizen — sources: capcodes_eu, tomzulu
+- `000500839` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500843` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000500896` — Brandweer — BRW Emmen ( Coordinator BOT ) — sources: capcodes_eu, tomzulu
+- `000501004` — - — 109 | BRW | Klazienaveen | Verkenningseenheid — sources: tomzulu
+- `000501005` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501006` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501016` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501017` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501111` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501112` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501113` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501116` — Brandweer — BRW Hoogeveen ( Logistiek ) — sources: capcodes_eu, tomzulu
+- `000501158` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501178` — - — 135 | BRW | Hoogeveen | Persoonlijk Code — sources: tomzulu
+- `000501195` — - — 136 | BRW | Hoogeveen | Persoonlijk Code — sources: tomzulu
+- `000501210` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501214` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501215` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501216` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501217` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501220` — - — 148 | BRW | Meppel | Burgemeester — sources: tomzulu
+- `000501233` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000501239` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501244` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501270` — - — 151 | BRW | Meppel | Persoonlijk Code — sources: tomzulu
+- `000501316` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501355` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501416` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501418` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501465` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501466` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501467` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501514` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501515` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501516` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501517` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501579` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000501582` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000501605` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501616` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501617` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501618` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501666` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501767` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501768` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501817` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501818` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000501821` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000501954` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000501967` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502005` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502017` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502115` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502116` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502118` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502165` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502168` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502216` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502218` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502260` — Brandweer — BRW Assen ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502261` — Brandweer — BRW Assen ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502262` — Brandweer — BRW Westerveld ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502263` — Brandweer — BRW Noordenveld ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502264` — Brandweer — BRW Tynaarlo ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502265` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502266` — Brandweer — BRW Emmen ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502267` — Brandweer — BRW Coevorden ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502268` — Brandweer — BRW Hoogeveen ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502269` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502270` — Brandweer — BRW Meppel ( AOV ) — sources: capcodes_eu, tomzulu
+- `000502271` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502272` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502273` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502274` — Brandweer — BRW Drenthe ( GRIP ) — sources: capcodes_eu
+- `000502275` — Brandweer — BRW Drenthe ( GRIP ) — sources: capcodes_eu, tomzulu
+- `000502277` — Brandweer — BRW Drenthe ( GRIP ) — sources: capcodes_eu, tomzulu
+- `000502278` — Brandweer — BRW Drenthe ( GRIP ) — sources: capcodes_eu, tomzulu
+- `000502279` — - — 237 | BRW | Noorderzijlvest | Waterschap Functionaris — sources: tomzulu
+- `000502280` — Brandweer — BRW Drenthe ( GRIP 2 ) — sources: capcodes_eu
+- `000502281` — Brandweer — Brandweer Drenthe — sources: capcodes_eu
+- `000502282` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502290` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502301` — - — 241 | BRW | Bedrijfsbrandweer | Bedrijfsbrandweer Fokker Hoogeveen (TS Ploeg) — sources: tomzulu
+- `000502302` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502307` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502761` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502762` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502763` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502764` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502766` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502768` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502769` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502770` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502771` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502772` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502773` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502774` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502775` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502776` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000502777` — Brandweer — Brandweer Drenthe — sources: capcodes_eu, tomzulu
+- `000520000` — Ambulance — GHOR Drenthe ( Regionaal Proefalarm ) — sources: capcodes_eu, tomzulu
+- `000520001` — Ambulance — GHOR Drenthe ( RGF ) — sources: capcodes_eu
+- `000520005` — Ambulance — Ambulance Drenthe — sources: capcodes_eu, tomzulu
+- `000520032` — Ambulance — Ambulance Drenthe — sources: capcodes_eu, tomzulu
+- `000520061` — Ambulance — CPA Drenthe ( CVD-G ) — sources: capcodes_eu, tomzulu
+- `000520104` — Ambulance — Ambulance Drenthe — sources: capcodes_eu
+- `000520105` — - — 331 | NRK | Hoogeveen | Noodhulpteam — sources: tomzulu
+- `000520602` — Ambulance — 332 | Regionaal | Medical Assistance International — sources: tomzulu
+- `000530007` — Politie — Politie Drenthe — sources: capcodes_eu, tomzulu
+- `000530112` — Politie — Politie Drenthe — sources: capcodes_eu, tomzulu
+- `000531112` — Politie — Politie Drenthe — sources: capcodes_eu, tomzulu
+- `000603102` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603220` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603240` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603311` — - — 12 | BRW | Oldenzaal | Bevelvoerder van Dienst Ploeg 1 — sources: tomzulu
+- `000603312` — - — 13 | BRW | Oldenzaal | Bevelvoerder van Dienst Ploeg 2 — sources: tomzulu
+- `000603320` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603322` — - — 16 | BRW | Oldenzaal | Chauffeurs Ploeg 2 — sources: tomzulu
+- `000603426` — Brandweer — Brandweer Twente — sources: capcodes_eu
+- `000603462` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603480` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603485` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603506` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603580` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603611` — Brandweer — BRW Weerselo ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000603862` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603885` — Brandweer — BRW Den Ham ( Bemanning WTS-500 ) — sources: capcodes_eu, tomzulu
+- `000603941` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603973` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603985` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000603986` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604002` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604003` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604004` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604005` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604100` — - — 58 | BRW | Enschede Hoofdpost | Kazernealarm Noodprocedure — sources: tomzulu
+- `000604142` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604200` — - — 61 | BRW | Enschede Noord | Kazernealarm Noodprocedure — sources: tomzulu
+- `000604251` — - — 63 | BRW | Glanerbrug | Postalarm Noodprocedure — sources: tomzulu
+- `000604262` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604270` — Brandweer — BRW Boekelo ( Blusploeg Dagdienst ) — sources: capcodes_eu, tomzulu
+- `000604288` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604299` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604301` — - — 70 | BRW | Rijssen | Verkenningseenheid IBGS — sources: tomzulu
+- `000604302` — Brandweer — BRW Rijssen ( BVD Info ) — sources: capcodes_eu, tomzulu
+- `000604308` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604309` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604312` — Brandweer — BRW Rijssen ( Bezetting HV-2 ) — sources: capcodes_eu, tomzulu
+- `000604360` — - — 83 | BRW | Holten | Veetakel Ploeg — sources: tomzulu
+- `000604380` — Brandweer — BRW Holten ( Bemanning TW-5262 Ploeg 1 ) — sources: capcodes_eu, tomzulu
+- `000604435` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604570` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604585` — Brandweer — BRW Enter ( WTS 500 Groep ) — sources: capcodes_eu, tomzulu
+- `000604601` — Brandweer — BRW Goor ( Meetploeg 6121 ) — sources: capcodes_eu, tomzulu
+- `000604743` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604806` — Brandweer — BRW Markelo ( Bosbrand Peloton ) — sources: capcodes_eu, tomzulu
+- `000604807` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000604841` — Brandweer — BRW Markelo ( Groep 1 ) — sources: capcodes_eu, tomzulu
+- `000604860` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605039` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605061` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605062` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605090` — Brandweer — BRW Twente ( LMPO ) — sources: capcodes_eu, tomzulu
+- `000605092` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605093` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605099` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605181` — Brandweer — BRW Twente ( ROVD Inzet ) — sources: capcodes_eu, tomzulu
+- `000605190` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605192` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605194` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605249` — Brandweer — BRW Vroomshoop ( PM-WO-3581 ) — sources: capcodes_eu, tomzulu
+- `000605330` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605332` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605344` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605355` — - — 202 | BRW | Enschede Centrum | BOH 05-4121 — sources: tomzulu
+- `000605356` — Brandweer — BRW Haaksbergen ( TW-6261 ) — sources: capcodes_eu, tomzulu
+- `000605357` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605361` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605363` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605364` — - — 207 | BRW | Holten | VIA 05-5279 — sources: tomzulu
+- `000605365` — - — 208 | BRW | Hellendoorn | VIA 05-5379 — sources: tomzulu
+- `000605367` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605368` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605371` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605374` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605378` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605379` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605380` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605403` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605406` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605407` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605408` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605420` — - — 220 | BRW | GMK | Infocode (ICT piket) — sources: tomzulu
+- `000605421` — - — 221 | BRW | GMK | Alarmcode (ICT piket) — sources: tomzulu
+- `000605501` — Brandweer — BRW Landkreises Grafschraft Bentheim ( HW-7251 ) — sources: capcodes_eu, tomzulu
+- `000605704` — - — 223 | BRW | Duitsland - Nordhorn | TS 49-7231 — sources: tomzulu
+- `000605706` — Brandweer — BRW Nordhorn-Duitsland ( HW ) — sources: capcodes_eu, tomzulu
+- `000605710` — - — 225 | BRW | Duitsland Leitstelle Ems-Vechte | TS 49-4531 — sources: tomzulu
+- `000605714` — - — 226 | BRW | Duitsland - Gildehaus | TS 49-7431 — sources: tomzulu
+- `000605716` — Brandweer — BRW Gronau-Duitsland ( Koppelingscode AC Twente ) — sources: capcodes_eu, tomzulu
+- `000605717` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605719` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605727` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605801` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605802` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605805` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605809` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605813` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605817` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605821` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605833` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605837` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605912` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605913` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605917` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605923` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605933` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605937` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605941` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605945` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605965` — Brandweer — BRW Den Ham ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000605969` — Brandweer — BRW Vroomshoop ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000605973` — Brandweer — BRW Vriezenveen ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000605974` — Brandweer — BRW Vriezenveen ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000605977` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605978` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605981` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605982` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605985` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605986` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605989` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605990` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000605993` — Brandweer — Brandweer Twente — sources: capcodes_eu, tomzulu
+- `000610001` — - — 4 | BRW | Dalfsen | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610002` — - — 5 | BRW | Deventer | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610003` — - — 6 | BRW | Hardenberg | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610004` — - — 7 | BRW | Kampen | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610005` — - — 8 | BRW | Olst-Wijhe | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610006` — - — 9 | BRW | Ommen | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610007` — - — 10 | BRW | Raalte | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610008` — - — 11 | BRW | Staphorst | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610009` — - — 12 | BRW | Steenwijkerland | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610010` — - — 13 | BRW | Zwartewaterland | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610011` — - — 14 | BRW | Zwolle | Bezetting Coördinatiepunt Decentrale Uitgifte — sources: tomzulu
+- `000610022` — - — 15 | BRW | Dalfsen | Postalarm — sources: tomzulu
+- `000610035` — - — 19 | BRW | Dalfsen | Chauffeurs — sources: tomzulu
+- `000610054` — - — 21 | BRW | Dalfsen | Decentrale Uitgifte post — sources: tomzulu
+- `000610055` — - — 22 | BRW | Dalfsen | Decentrale Uitgifte — sources: tomzulu
+- `000610062` — - — 23 | BRW | Nieuwleusen | Postalarm — sources: tomzulu
+- `000610075` — - — 27 | BRW | Nieuwleusen | Bezetting HV — sources: tomzulu
+- `000610089` — - — 28 | BRW | Nieuwleusen | Bezetting KW — sources: tomzulu
+- `000610102` — - — 30 | BRW | Lemelerveld | Noodalarmering Code — sources: tomzulu
+- `000610142` — - — 35 | BRW | Deventer | Kazernealarm noodprocedure — sources: tomzulu
+- `000610157` — - — 42 | BRW | Deventer | Ademluchtwerkplaats — sources: tomzulu
+- `000610158` — - — 43 | BRW | Deventer | Ademlucht ploeg — sources: tomzulu
+- `000610165` — - — 44 | BRW | Deventer | Herbezetting — sources: tomzulu
+- `000610175` — - — 48 | BRW | Deventer | Decentrale Uitgifte — sources: tomzulu
+- `000610181` — - — 49 | BRW | Bathmen | Postcoördinator — sources: tomzulu
+- `000610182` — - — 50 | BRW | Bathmen | Postalarm — sources: tomzulu
+- `000610221` — - — 55 | BRW | Diepenveen | Postcoördinator — sources: tomzulu
+- `000610222` — - — 56 | BRW | Diepenveen | Postalarm — sources: tomzulu
+- `000610263` — Brandweer — BRW Colmschate ( Bevelvoerder ) — sources: capcodes_eu, tomzulu
+- `000610301` — - — 62 | BRW | Hardenberg | Postcoördinator — sources: tomzulu
+- `000610302` — - — 63 | BRW | Hardenberg | Postalarm — sources: tomzulu
+- `000610308` — Brandweer — BRW Hardenberg ( Blusgroep 3 ) — sources: capcodes_eu, tomzulu
+- `000610334` — Brandweer — BRW Hardenberg ( Infocode Zeer Groot Incident ) — sources: capcodes_eu, tomzulu
+- `000610335` — - — 73 | BRW | Hardenberg | Decentrale Uitgifte — sources: tomzulu
+- `000610342` — - — 74 | BRW | Dedemsvaart | Postalarm — sources: tomzulu
+- `000610356` — - — 81 | BRW | Dedemsvaart | Veetakelploeg — sources: tomzulu
+- `000610368` — - — 82 | BRW | Dedemsvaart | Verkenningseenheid — sources: tomzulu
+- `000610382` — - — 84 | BRW | Bergentheim | Postalarm — sources: tomzulu
+- `000610422` — - — 89 | BRW | Balkbrug | Postalarm — sources: tomzulu
+- `000610462` — - — 94 | BRW | Gramsbergen | Postalarm — sources: tomzulu
+- `000610502` — - — 99 | BRW | Slagharen | Postalarm — sources: tomzulu
+- `000610542` — - — 104 | BRW | De Krim | Postalarm — sources: tomzulu
+- `000610581` — - — 109 | BRW | Kampen | Postcoördinator — sources: tomzulu
+- `000610582` — Brandweer — BRW Kampen ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000610592` — Brandweer — BRW Kampen ( Alle Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `000610594` — - — 117 | BRW | Kampen | Schippers — sources: tomzulu
+- `000610614` — Brandweer — BRW Kampen ( Infocode Zeer Groot Incident ) — sources: capcodes_eu, tomzulu
+- `000610615` — - — 122 | BRW | Kampen | Decentrale Uitgifte — sources: tomzulu
+- `000610621` — - — 123 | BRW | IJsselmuiden | Postcoördinator — sources: tomzulu
+- `000610622` — - — 124 | BRW | IJsselmuiden | Postalarm — sources: tomzulu
+- `000610636` — - — 128 | BRW | IJsselmuiden | Veetakelploeg — sources: tomzulu
+- `000610661` — - — 130 | BRW | Olst | Postcoördinator — sources: tomzulu
+- `000610662` — - — 131 | BRW | Olst | Noodalarmering Code — sources: tomzulu
+- `000610675` — - — 135 | BRW | Olst | Schippers/Bezetting BRV — sources: tomzulu
+- `000610702` — - — 138 | BRW | Wesepe | Postalarm — sources: tomzulu
+- `000610741` — - — 143 | BRW | Wijhe | Postcoördinator — sources: tomzulu
+- `000610742` — - — 144 | BRW | Wijhe | Noodalarmering Code — sources: tomzulu
+- `000610781` — - — 150 | BRW | Welsum | Postcoördinator — sources: tomzulu
+- `000610782` — - — 151 | BRW | Welsum | Postalarm — sources: tomzulu
+- `000610821` — - — 156 | BRW | Ommen | Postcoördinator — sources: tomzulu
+- `000610822` — - — 157 | BRW | Ommen | Postalarm — sources: tomzulu
+- `000610837` — Brandweer — BRW Ommen ( Bemanning TW ) — sources: capcodes_eu, tomzulu
+- `000610855` — - — 167 | BRW | Ommen | Decentrale Uitgifte — sources: tomzulu
+- `000610861` — - — 168 | BRW | Raalte | Postcoördinator — sources: tomzulu
+- `000610862` — - — 169 | BRW | Raalte | Postalarm — sources: tomzulu
+- `000610895` — - — 178 | BRW | Raalte | Decentrale Uitgifte — sources: tomzulu
+- `000610901` — - — 179 | BRW | Heino | Noodalarmering Code — sources: tomzulu
+- `000610902` — - — 180 | BRW | Heino | Postalarm — sources: tomzulu
+- `000610916` — - — 185 | BRW | Heino | Verzorgingsgroep (Groepsleden) — sources: tomzulu
+- `000610942` — - — 187 | BRW | Heeten | Postalarm — sources: tomzulu
+- `000610968` — - — 191 | BRW | Heeten | Verkenningseenheid IBGS — sources: tomzulu
+- `000610982` — - — 193 | BRW | Luttenberg | Postalarm — sources: tomzulu
+- `000611021` — - — 198 | BRW | Staphorst | Postcoördinator — sources: tomzulu
+- `000611022` — - — 199 | BRW | Staphorst | Postalarm — sources: tomzulu
+- `000611035` — - — 205 | BRW | Staphorst | Rietdak Brandbestrijdingsteam Ploeg 1 — sources: tomzulu
+- `000611036` — - — 206 | BRW | Staphorst | Rietdak Brandbestrijdingsteam Ploeg 2 — sources: tomzulu
+- `000611055` — - — 209 | BRW | Staphorst | Decentrale Uitgifte — sources: tomzulu
+- `000611061` — - — 210 | BRW | Steenwijk | Postcoördinator — sources: tomzulu
+- `000611062` — - — 211 | BRW | Steenwijk | Postalarm — sources: tomzulu
+- `000611102` — - — 221 | BRW | Kuinre | Postalarm — sources: tomzulu
+- `000611141` — - — 226 | BRW | Giethoorn | Postcoördinator — sources: tomzulu
+- `000611142` — - — 227 | BRW | Giethoorn | Postalarm — sources: tomzulu
+- `000611156` — - — 233 | BRW | Giethoorn | Veetakelploeg — sources: tomzulu
+- `000611182` — - — 235 | BRW | Oldemarkt | Postalarm — sources: tomzulu
+- `000611196` — - — 240 | BRW | Oldemarkt | Chauffeurs — sources: tomzulu
+- `000611199` — - — 241 | BRW | Oldemarkt | Bezetting WT — sources: tomzulu
+- `000611208` — - — 242 | BRW | Oldemarkt | Verkenningseenheid — sources: tomzulu
+- `000611222` — - — 244 | BRW | Vollenhove | Postalarm — sources: tomzulu
+- `000611236` — - — 248 | BRW | Vollenhove | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000611237` — - — 249 | BRW | Vollenhove | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000611238` — - — 250 | BRW | Vollenhove | Bezetting WT Ploeg 3 — sources: tomzulu
+- `000611240` — - — 251 | BRW | Vollenhove | Ademluchtploeg — sources: tomzulu
+- `000611241` — - — 252 | BRW | Vollenhove | Bezetting Specialistische Voertuigen — sources: tomzulu
+- `000611262` — - — 254 | BRW | Genemuiden | Postalarm — sources: tomzulu
+- `000611289` — - — 258 | BRW | Genemuiden | Bezetting GW — sources: tomzulu
+- `000611301` — - — 261 | BRW | Hasselt | Postcoördinator — sources: tomzulu
+- `000611302` — - — 262 | BRW | Hasselt | Postalarm — sources: tomzulu
+- `000611307` — - — 266 | BRW | Hasselt | Ploeg B — sources: tomzulu
+- `000611312` — - — 267 | BRW | Hasselt | Ploegen A + B — sources: tomzulu
+- `000611341` — - — 269 | BRW | Zwartsluis | Postcoördinator — sources: tomzulu
+- `000611342` — - — 270 | BRW | Zwartsluis | Postalarm — sources: tomzulu
+- `000611355` — - — 274 | BRW | Zwartsluis | Schippers — sources: tomzulu
+- `000611382` — - — 276 | BRW | Zwolle Noord | Postalarm — sources: tomzulu
+- `000611394` — - — 281 | BRW | Zwolle Noord | Duikploeg Vrije Instroom — sources: tomzulu
+- `000611415` — - — 284 | BRW | Zwolle | Decentrale Uitgifte — sources: tomzulu
+- `000611427` — - — 288 | BRW | Zwolle Zuid | Vrijwilligers — sources: tomzulu
+- `000611435` — Brandweer — BRW Zwolle-Hoofdpost ( Chauffeurs Logistiek ) — sources: capcodes_eu, tomzulu
+- `000611437` — - — 290 | BRW | Zwolle Zuid | Chauffeurs Beroeps Ploeg 1 — sources: tomzulu
+- `000611438` — - — 291 | BRW | Zwolle Zuid | Chauffeurs Beroeps Ploeg 2 — sources: tomzulu
+- `000611445` — - — 292 | BRW | Zwolle Zuid | Herbezetting — sources: tomzulu
+- `000611530` — - — 295 | BRW | Feuerwehr Landkreis Grafschaft Bentheim | Ortsfeuerwehr Wilsum TS Ploeg — sources: tomzulu
+- `000611761` — - — 297 | BRW | Regionaal | OvD's Zuid (Groepscode) — sources: tomzulu
+- `000611765` — - — 298 | BRW | Regionaal | OvD's Zuid (Persoonlijke) — sources: tomzulu
+- `000611821` — - — 302 | BRW | Regionaal | OvD's Noord (Groepscode) — sources: tomzulu
+- `000611841` — - — 304 | BRW | Regionaal | OvD's Midden (Groepscode) — sources: tomzulu
+- `000611881` — - — 306 | BRW | Regionaal | HOvD's Oost (Groepscode) — sources: tomzulu
+- `000611901` — - — 308 | BRW | Regionaal | HOvD's Noordwest (Groepscode) — sources: tomzulu
+- `000611941` — - — 310 | BRW | Regionaal | Adviseurs Gevaarlijke Stoffen (Groepscode) — sources: tomzulu
+- `000611950` — - — 311 | BRW | Regionaal | Plotters VK-organisatie — sources: tomzulu
+- `000611984` — - — 315 | BRW | Regionaal | Algemeen Commandant (persoonlijke-code) — sources: tomzulu
+- `000612001` — - — 316 | BRW | Regionaal | TCO Teamleden — sources: tomzulu
+- `000612002` — - — 317 | BRW | Regionaal | TCO Coördinator — sources: tomzulu
+- `000612042` — - — 318 | BRW | Regionaal | OvD Bevolkingszorg (Noord-West) — sources: tomzulu
+- `000612043` — - — 319 | BRW | Regionaal | OvD Bevolkingszorg (Oost) — sources: tomzulu
+- `000612044` — - — 320 | BRW | Regionaal | OvD Bevolkingszorg (Zuid) — sources: tomzulu
+- `000612045` — - — 321 | BRW | Regionaal | OvD Bevolkingszorg (Zuid) — sources: tomzulu
+- `000612047` — - — 322 | BRW | Regionaal | Hoofd Taakorganisatie Communicatie (Piket) — sources: tomzulu
+- `000612051` — - — 323 | BRW | Regionaal | Teamleider Omgevingszorg (Piket) — sources: tomzulu
+- `000612052` — - — 324 | BRW | Regionaal | Teamleider Omgevingszorg (Groep) — sources: tomzulu
+- `000612055` — - — 325 | BRW | Regionaal | Teamleider Opvang Verzorging en Registratie — sources: tomzulu
+- `000612056` — - — 326 | BRW | Regionaal | Teamleider Opvang Verzorging en Registratie — sources: tomzulu
+- `000612060` — Brandweer — BRW Ijsselland ( ROT ) — sources: capcodes_eu, tomzulu
+- `000612061` — Brandweer — BRW Ijsselland ( ROT ) — sources: capcodes_eu, tomzulu
+- `000612067` — - — 329 | BRW | Regionaal | Informatiemanager — sources: tomzulu
+- `000612080` — - — 330 | BRW | Regionaal | Logistiek Brandweer Actiecentrum — sources: tomzulu
+- `000612081` — - — 331 | BRW | Regionaal | Bezetting Sectie Brandweer — sources: tomzulu
+- `000612087` — - — 332 | BRW | Regionaal | Hoofd Informatie Brandweer — sources: tomzulu
+- `000612100` — - — 333 | BRW | Regionaal | Team Brandonderzoek — sources: tomzulu
+- `000612101` — - — 334 | BRW | Regionaal | Team Brandonderzoek (Groepscode) — sources: tomzulu
+- `000612120` — - — 335 | BRW | Regionaal | OvD Communicatie — sources: tomzulu
+- `000612121` — - — 336 | BRW | Regionaal | OvD Communicatie CoPI — sources: tomzulu
+- `000612150` — - — 337 | BRW | Specialisme Technische Hulpverlening-Oost | Teamleden — sources: tomzulu
+- `000612151` — - — 338 | BRW | Specialisme Technische Hulpverlening-Oost | Teamleden — sources: tomzulu
+- `000612152` — - — 339 | BRW | Specialisme Technische Hulpverlening-Oost | Teamleider — sources: tomzulu
+- `000612160` — Ambulance — 340 | GHOR IJsselland | GAGS — sources: tomzulu
+- `000612260` — - — 341 | BRW | VR IJsselland | Monitor GRIP — sources: tomzulu
+- `000612261` — - — 342 | BRW | VR IJsselland | Monitor GRIP 1 — sources: tomzulu
+- `000612269` — - — 343 | BRW | OCB Oost-Nederland | Monitor Middel Incident IJsselland — sources: tomzulu
+- `000612270` — - — 344 | BRW | OCB Oost-Nederland | Monitor Natuurbrand IJsselland — sources: tomzulu
+- `000612271` — - — 345 | BRW | OCB Oost-Nederland | Monitor Groot Incident IJsselland — sources: tomzulu
+- `000612272` — - — 346 | BRW | OCB Oost-Nederland | Monitor Zeer Groot Incident IJsselland — sources: tomzulu
+- `000620001` — Ambulance — 348 | GHOR IJsselland | OvD-G persoonlijke code — sources: tomzulu
+- `000620010` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620012` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620040` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620050` — Ambulance — 352 | Regionaal | Hoofd Ondersteuning Geneeskundige Zorg — sources: tomzulu
+- `000620051` — Ambulance — 353 | Regionaal | Hoofd Informatie Geneeskundige Zorg — sources: tomzulu
+- `000620060` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620070` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620080` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620090` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620601` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000620999` — Ambulance — Ambulance IJsselland — sources: capcodes_eu, tomzulu
+- `000623060` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000623061` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000623501` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000623594` — Ambulance — 274 | Regionaal | Calamiteitenteam — sources: tomzulu
+- `000623599` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000623711` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000623809` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000623829` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000623831` — Ambulance — 279 | Regionaal | NRK Noodhulp-Team UGS — sources: tomzulu
+- `000623832` — Ambulance — 280 | Regionaal | NRK Noodhulp-Team UGS — sources: tomzulu
+- `000623833` — Ambulance — 281 | Regionaal | NRK Noodhulp-Team UGS Enschede — sources: tomzulu
+- `000623834` — Ambulance — 282 | Regionaal | NRK Noodhulp-Team UGS Oldenzaal — sources: tomzulu
+- `000623870` — Ambulance — 285 | GHOR Twente | OvD-G CoPI — sources: tomzulu
+- `000623899` — Ambulance — Ambulance Twente — sources: capcodes_eu, tomzulu
+- `000630050` — Politie — Politie IJsselland — sources: capcodes_eu, tomzulu
+- `000630055` — Politie — Politie IJsselland — sources: capcodes_eu, tomzulu
+- `000630211` — Politie — Politie IJsselland — sources: capcodes_eu, tomzulu
+- `000633093` — Politie — Politie Twente — sources: capcodes_eu, tomzulu
+- `000700003` — Brandweer — BRW Almere ( Commandant ) — sources: capcodes_eu, tomzulu
+- `000700010` — Brandweer — BRW Flevoland ( Piket Officieren ) — sources: capcodes_eu, tomzulu
+- `000700017` — Brandweer — BRW Flevoland ( RCvD Alarm ) — sources: capcodes_eu, tomzulu
+- `000700021` — Brandweer — BRW Flevoland ( Persvoorlichting ) — sources: capcodes_eu, tomzulu
+- `000700024` — Brandweer — BRW Flevoland ( Sectie Logistiek ) — sources: capcodes_eu, tomzulu
+- `000700026` — Brandweer — BRW Flevoland ( Sectie Gemeenten ) — sources: capcodes_eu, tomzulu
+- `000700037` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700038` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700045` — Brandweer — BRW Flevoland ( Ontsmettingsploeg ) — sources: capcodes_eu, tomzulu
+- `000700094` — - — 26 | BRW | Flevoland/Gooi en Vechtstreek | Logistiek - Midden — sources: tomzulu
+- `000700095` — - — 27 | BRW | Flevoland/Gooi en Vechtstreek | Logistiek - Midden — sources: tomzulu
+- `000700108` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700109` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700114` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700141` — Brandweer — BRW Almere-Haven ( Bevelvoerder Dagploeg ) — sources: capcodes_eu, tomzulu
+- `000700142` — Brandweer — BRW Almere-Haven ( Chauffeur Dagploeg ) — sources: capcodes_eu, tomzulu
+- `000700143` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700241` — Brandweer — BRW Almere-Buiten ( Bevelvoerder Dagbezetting ) — sources: capcodes_eu, tomzulu
+- `000700315` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700351` — Brandweer — BRW Biddinghuizen ( Bevelvoerder ) — sources: capcodes_eu, tomzulu
+- `000700371` — Brandweer — BRW Swifterbant ( Bevelvoerder ) — sources: capcodes_eu, tomzulu
+- `000700561` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700565` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700579` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700580` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700581` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700616` — - — 89 | BRW | Emmeloord | Bevelvoerder van Dienst Ploeg 1 — sources: tomzulu
+- `000700617` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700618` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700626` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700701` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700702` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700711` — Brandweer — BRW Urk ( Bevelvoerder Ploeg 710 ) — sources: capcodes_eu, tomzulu
+- `000700721` — Brandweer — BRW Urk ( Bevelvoerder Ploeg 720 ) — sources: capcodes_eu, tomzulu
+- `000700730` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700731` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700763` — Brandweer — Brandweer Flevoland — sources: capcodes_eu
+- `000700801` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700802` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700803` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700813` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700815` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700823` — - — 126 | BRW | Zeewolde | Veetakel Ploeg 2 — sources: tomzulu
+- `000700825` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700833` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700835` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700921` — Brandweer — BRW Flevoland ( OvD Gemeente Dronten ) — sources: capcodes_eu, tomzulu
+- `000700922` — Brandweer — BRW Flevoland ( Info OvD Gemeente Dronten ) — sources: capcodes_eu, tomzulu
+- `000700951` — - — 141 | BRW | Urk | OvD Bevolkingszorg (Alarmcode) — sources: tomzulu
+- `000700952` — - — 142 | BRW | Urk | OvD Bevolkingszorg (Infocode) — sources: tomzulu
+- `000700961` — Brandweer — BRW Flevoland ( OvD Gemeente Zeewolde ) — sources: capcodes_eu, tomzulu
+- `000700962` — Brandweer — BRW Flevoland ( Info OvD Gemeente Zeewolde ) — sources: capcodes_eu, tomzulu
+- `000700971` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700972` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000700980` — Brandweer — Brandweer Flevoland — sources: capcodes_eu, tomzulu
+- `000701601` — Brandweer — BRW Emmeloord ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000701602` — Brandweer — BRW Emmeloord ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000701800` — Brandweer — BRW Zeewolde ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000703061` — KNRM — KNBRD Blaricum ( Bemanning Blaricum-1 en Mayflower ) — sources: capcodes_eu, tomzulu
+- `000703106` — Brandweer — BRW Laren ( Verzorgingsteam ) — sources: capcodes_eu, tomzulu
+- `000703110` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703205` — Brandweer — BRW Loosdrecht ( Schippers ) — sources: capcodes_eu, tomzulu
+- `000703212` — Brandweer — BRW Loosdrecht ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000703214` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703220` — - — 44 | BRW | 's-Graveland | Schipper — sources: tomzulu
+- `000703223` — Brandweer — BRW s-Graveland ( Bevelvoerder ) — sources: capcodes_eu, tomzulu
+- `000703234` — Brandweer — BRW Nederhorst den Berg ( Schippers ) — sources: capcodes_eu, tomzulu
+- `000703239` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703251` — Brandweer — BRW Bussum ( Chauffeurs Ploeg 1 ) — sources: capcodes_eu, tomzulu
+- `000703253` — Brandweer — BRW Bussum ( Chauffeurs Ploeg 2 ) — sources: capcodes_eu, tomzulu
+- `000703258` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703259` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703303` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703353` — Brandweer — BRW Muiderberg ( Bevelvoerder van Dienst ) — sources: capcodes_eu, tomzulu
+- `000703461` — Brandweer — BRW Gooi en Vechtstreek ( Catering ) — sources: capcodes_eu, tomzulu
+- `000703481` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703483` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703485` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703489` — - — 87 | BRW | Regionaal | Technische dienst — sources: tomzulu
+- `000703494` — - — 89 | BRW | Regionaal | Coördinator Verkenningseenheden — sources: tomzulu
+- `000703497` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703498` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703500` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703501` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703505` — Brandweer — BRW Gooi en Vechtstreek ( Logboekschrijfers ) — sources: capcodes_eu, tomzulu
+- `000703902` — Brandweer — BRW Gooi en Vechtstreek ( Lichtkrant Blaricum ) — sources: capcodes_eu, tomzulu
+- `000703903` — Brandweer — BRW Gooi en Vechtstreek ( Lichtkrant Laren ) — sources: capcodes_eu, tomzulu
+- `000703905` — Brandweer — BRW Gooi en Vechtstreek ( Lichtkrant Loosdrecht ) — sources: capcodes_eu, tomzulu
+- `000703906` — Brandweer — BRW Gooi en Vechtstreek ( Lichtkrant Kortenhoef ) — sources: capcodes_eu, tomzulu
+- `000703924` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000703925` — Brandweer — BRW Gooi en Vechtstreek ( Vrije Instroom ) — sources: capcodes_eu, tomzulu
+- `000704137` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000704213` — - — 111 | BRW | Laren | Postcommandant — sources: tomzulu
+- `000704218` — - — 112 | BRW | Laren | Persoonlijke Code — sources: tomzulu
+- `000704303` — - — 113 | BRW | Hilversum | Centralist Persoonlijke Code — sources: tomzulu
+- `000704348` — - — 114 | BRW | GMK | Beheer GMS — sources: tomzulu
+- `000704358` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000704460` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000704600` — - — 118 | BRW | Muiden - Muidenberg | Persoonlijk — sources: tomzulu
+- `000704619` — - — 119 | BRW | Muiden - Muidenberg | Persoonlijk — sources: tomzulu
+- `000704633` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000704636` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000704716` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu
+- `000704720` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu
+- `000704751` — Brandweer — Brandweer Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000704997` — Brandweer — BRW Gooi en Vechtstreek ( Piket Boswachter Goois natuur reservaat ) — sources: capcodes_eu, tomzulu
+- `000706007` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706009` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706011` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706055` — - — 16 | BRW | Amerongen | Bevelvoerder van Dienst — sources: tomzulu
+- `000706056` — - — 17 | BRW | Amerongen | Collegiaal Opvang Team — sources: tomzulu
+- `000706057` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706140` — Brandweer — BRW Amersfoort-Hoofdpost ( Postchef ) — sources: capcodes_eu, tomzulu
+- `000706141` — Brandweer — BRW Amersfoort-Hoofdpost ( BvD Dagdienst ) — sources: capcodes_eu, tomzulu
+- `000706145` — Brandweer — BRW Amersfoort-Hoofdpost ( Piketploeg HV/HW/SB/HA Dagdienst ) — sources: capcodes_eu, tomzulu
+- `000706146` — Brandweer — BRW Amersfoort-Hoofdpost ( Piketploeg HV/HW/SB/HA Nachtdienst ) — sources: capcodes_eu, tomzulu
+- `000706147` — Brandweer — BRW Amersfoort-Hoofdpost ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000706148` — - — 39 | BRW | Eemland | Piket Uitrusting, Materieel en Logistiek — sources: tomzulu
+- `000706231` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706240` — Brandweer — BRW Baarn ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000706247` — Brandweer — BRW Baarn ( HV / AL Tweede Uitruk ) — sources: capcodes_eu, tomzulu
+- `000706248` — Brandweer — BRW Baarn ( HV / AL Eerste Uitruk ) — sources: capcodes_eu, tomzulu
+- `000706249` — Brandweer — BRW Baarn ( BvD ) — sources: capcodes_eu, tomzulu
+- `000706251` — - — 47 | BRW | Baarn | Noodalarmering — sources: tomzulu
+- `000706317` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706318` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706320` — Brandweer — BRW Nieuwer Ter Aa ( Postcommandant ) — sources: capcodes_eu, tomzulu
+- `000706329` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706337` — Brandweer — BRW Breukelen ( Commando ) — sources: capcodes_eu, tomzulu
+- `000706338` — Brandweer — BRW Kockengen ( Rietdekkers ) — sources: capcodes_eu, tomzulu
+- `000706339` — - — 66 | BRW | Breukelen | Collegiaal Opvang Team — sources: tomzulu
+- `000706445` — - — 71 | BRW | Bunnik | Noodalarmering — sources: tomzulu
+- `000706446` — - — 72 | BRW | Werkhoven | Noodalarmering — sources: tomzulu
+- `000706447` — Brandweer — BRW Bunnik ( Rietdekkers Werkhoven ) — sources: capcodes_eu, tomzulu
+- `000706448` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706449` — - — 75 | BRW | Werkhoven | Bevelvoerder van Dienst — sources: tomzulu
+- `000706501` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706504` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706505` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706512` — - — 84 | BRW | Bunschoten | Dienstwisselcode — sources: tomzulu
+- `000706513` — Brandweer — BRW Bunschoten ( Noodprocedure ) — sources: capcodes_eu, tomzulu
+- `000706576` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706577` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706578` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706579` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706580` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706591` — Brandweer — BRW Maartensdijk ( HV Groep ) — sources: capcodes_eu, tomzulu
+- `000706605` — - — 108 | BRW | De Bilt | Bevelvoerder van Dienst — sources: tomzulu
+- `000706606` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706607` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706766` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706778` — Brandweer — BRW Doorn ( Bevelvoerder ) — sources: capcodes_eu, tomzulu
+- `000706779` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706780` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706826` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706891` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706899` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706941` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706942` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706943` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706944` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706945` — - — 141 | BRW | Houten-West | Collegiaal Opvang Team — sources: tomzulu
+- `000706963` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706964` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706965` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000706966` — - — 157 | BRW | Schalkwijk | Bevelvoerder van Dienst — sources: tomzulu
+- `000707000` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707051` — Brandweer — BRW IJsselstein ( Bemanning TS ) — sources: capcodes_eu, tomzulu
+- `000707111` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707112` — - — 167 | BRW | Leersum | Collegiaal Opvang Team — sources: tomzulu
+- `000707117` — Brandweer — BRW Leersum ( BvD ) — sources: capcodes_eu, tomzulu
+- `000707118` — - — 171 | BRW | Leersum | Ploeg 2 — sources: tomzulu
+- `000707119` — - — 172 | BRW | Leersum | Ploeg 3 — sources: tomzulu
+- `000707120` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707161` — - — 174 | BRW | Leusden | AED Alarm — sources: tomzulu
+- `000707166` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707171` — Brandweer — BRW Leusden ( BvD Achterveld ) — sources: capcodes_eu, tomzulu
+- `000707177` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707256` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707269` — Brandweer — BRW Loenen a/d Vecht ( Brugwachter ) — sources: capcodes_eu, tomzulu
+- `000707270` — Brandweer — BRW Loenen a/d Vecht ( Brugwachter Nigtevecht ) — sources: capcodes_eu, tomzulu
+- `000707501` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707515` — - — 212 | BRW | Maarn-Maarsbergen | Bemanning HV — sources: tomzulu
+- `000707516` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707564` — - — 215 | BRW | Maarsseveen-Tienhoven | AED Alarm — sources: tomzulu
+- `000707568` — - — 216 | BRW | Maarssen | Postcommandant — sources: tomzulu
+- `000707572` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707575` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707586` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707711` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707712` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707718` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707811` — - — 243 | BRW | Nieuwegein Noord | AED Alarm — sources: tomzulu
+- `000707812` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707837` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707838` — - — 251 | BRW | Nieuwegein Noord | Postcommandant — sources: tomzulu
+- `000707839` — Brandweer — BRW Nieuwegein ( Postalarm / Noodalarmering Zuid ) — sources: capcodes_eu, tomzulu
+- `000707840` — - — 253 | BRW | Nieuwegein Noord | Noodalarmering — sources: tomzulu
+- `000707841` — Brandweer — BRW Nieuwegein ( Brugbediening Nieuwegein-IJsselstein ) — sources: capcodes_eu, tomzulu
+- `000707934` — - — 260 | BRW | Oudewater | Collegiaal Opvang Team — sources: tomzulu
+- `000707935` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707991` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000707996` — Brandweer — BRW Renswoude — sources: capcodes_eu, tomzulu
+- `000707997` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708031` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708032` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708056` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708126` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708127` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708131` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708132` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708133` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708147` — Brandweer — BRW Wilnis ( BvD ) — sources: capcodes_eu, tomzulu
+- `000708148` — - — 299 | BRW | Mijdrecht | Noodalarmering — sources: tomzulu
+- `000708149` — - — 300 | BRW | Vinkeveen | Noodalarmering — sources: tomzulu
+- `000708150` — - — 301 | BRW | Wilnis | Noodalarmering — sources: tomzulu
+- `000708154` — - — 303 | BRW | Mijdrecht | Dienstwisselcode — sources: tomzulu
+- `000708191` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708192` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708194` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708294` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708304` — Brandweer — BRW Soest ( Commandant ) — sources: capcodes_eu, tomzulu
+- `000708305` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708306` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708308` — Brandweer — BRW Soest ( TS-742 Nevenpost ) — sources: capcodes_eu, tomzulu
+- `000708310` — - — 322 | BRW | Soest | Postcommandant — sources: tomzulu
+- `000708311` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708431` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708432` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708433` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708438` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708440` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708447` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708456` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708457` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708468` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708469` — - — 337 | BRW | Utrecht Voordorp | TCO — sources: tomzulu
+- `000708482` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708483` — - — 340 | BRW | Piket Uitrusting, Materieel & Logistiek — sources: tomzulu
+- `000708484` — - — 341 | BRW | Utrecht Leidsche Rijn | Bevelvoerder van dienst — sources: tomzulu
+- `000708486` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708488` — Brandweer — BRW Utrecht ( Persvoorlichter ) — sources: capcodes_eu
+- `000708489` — Brandweer — BRW Utrecht ( Logistiek ) — sources: capcodes_eu, tomzulu
+- `000708495` — Brandweer — BRW Utrecht-Zuilen ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000708497` — Brandweer — Brandweer Utrecht — sources: capcodes_eu
+- `000708515` — Brandweer — BRW Utrecht-Vleuten ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000708518` — Brandweer — BRW Utrecht-Vleuten ( BVD ) — sources: capcodes_eu, tomzulu
+- `000708519` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708527` — - — 365 | BRW | De Meern | TCO — sources: tomzulu
+- `000708790` — - — 366 | BRW | Veenendaal | AED Alarm — sources: tomzulu
+- `000708791` — Brandweer — Brandweer Utrecht — sources: capcodes_eu
+- `000708792` — - — 367 | BRW | Veenendaal | Postcommandant — sources: tomzulu
+- `000708798` — Brandweer — BRW Veenendaal ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000708799` — Brandweer — BRW Veenendaal ( Brigade A1 ) — sources: capcodes_eu, tomzulu
+- `000708807` — Brandweer — BRW Veenendaal ( Bemanning HW Groep C ) — sources: capcodes_eu, tomzulu
+- `000708808` — Brandweer — BRW Veenendaal — sources: capcodes_eu, tomzulu
+- `000708815` — - — 384 | BRW | Veenendaal | Noodalarmering — sources: tomzulu
+- `000708816` — - — 385 | BRW | Heuvelrug | Uitrusting, Materieel & Logistiek — sources: tomzulu
+- `000708886` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708887` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708890` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708909` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708910` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708911` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708912` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708913` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708914` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708915` — - — 408 | BRW | Leerdam | Noodalarmering — sources: tomzulu
+- `000708919` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708920` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708921` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708922` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708923` — - — 413 | BRW | Schoonrewoerd | Noodalarmering — sources: tomzulu
+- `000708924` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708925` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708926` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708927` — - — 417 | BRW | Ameide | Noodalarmering — sources: tomzulu
+- `000708929` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708930` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708931` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708932` — - — 421 | BRW | Lexmond | Noodalarmering — sources: tomzulu
+- `000708933` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708934` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708935` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708936` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708937` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708938` — - — 427 | BRW | Meerkerk | Noodalarmering — sources: tomzulu
+- `000708940` — - — 428 | BRW | Leerdam | TCO — sources: tomzulu
+- `000708941` — - — 429 | BRW | Schoonrewoerd | TCO — sources: tomzulu
+- `000708942` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708943` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708944` — - — 432 | BRW | Meerkerk | TCO — sources: tomzulu
+- `000708991` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000708992` — Brandweer — Brandweer Utrecht — sources: capcodes_eu, tomzulu
+- `000709009` — Brandweer — BRW Wijk bij Duurstede ( Duikers ) — sources: capcodes_eu, tomzulu
+- `000709091` — - — 449 | BRW | Woerden | AED Alarm — sources: tomzulu
+- `000709092` — - — 450 | BRW | Harmelen | AED Alarm — sources: tomzulu
+- `000709093` — - — 451 | BRW | Kamerik | AED Alarm — sources: tomzulu
+- `000709094` — - — 452 | BRW | Zegveld | AED Alarm — sources: tomzulu
+- `000709118` — - — 472 | BRW | Woerden | TCO — sources: tomzulu
+- `000709120` — - — 473 | BRW | Zegveld | TCO — sources: tomzulu
+- `000709121` — - — 474 | BRW | Kamerik | TCO — sources: tomzulu
+- `000709122` — - — 475 | BRW | Woerden | Kazernetechniek — sources: tomzulu
+- `000709128` — - — 478 | BRW | Woerden | Bevelvoerder van Dienst — sources: tomzulu
+- `000709230` — - — 479 | BRW | Woudenberg | TCO — sources: tomzulu
+- `000709280` — - — 480 | BRW | Woudenberg | AED Alarm — sources: tomzulu
+- `000709289` — Brandweer — BRW Woudenberg ( Chauffeurs ) — sources: capcodes_eu, tomzulu
+- `000709341` — - — 489 | BRW | Zeist | AED Alarm — sources: tomzulu
+- `000709342` — - — 490 | BRW | Den Dolder | AED Alarm — sources: tomzulu
+- `000709351` — - — 493 | BRW | Zeist | Bezetting HA — sources: tomzulu
+- `000709352` — - — 494 | BRW | Zeist | Postalarm AL — sources: tomzulu
+- `000709356` — Brandweer — BRW Zeist — sources: capcodes_eu, tomzulu
+- `000709359` — - — 500 | BRW | Zeist | Bevelvoerder van Dienst — sources: tomzulu
+- `000709360` — - — 501 | BRW | Binnensticht/Lekstroom | Piket UML Binnensticht/Lekstroom — sources: tomzulu
+- `000709401` — - — 505 | BRW | Regionaal | Functionaris Logistiek Oost — sources: tomzulu
+- `000709534` — Brandweer — BRW Utrechts Land ( AGS Regio West ) — sources: capcodes_eu, tomzulu
+- `000709535` — - — 534 | BRW | Regionaal | Adviseur Gevaarlijke Stoffen (Oost) — sources: tomzulu
+- `000709540` — - — 536 | BRW | Regionaal | Informatiemanager CoPI Oost — sources: tomzulu
+- `000709541` — - — 537 | BRW | Regionaal | Informatiemanager CoPI West — sources: tomzulu
+- `000709542` — - — 538 | BRW | Regionaal | Informatiemanager ROT — sources: tomzulu
+- `000709543` — - — 539 | BRW | Regionaal | Medewerker Sectie Informatie ROT — sources: tomzulu
+- `000709550` — - — 541 | BRW | Regionaal | Geo Informatie Medewerker ROT — sources: tomzulu
+- `000709551` — Brandweer — BRW Utrechts Land ( Groepsoproep HOvD Oost ) — sources: capcodes_eu, tomzulu
+- `000709553` — - — 543 | BRW | Regionaal | Procesbewaker Communicatie ROT — sources: tomzulu
+- `000709555` — - — 544 | BRW | Regionaal | Notulist RBT — sources: tomzulu
+- `000709556` — Brandweer — BRW Utrechts Land ( Centralist ) — sources: capcodes_eu, tomzulu
+- `000709557` — Brandweer — BRW Utrechts Land ( Groepsoproep HOvD West ) — sources: capcodes_eu, tomzulu
+- `000709565` — - — 551 | BRW | Regionaal | Crisisbeheersing — sources: tomzulu
+- `000709566` — - — 552 | BRW | Regionaal | Algemeen Commandant Bevolkingszorg — sources: tomzulu
+- `000709567` — - — 553 | BRW | Regionaal | Communicatieadviseur ROT — sources: tomzulu
+- `000709568` — - — 554 | BRW | Regionaal | Infocode Natuurbrandbestrijding — sources: tomzulu
+- `000709569` — - — 555 | BRW | Regionaal | Lid Sectie Brandweer Medewerker Informatiemanagement — sources: tomzulu
+- `000709570` — - — 556 | BRW | Regionaal | Algemeen Commandant Brandweerzorg — sources: tomzulu
+- `000709571` — - — 557 | BRW | Regionaal | Team Opvang & Nazorg Teamcoordinator — sources: tomzulu
+- `000709572` — - — 558 | BRW | Regionaal | Team Opvang & Nazorg Teamleden — sources: tomzulu
+- `000709573` — - — 559 | BRW | GMK | Calamiteiten Coördinator — sources: tomzulu
+- `000709575` — - — 560 | BRW | Regionaal | Coördinerend Informatiemanager — sources: tomzulu
+- `000709580` — - — 561 | BRW | Regionaal | Piketvoertuigen en Inventaris — sources: tomzulu
+- `000709582` — - — 562 | BRW | Regionaal | Onderwater Drone Operators (Alarmcode) — sources: tomzulu
+- `000709584` — - — 563 | BRW | Regionaal | Onderwater Drone Operators (Infocode) — sources: tomzulu
+- `000709590` — - — 564 | BRW | Utrecht Leidsche Rijn | Medewerkers Logistiek Centraal Dagploeg — sources: tomzulu
+- `000709591` — - — 565 | BRW | Utrecht Leidsche Rijn | Medewerkers Logistiek & Ondersteuning Ploeg 1 — sources: tomzulu
+- `000709592` — - — 566 | BRW | Utrecht Leidsche Rijn | Medewerkers Logistiek & Ondersteuning Ploeg 2 — sources: tomzulu
+- `000709593` — - — 567 | BRW | Utrecht Leidsche Rijn | Medewerkers Logistiek & Ondersteuning Ploeg 3 — sources: tomzulu
+- `000709594` — - — 568 | BRW | RAC | Piket ICT — sources: tomzulu
+- `000709595` — Brandweer — BRW Utrechts Land ( Testcode FRS ) — sources: capcodes_eu, tomzulu
+- `000709596` — Brandweer — BRW Utrechts Land ( Logistiek ) — sources: capcodes_eu, tomzulu
+- `000709597` — Brandweer — BRW Utrechts Land ( Logistiek ) — sources: capcodes_eu, tomzulu
+- `000709598` — Brandweer — BRW Utrechts Land ( Hoogtereddingsteam ) — sources: capcodes_eu, tomzulu
+- `000709600` — Brandweer — BRW Utrechts Land ( Ondersteuning ROT ) — sources: capcodes_eu, tomzulu
+- `000709603` — Brandweer — BRW Utrechts Land ( Lichtkrant Staatsbosbeheer ) — sources: capcodes_eu, tomzulu
+- `000709604` — - — 576 | BRW | MKB Utrecht > | MKB Gelderland Midden Infocode — sources: tomzulu
+- `000709605` — Brandweer — BRW Utrechts Land ( Infocode AC Gooi en Vechtstreek ) — sources: capcodes_eu, tomzulu
+- `000709610` — - — 580 | BRW | Regionaal | Communicatieadviseur CoPI — sources: tomzulu
+- `000709611` — - — 581 | BRW | RAC | Centralist — sources: tomzulu
+- `000709612` — - — 582 | BRW | RAC | Centralist — sources: tomzulu
+- `000709613` — - — 583 | BRW | RAC | Centralist — sources: tomzulu
+- `000709614` — - — 584 | BRW | RAC | Centralist — sources: tomzulu
+- `000709616` — - — 585 | BRW | RAC | Centralist — sources: tomzulu
+- `000709617` — - — 586 | BRW | RAC | Centralist — sources: tomzulu
+- `000709640` — - — 587 | BRW | Eemland | OvD-Bevolkingszorg — sources: tomzulu
+- `000709641` — - — 588 | BRW | De Bilt | OvD-Bevolkingszorg — sources: tomzulu
+- `000709643` — - — 589 | BRW | Lekstroom | OvD-Bevolkingszorg — sources: tomzulu
+- `000709644` — - — 590 | BRW | Heuvelrug | OvD-Bevolkingszorg — sources: tomzulu
+- `000709645` — - — 591 | BRW | de Ronde Venen | OvD-Bevolkingszorg — sources: tomzulu
+- `000709646` — - — 592 | BRW | Stichtse Vecht | OvD-Bevolkingszorg — sources: tomzulu
+- `000709647` — - — 593 | BRW | OvD-Bevolkingszorg — sources: tomzulu
+- `000709648` — - — 594 | BRW | Woerden/Oudewater | OvD-Bevolkingszorg — sources: tomzulu
+- `000709649` — - — 595 | BRW | Zeist/Bunnik | OvD-Bevolkingszorg — sources: tomzulu
+- `000709682` — Brandweer — BRW Eemnes ( WvD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `000709684` — Brandweer — BRW Leersum ( Meetploeg ) — sources: capcodes_eu, tomzulu
+- `000709686` — - — 598 | BRW | De Meern | Verkenningseenheid — sources: tomzulu
+- `000709700` — Brandweer — BRW Leusden ( Inzet HA 46685+SLH-46540 ) — sources: capcodes_eu, tomzulu
+- `000709706` — - — 600 | BRW | Soest | Bedieners BPH 3364 — sources: tomzulu
+- `000709711` — - — 602 | BRW | Soest | WBH 3366 — sources: tomzulu
+- `000709714` — - — 603 | BRW | Leusden | Bezetting WTH-NB 2265 — sources: tomzulu
+- `000709718` — - — 604 | BRW | Soest | BSH 3387 — sources: tomzulu
+- `000709727` — - — 605 | BRW | Regionaal | Team Brandonderzoek — sources: tomzulu
+- `000709730` — - — 606 | BRW | Regionaal | OvD Defensie — sources: tomzulu
+- `000709731` — - — 607 | BRW | Regionaal | Aansturing RTV Utrecht — sources: tomzulu
+- `000709732` — - — 608 | BRW | MKB Utrecht > | MKB Rotterdam (Infocode) — sources: tomzulu
+- `000709733` — - — 609 | BRW | MKB Utrecht > | Amsterdam-Amstelland (Uithoorn) (TS) — sources: tomzulu
+- `000709735` — - — 610 | BRW | MKB Utrecht > | MKB Amsterdam (Infocode) — sources: tomzulu
+- `000709740` — - — 611 | BRW | Rijn & Sticht | OvD Cluster (Infocode) — sources: tomzulu
+- `000709741` — - — 612 | BRW | Eemland | OvD Cluster (Infocode) — sources: tomzulu
+- `000709742` — - — 613 | BRW | Heuvelrug Oost | OvD Cluster (Infocode) — sources: tomzulu
+- `000709743` — - — 614 | BRW | Heuvelrug West | OvD Cluster (Infocode) — sources: tomzulu
+- `000709744` — - — 615 | BRW | Lekstroom | OvD Cluster (Infocode) — sources: tomzulu
+- `000709745` — - — 616 | BRW | Rijn & Venen Noord | OvD Cluster (Infocode) — sources: tomzulu
+- `000709746` — - — 617 | BRW | Rijn & Venen Zuid | OvD Cluster (Infocode) — sources: tomzulu
+- `000709747` — - — 618 | BRW | OvD Cluster (Infocode) — sources: tomzulu
+- `000709756` — - — 619 | BRW | MKB Utrecht > | BRW Amsterdam-Amstelland (Driemond) (Bezetting TS) — sources: tomzulu
+- `000709790` — - — 620 | BRW | Waterschap | Waterschap Vallei en Veluwe — sources: tomzulu
+- `000709791` — - — 621 | BRW | Waterschap | Stichtse Rijnlanden — sources: tomzulu
+- `000709792` — - — 622 | BRW | Waterschap | Amstel, Gooi en Vecht — sources: tomzulu
+- `000709793` — - — 623 | BRW | Waterschap | Rivierenland — sources: tomzulu
+- `000720070` — Ambulance — 159 | Nederlandse Rode Kruis | Noodhulp Team Almere — sources: tomzulu
+- `000720072` — Ambulance — 160 | Nederlandse Rode Kruis | Noodhulp Team Lelystad — sources: tomzulu
+- `000720074` — Ambulance — 161 | Nederlandse Rode Kruis | Noodhulp Team Urk — sources: tomzulu
+- `000720076` — Ambulance — 162 | Nederlandse Rode Kruis | Noodhulp Team Zeewolde — sources: tomzulu
+- `000720930` — Ambulance — 164 | Regionaal | Commandant van Dienst-Geneeskundig — sources: tomzulu
+- `000723002` — Ambulance — CPA Gooi en Vechtstreek ( OvD-G ) — sources: capcodes_eu, tomzulu
+- `000723010` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723011` — Ambulance — CPA Gooi en Vechtstreek ( Grip-1 ) — sources: capcodes_eu, tomzulu
+- `000723012` — Ambulance — CPA Gooi en Vechtstreek ( Grip-2 ) — sources: capcodes_eu, tomzulu
+- `000723013` — Ambulance — 130 | MKA Flevoland/Gooi en Vechtstreek | Infocode GRIP 3 — sources: tomzulu
+- `000723014` — Ambulance — 131 | MKA Flevoland/Gooi en Vechtstreek | Infocode GRIP 4 — sources: tomzulu
+- `000723016` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu
+- `000723084` — Ambulance — CPA Gooi en Vechtstreek ( Ambu 14-184 ) — sources: capcodes_eu, tomzulu
+- `000723085` — Ambulance — CPA Gooi en Vechtstreek ( Ambu 14-185 ) — sources: capcodes_eu, tomzulu
+- `000723086` — Ambulance — CPA Gooi en Vechtstreek ( Ambu 14-186 ) — sources: capcodes_eu, tomzulu
+- `000723087` — Ambulance — CPA Gooi en Vechtstreek ( Ambu 14-187 ) — sources: capcodes_eu, tomzulu
+- `000723088` — Ambulance — CPA Gooi en Vechtstreek ( Ambu 14-188 ) — sources: capcodes_eu, tomzulu
+- `000723092` — Ambulance — 139 | Gooi & Vechtstreek | Ambulancelance 14-192 — sources: tomzulu
+- `000723130` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723140` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723141` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723142` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723143` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723144` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723145` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723146` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu
+- `000723147` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu
+- `000723148` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723149` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723150` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723151` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723152` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723153` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723154` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723155` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723156` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723157` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723158` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723159` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723160` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723190` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu
+- `000723191` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723192` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu
+- `000723193` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723213` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723214` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723215` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723217` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723381` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723382` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723412` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723800` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723901` — Ambulance — Ambulance Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000723902` — Ambulance — 152 | Gooi & Vechtstreek | Noodhulp Team - UGS 2 — sources: tomzulu
+- `000723904` — Ambulance — 153 | Gooi & Vechtstreek | Noodhulp Team - UGS 4 — sources: tomzulu
+- `000723913` — Ambulance — 154 | Gooi & Vechtstreek | Noodhulpteam - Monitor — sources: tomzulu
+- `000726007` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726012` — Ambulance — 626 | GHOR Utrecht | CvD-G (Groepscode) — sources: tomzulu
+- `000726015` — Ambulance — 628 | MKA Utrecht | Algemeen Commandant Geneeskundige Zorg — sources: tomzulu
+- `000726017` — Ambulance — 630 | GHOR Utrecht | OvD-G (Groepscode) — sources: tomzulu
+- `000726018` — Ambulance — 631 | MKA Utrecht | Operationeel Directeur Publieke Gezondheidszorg (Groepsalarm) — sources: tomzulu
+- `000726020` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726060` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726061` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726064` — Ambulance — MKA Utrecht ( GHOR ) — sources: capcodes_eu, tomzulu
+- `000726066` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726068` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726069` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726070` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726071` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726101` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726102` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726103` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726104` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726105` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726106` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726107` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726108` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726109` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726110` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726114` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726116` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726121` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726123` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726130` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726131` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726132` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726137` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726138` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726139` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726140` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726142` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726143` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726147` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726148` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726149` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726150` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726541` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726542` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726543` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726545` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726560` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726561` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726562` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726564` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726565` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726567` — Ambulance — Ambulance Utrecht — sources: capcodes_eu
+- `000726568` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726570` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726571` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726572` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726576` — Ambulance — 700 | Regionaal | Fiets Ambulancelance 09-356 — sources: tomzulu
+- `000726577` — Ambulance — 701 | Regionaal | Fiets Ambulancelance 09-357 — sources: tomzulu
+- `000726580` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726581` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726583` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726584` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726585` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726586` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726587` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726588` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726589` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726590` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726591` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726592` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726593` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726594` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726595` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726596` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726597` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726598` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726599` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726600` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726601` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726602` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726603` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726604` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726605` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000726606` — Ambulance — Ambulance Utrecht — sources: capcodes_eu, tomzulu
+- `000730108` — - — 185 | POL | Politie Eenheid Midden-Nederland | BCCB (Piket Sectie ME) — sources: tomzulu
+- `000730211` — Politie — Politie Flevoland — sources: capcodes_eu, tomzulu
+- `000730302` — Politie — Politie Flevoland — sources: capcodes_eu, tomzulu
+- `000730310` — Politie — Politie Flevoland — sources: capcodes_eu, tomzulu
+- `000730313` — Politie — Politie Flevoland — sources: capcodes_eu, tomzulu
+- `000733401` — Politie — Politie Gooi en Vechtstreek — sources: capcodes_eu, tomzulu
+- `000736007` — Politie — Politie Utrecht — sources: capcodes_eu
+- `000736050` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736064` — - — 734 | POL | Politie Eenheid Midden-Nederland | Piket Verkenningseenheid — sources: tomzulu
+- `000736079` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736082` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736091` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736096` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736097` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736098` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736994` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000736999` — Politie — Politie Utrecht — sources: capcodes_eu, tomzulu
+- `000803020` — Brandweer — BRW Putten ( Korpscode ) — sources: capcodes_eu, tomzulu
+- `000803021` — Brandweer — BRW Nunspeet ( Korpscode ) — sources: capcodes_eu, tomzulu
+- `000803022` — Brandweer — BRW Elburg ( Korpscode ) — sources: capcodes_eu, tomzulu
+- `000803042` — - — 27 | BRW | Aalten | Postalarm — sources: tomzulu
+- `000803055` — - — 33 | BRW | Aalten | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000803056` — - — 34 | BRW | Aalten | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803057` — - — 35 | BRW | Aalten | Bezetting WT Ploeg 3 — sources: tomzulu
+- `000803063` — - — 36 | BRW | Aalten | First Responders — sources: tomzulu
+- `000803075` — - — 39 | BRW | Aalten | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000803081` — - — 40 | BRW | Dinxperlo | Postcoördinator — sources: tomzulu
+- `000803082` — - — 41 | BRW | Dinxperlo | Postalarm — sources: tomzulu
+- `000803087` — Brandweer — BRW Dinxperlo ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000803103` — - — 46 | BRW | Dinxperlo | First-Responder — sources: tomzulu
+- `000803121` — - — 48 | BRW | Winterswijk | Postcoördinator — sources: tomzulu
+- `000803122` — Brandweer — BRW Winterswijk ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000803135` — - — 55 | BRW | Winterswijk | Bezetting WTS-1500 Ploeg 1 — sources: tomzulu
+- `000803140` — - — 60 | BRW | Winterswijk | Bezetting HW Ploeg 3 — sources: tomzulu
+- `000803141` — - — 61 | BRW | Winterswijk | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000803142` — - — 62 | BRW | Winterswijk | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803143` — - — 63 | BRW | Winterswijk | Bezetting WT Ploeg 3 — sources: tomzulu
+- `000803155` — Brandweer — BRW Winterswijk ( Procedure Extreem Weer ) — sources: capcodes_eu, tomzulu
+- `000803161` — - — 66 | BRW | Groenlo | Postcoördinator — sources: tomzulu
+- `000803162` — Brandweer — BRW Groenlo ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000803167` — Brandweer — BRW Groenlo ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000803173` — - — 72 | BRW | Groenlo | Oppervlaktewater Redteam — sources: tomzulu
+- `000803175` — - — 73 | BRW | Groenlo | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000803176` — - — 74 | BRW | Groenlo | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803195` — Brandweer — BRW Oost Gelre ( Procedure Extreem Weer ) — sources: capcodes_eu, tomzulu
+- `000803201` — - — 77 | BRW | Lichtenvoorde | Postcoördinator — sources: tomzulu
+- `000803202` — - — 78 | BRW | Lichtenvoorde | Postalarm — sources: tomzulu
+- `000803215` — - — 84 | BRW | Lichtenvoorde | Bezetting HV Ploeg 1 — sources: tomzulu
+- `000803216` — - — 85 | BRW | Lichtenvoorde | Bezetting HV Ploeg 2 — sources: tomzulu
+- `000803217` — - — 86 | BRW | Lichtenvoorde | Bezetting HV Ploeg 3 — sources: tomzulu
+- `000803218` — - — 87 | BRW | Lichtenvoorde | Bezetting KW/WTS500 Ploeg 1 — sources: tomzulu
+- `000803219` — - — 88 | BRW | Lichtenvoorde | Bezetting KW/WTS 500 Ploeg 2 — sources: tomzulu
+- `000803220` — - — 89 | BRW | Lichtenvoorde | Bezetting KW/WTS 500 Ploeg 3 — sources: tomzulu
+- `000803221` — - — 90 | BRW | Lichtenvoorde | Bezetting VI - Ploeg 1 — sources: tomzulu
+- `000803222` — - — 91 | BRW | Lichtenvoorde | Bezetting VI - Ploeg 2 — sources: tomzulu
+- `000803223` — - — 92 | BRW | Lichtenvoorde | Bezetting VI - Ploeg 3 — sources: tomzulu
+- `000803230` — Brandweer — BRW Lichtenvoorde ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000803241` — - — 94 | BRW | Borculo | Postcoördinator — sources: tomzulu
+- `000803242` — - — 95 | BRW | Borculo | Postalarm — sources: tomzulu
+- `000803275` — - — 101 | BRW | Berkelland | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000803282` — - — 103 | BRW | Eibergen | Postalarm — sources: tomzulu
+- `000803293` — - — 107 | BRW | Eibergen | Oppervlaktewater Redteam — sources: tomzulu
+- `000803295` — - — 108 | BRW | Eibergen | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000803296` — - — 109 | BRW | Eibergen | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803303` — - — 110 | BRW | Eibergen | First Responders — sources: tomzulu
+- `000803321` — - — 113 | BRW | Neede | Postcoördinator — sources: tomzulu
+- `000803322` — - — 114 | BRW | Neede | Postalarm — sources: tomzulu
+- `000803335` — - — 119 | BRW | Neede | Bezetting KW — sources: tomzulu
+- `000803361` — - — 121 | BRW | Ruurlo | Postcoördinator — sources: tomzulu
+- `000803362` — - — 122 | BRW | Ruurlo | Postalarm — sources: tomzulu
+- `000803375` — - — 127 | BRW | Ruurlo | Veetakel Ploeg 1 — sources: tomzulu
+- `000803376` — - — 128 | BRW | Ruurlo | Veetakel Ploeg 2 — sources: tomzulu
+- `000803377` — - — 129 | BRW | Ruurlo | Bezetting KW Ploeg 1 — sources: tomzulu
+- `000803378` — - — 130 | BRW | Ruurlo | Bezetting KW Ploeg 2 — sources: tomzulu
+- `000803401` — - — 132 | BRW | Gendringen | Postcoördinator — sources: tomzulu
+- `000803402` — - — 133 | BRW | Gendringen | Postalarm — sources: tomzulu
+- `000803408` — - — 138 | BRW | Gendringen | Bezetting TS Ploeg 3 — sources: tomzulu
+- `000803413` — Brandweer — BRW Gendringen ( Duikploeg ) — sources: capcodes_eu, tomzulu
+- `000803414` — - — 141 | BRW | Gendringen | Bezetting BRV-K — sources: tomzulu
+- `000803415` — - — 142 | BRW | Gendringen | Veetakel Ploeg — sources: tomzulu
+- `000803435` — - — 144 | BRW | Oude IJsselstreek | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000803441` — - — 145 | BRW | Varsseveld | Postcoördinator — sources: tomzulu
+- `000803442` — - — 146 | BRW | Varsseveld | Postalarm — sources: tomzulu
+- `000803447` — - — 150 | BRW | Varsseveld | Bezetting TS Ploeg 2 — sources: tomzulu
+- `000803452` — - — 151 | BRW | Varsseveld | Bezetting TS Ploeg 1+2 — sources: tomzulu
+- `000803456` — - — 153 | BRW | Varsseveld | Bezetting KW Ploeg 2 — sources: tomzulu
+- `000803481` — - — 155 | BRW | Silvolde | Postcoördinator — sources: tomzulu
+- `000803482` — - — 156 | BRW | Silvolde | Postalarm — sources: tomzulu
+- `000803487` — Brandweer — BRW Silvolde ( Bluspgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000803492` — - — 161 | BRW | Silvolde | Bezetting TS Ploeg 1+2 — sources: tomzulu
+- `000803495` — - — 162 | BRW | Silvolde | Bezetting KW Ploeg 1 — sources: tomzulu
+- `000803496` — - — 163 | BRW | Silvolde | Bezetting KW Ploeg 2 — sources: tomzulu
+- `000803521` — - — 165 | BRW | Didam | Postcoördinator — sources: tomzulu
+- `000803522` — - — 166 | BRW | Didam | Postalarm — sources: tomzulu
+- `000803535` — - — 171 | BRW | Didam | Bezetting KW — sources: tomzulu
+- `000803543` — - — 172 | BRW | Didam | First Responders — sources: tomzulu
+- `000803555` — - — 174 | BRW | Montferland | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000803562` — - — 176 | BRW | s-Heerenberg (Bergh) | Postalarm — sources: tomzulu
+- `000803575` — - — 181 | BRW | s-Heerenberg (Bergh) | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000803576` — - — 182 | BRW | s-Heerenberg (Bergh) | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803583` — - — 183 | BRW | s-Heerenberg (Bergh) | First-Responder — sources: tomzulu
+- `000803588` — - — 184 | BRW | s-Heerenberg (Bergh) | Verkenningseenheid — sources: tomzulu
+- `000803590` — Brandweer — BRW S Heerenberg ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000803601` — - — 186 | BRW | Doetinchem | Postcoördinator — sources: tomzulu
+- `000803602` — Brandweer — BRW Doetinchem ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000803604` — - — 189 | BRW | Doetinchem | Bevelvoeder van Dienst van Dienst 1e TS — sources: tomzulu
+- `000803615` — Brandweer — BRW Doetinchem ( Bemanning VC-COH ) — sources: capcodes_eu, tomzulu
+- `000803616` — - — 199 | BRW | Doetinchem | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803617` — - — 200 | BRW | Doetinchem | Bezetting WT Ploeg 3 — sources: tomzulu
+- `000803618` — - — 201 | BRW | Doetinchem | Bezetting WT Ploeg 4 — sources: tomzulu
+- `000803619` — - — 202 | BRW | Doetinchem | Bezetting WTS-1500 — sources: tomzulu
+- `000803620` — - — 203 | BRW | Doetinchem | Bezetting HW Ploeg 1 — sources: tomzulu
+- `000803621` — - — 204 | BRW | Doetinchem | Bezetting HW Ploeg 2 — sources: tomzulu
+- `000803622` — - — 205 | BRW | Doetinchem | Bezetting HW Ploeg 3 — sources: tomzulu
+- `000803623` — - — 206 | BRW | Doetinchem | Bezetting HW Ploeg 4 — sources: tomzulu
+- `000803635` — - — 208 | BRW | Doetinchem | Decentrale Uitgifte — sources: tomzulu
+- `000803641` — - — 209 | BRW | Wehl | Postcoördinator — sources: tomzulu
+- `000803642` — - — 210 | BRW | Wehl | Postalarm — sources: tomzulu
+- `000803655` — - — 215 | BRW | Wehl | Bezetting VI Ploeg 1 — sources: tomzulu
+- `000803656` — - — 216 | BRW | Wehl | Bezetting VI Ploeg 2 — sources: tomzulu
+- `000803681` — - — 218 | BRW | Steenderen | Postcoördinator — sources: tomzulu
+- `000803682` — - — 219 | BRW | Steenderen | Postalarm — sources: tomzulu
+- `000803687` — - — 223 | BRW | Steenderen | Bezetting TS Ploeg 2 — sources: tomzulu
+- `000803693` — - — 224 | BRW | Steenderen | Oppervlaktewater Redteam 06-5811 — sources: tomzulu
+- `000803694` — - — 225 | BRW | Steenderen | Bezetting Brandweervaartuig 06-5812 — sources: tomzulu
+- `000803695` — - — 226 | BRW | Steenderen | Chauffeurs — sources: tomzulu
+- `000803703` — - — 227 | BRW | Steenderen | First-Responder — sources: tomzulu
+- `000803708` — - — 228 | BRW | Steenderen | Verkenningseenheid IBGS — sources: tomzulu
+- `000803715` — - — 230 | BRW | Bronckhorst | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000803721` — - — 231 | BRW | Vorden | Postcoördinator — sources: tomzulu
+- `000803722` — - — 232 | BRW | Vorden | Postalarm — sources: tomzulu
+- `000803727` — Brandweer — BRW Vorden ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000803735` — - — 237 | BRW | Vorden | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000803736` — - — 238 | BRW | Vorden | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803761` — - — 240 | BRW | Hengelo | Postcoördinator — sources: tomzulu
+- `000803762` — - — 241 | BRW | Hengelo | Postalarm — sources: tomzulu
+- `000803775` — - — 245 | BRW | Hengelo | Bezetting KW — sources: tomzulu
+- `000803790` — Brandweer — BRW Hengelo ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `000803802` — - — 248 | BRW | Zelhem | Postalarm — sources: tomzulu
+- `000803815` — - — 253 | BRW | Zelhem | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000803816` — - — 254 | BRW | Zelhem | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000803817` — - — 255 | BRW | Zelhem | Bezetting KW Ploeg 1 — sources: tomzulu
+- `000803818` — - — 256 | BRW | Zelhem | Bezetting KW Ploeg 2 — sources: tomzulu
+- `000803842` — - — 259 | BRW | Lochem | Postalarm — sources: tomzulu
+- `000803853` — - — 263 | BRW | Lochem | Oppervlaktewater Redteam — sources: tomzulu
+- `000803875` — - — 266 | BRW | Lochem | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000803881` — - — 267 | BRW | Barchem | Postcoördinator — sources: tomzulu
+- `000803882` — - — 268 | BRW | Barchem | Postalarm — sources: tomzulu
+- `000803921` — - — 273 | BRW | Laren | Postcoördinator — sources: tomzulu
+- `000803922` — - — 274 | BRW | Laren | Postalarm — sources: tomzulu
+- `000803935` — Brandweer — BRW Laren ( Veetakel Ploeg ) — sources: capcodes_eu, tomzulu
+- `000803936` — - — 279 | BRW | Laren | Chauffeurs WT — sources: tomzulu
+- `000803962` — Brandweer — BRW Almen ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000803973` — - — 286 | BRW | Almen | Oppervlaktewater Redteam — sources: tomzulu
+- `000803988` — - — 287 | BRW | Almen | Verkenningseenheid IBGS — sources: tomzulu
+- `000804001` — - — 289 | BRW | Gorssel | Postcoördinator — sources: tomzulu
+- `000804002` — - — 290 | BRW | Gorssel | Postalarm — sources: tomzulu
+- `000804013` — - — 295 | BRW | Gorssel | Bezetting BRV — sources: tomzulu
+- `000804014` — - — 296 | BRW | Gorssel | Oppervlaktewater Redteam — sources: tomzulu
+- `000804042` — Brandweer — BRW Zutphen ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000804054` — - — 308 | BRW | Zutphen | Schippers BRV — sources: tomzulu
+- `000804056` — - — 310 | BRW | Zutphen | Bezetting HW Ploeg 2 — sources: tomzulu
+- `000804057` — - — 311 | BRW | Zutphen | Bezetting HV Ploeg 1 — sources: tomzulu
+- `000804058` — - — 312 | BRW | Zutphen | Bezetting HV Ploeg 2 — sources: tomzulu
+- `000804075` — - — 314 | BRW | Zutphen | Decentrale Uitgifte — sources: tomzulu
+- `000804081` — - — 315 | BRW | Brummen | Postcoördinator — sources: tomzulu
+- `000804082` — - — 316 | BRW | Brummen | Postalarm — sources: tomzulu
+- `000804095` — - — 320 | BRW | Brummen | Bezetting WT — sources: tomzulu
+- `000804115` — - — 322 | BRW | Brummen | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000804121` — - — 323 | BRW | Eerbeek | Postcoördinator — sources: tomzulu
+- `000804122` — - — 324 | BRW | Eerbeek | Postalarm — sources: tomzulu
+- `000804135` — - — 328 | BRW | Eerbeek | Bezetting KW — sources: tomzulu
+- `000804161` — - — 330 | BRW | Voorst | Postcoördinator — sources: tomzulu
+- `000804162` — - — 331 | BRW | Voorst | Postalarm — sources: tomzulu
+- `000804183` — - — 335 | BRW | Voorst | First Responders — sources: tomzulu
+- `000804195` — Brandweer — BRW Voorst ( Procedure Extreem Weer ) — sources: capcodes_eu, tomzulu
+- `000804201` — - — 338 | BRW | Terwolde | Postcoördinator — sources: tomzulu
+- `000804202` — - — 339 | BRW | Terwolde | Postalarm — sources: tomzulu
+- `000804223` — - — 343 | BRW | Terwolde | First Responders — sources: tomzulu
+- `000804228` — - — 344 | BRW | Terwolde | Verkenningseenheid — sources: tomzulu
+- `000804241` — - — 346 | BRW | Twello | Postcoördinator — sources: tomzulu
+- `000804242` — - — 347 | BRW | Twello | Postalarm — sources: tomzulu
+- `000804255` — - — 351 | BRW | Twello | Bezetting KW — sources: tomzulu
+- `000804281` — - — 353 | BRW | Oene | Postcoördinator — sources: tomzulu
+- `000804282` — - — 354 | BRW | Oene | Postalarm — sources: tomzulu
+- `000804295` — - — 358 | BRW | Oene | Veetakel Ploeg — sources: tomzulu
+- `000804315` — - — 360 | BRW | Epe | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000804321` — - — 361 | BRW | Vaassen | Postcoördinator — sources: tomzulu
+- `000804322` — - — 362 | BRW | Vaassen | Postalarm — sources: tomzulu
+- `000804335` — Brandweer — BRW Vaassen ( Chauffeurs HA ) — sources: capcodes_eu, tomzulu
+- `000804361` — - — 368 | BRW | Epe | Postcoördinator — sources: tomzulu
+- `000804362` — - — 369 | BRW | Epe | Postalarm — sources: tomzulu
+- `000804367` — Brandweer — BRW Epe ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000804402` — - — 376 | BRW | Apeldoorn Centrum | Beroeps Postalarm — sources: tomzulu
+- `000804430` — Brandweer — BRW Apeldoorn-Hoofdpost ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `000804435` — - — 383 | BRW | Apeldoorn | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000804442` — - — 384 | BRW | Apeldoorn Centrum | Postalarm Vrijwilligers — sources: tomzulu
+- `000804443` — Brandweer — BRW Apeldoorn-Hoofdpost ( Bevelvoerder Vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `000804445` — Brandweer — BRW Apeldoorn-Hoofdpost ( Lichtkrant Vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `000804446` — Brandweer — BRW Apeldoorn-Hoofdpost ( Blusploeg Vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `000804455` — - — 388 | BRW | Apeldoorn Centrum | Vrijwilligers Bezetting WT — sources: tomzulu
+- `000804457` — - — 389 | BRW | Apeldoorn Centrum | Basis Ontsmettingseenheid — sources: tomzulu
+- `000804465` — Brandweer — BRW Apeldoorn-Hoofdpost ( Herbezetting Vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `000804467` — - — 391 | BRW | Apeldoorn Centrum | Basis Ontsmettingseenheid — sources: tomzulu
+- `000804470` — Brandweer — BRW Apeldoorn-Hoofdpost ( Monitorcode Vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `000804482` — Brandweer — BRW Apeldoorn-Wilmersdorf ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000804495` — - — 397 | BRW | Apeldoorn-Zuid | Technische Dienst — sources: tomzulu
+- `000804510` — - — 398 | BRW | Apeldoorn-Zuid | Lichtkrant — sources: tomzulu
+- `000804515` — - — 399 | BRW | Apeldoorn-Zuid | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000804547` — - — 404 | BRW | Apeldoorn-de Maten | Ontsmettings Ploeg — sources: tomzulu
+- `000804561` — - — 406 | BRW | Hoenderloo | Postcoördinator — sources: tomzulu
+- `000804583` — - — 411 | BRW | Hoenderloo | First Responders — sources: tomzulu
+- `000804601` — - — 413 | BRW | Hoog-Soeren | Postcoördinator — sources: tomzulu
+- `000804615` — - — 418 | BRW | Hoog-Soeren | Bezetting NBT — sources: tomzulu
+- `000804627` — - — 419 | BRW | Hoog-Soeren | Ontsmettings Ploeg — sources: tomzulu
+- `000804630` — - — 420 | BRW | Hoog-Soeren | Lichtkrant — sources: tomzulu
+- `000804641` — - — 421 | BRW | Loenen | Postcoördinator — sources: tomzulu
+- `000804681` — - — 427 | BRW | Uddel | Postcoördinator — sources: tomzulu
+- `000804682` — - — 428 | BRW | Uddel | Postalarm — sources: tomzulu
+- `000804695` — - — 432 | BRW | Uddel | Bezetting WT — sources: tomzulu
+- `000804703` — - — 433 | BRW | Uddel | First Responders — sources: tomzulu
+- `000804721` — - — 435 | BRW | Ugchelen | Postcoördinator — sources: tomzulu
+- `000804722` — - — 436 | BRW | Ugchelen | Postalarm — sources: tomzulu
+- `000804747` — - — 440 | BRW | Ugchelen | Ontsmettings Ploeg — sources: tomzulu
+- `000804761` — - — 442 | BRW | Klarenbeek | Postcoördinator — sources: tomzulu
+- `000804783` — - — 447 | BRW | Klarenbeek | First Responders — sources: tomzulu
+- `000804801` — - — 449 | BRW | Beekbergen | Postcoördinator — sources: tomzulu
+- `000804823` — - — 454 | BRW | Beekbergen | First Responders — sources: tomzulu
+- `000804827` — - — 455 | BRW | Beekbergen | Ontsmettings Ploeg — sources: tomzulu
+- `000804855` — - — 457 | BRW | Apeldoorn Centrum | Chauffeurs CO-MU — sources: tomzulu
+- `000804895` — - — 459 | BRW | Regionaal | Logistieke Eenheid West Ploeg 1 — sources: tomzulu
+- `000804896` — - — 460 | BRW | Regionaal | Logistieke Eenheid West Ploeg 2 — sources: tomzulu
+- `000804897` — - — 461 | BRW | Regionaal | Logistieke Eenheid West Ploeg 1+2 — sources: tomzulu
+- `000804922` — - — 463 | BRW | Ermelo | Postalarm — sources: tomzulu
+- `000804936` — - — 469 | BRW | Ermelo | Bezetting KW Ploeg 1 — sources: tomzulu
+- `000804937` — - — 470 | BRW | Ermelo | Bezetting KW Ploeg 2 — sources: tomzulu
+- `000804938` — - — 471 | BRW | Ermelo | WT groep 1 — sources: tomzulu
+- `000804943` — - — 472 | BRW | Ermelo | First Responders — sources: tomzulu
+- `000804948` — Brandweer — BRW Ermelo ( WVD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `000804955` — - — 475 | BRW | Ermelo | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000804961` — - — 476 | BRW | Harderwijk | Postcoördinator — sources: tomzulu
+- `000804962` — Brandweer — BRW Harderwijk ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `000804974` — - — 483 | BRW | Harderwijk | Bezetting OR — sources: tomzulu
+- `000804977` — - — 486 | BRW | Harderwijk | Bezetting HV-KR Ploeg 1 — sources: tomzulu
+- `000804979` — Brandweer — BRW Harderwijk ( Bemanning VC ) — sources: capcodes_eu, tomzulu
+- `000804995` — - — 490 | BRW | Harderwijk | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000805001` — - — 491 | BRW | Hierden | Postcoördinator — sources: tomzulu
+- `000805002` — - — 492 | BRW | Hierden | Postalarm — sources: tomzulu
+- `000805041` — - — 497 | BRW | Wezep | Postcoördinator — sources: tomzulu
+- `000805042` — - — 498 | BRW | Wezep | Postalarm — sources: tomzulu
+- `000805055` — - — 502 | BRW | Wezep | Bezetting KW — sources: tomzulu
+- `000805056` — - — 503 | BRW | Wezep | Bezetting HV — sources: tomzulu
+- `000805063` — - — 504 | BRW | Wezep | First Responders — sources: tomzulu
+- `000805075` — - — 506 | BRW | Oldebroek | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000805081` — - — 507 | BRW | Oldebroek | Postcoördinator — sources: tomzulu
+- `000805082` — - — 508 | BRW | Oldebroek | Postalarm — sources: tomzulu
+- `000805087` — - — 512 | BRW | Oldebroek | Bezetting TS Ploeg 2 — sources: tomzulu
+- `000805095` — - — 513 | BRW | Oldebroek | Bezetting WT — sources: tomzulu
+- `000805103` — - — 514 | BRW | Oldebroek | First Responders — sources: tomzulu
+- `000805108` — - — 515 | BRW | Oldebroek | Verkenningseenheid — sources: tomzulu
+- `000805121` — - — 517 | BRW | Hattem | Postcoördinator — sources: tomzulu
+- `000805122` — - — 518 | BRW | Hattem | Postalarm — sources: tomzulu
+- `000805135` — - — 524 | BRW | Hattem | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000805136` — - — 525 | BRW | Hattem | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000805137` — - — 526 | BRW | Hattem | Bezetting WT Ploeg 3 — sources: tomzulu
+- `000805153` — - — 530 | BRW | Hattem | Infocode Groot Incident — sources: tomzulu
+- `000805154` — - — 531 | BRW | Hattem | Infocode Zeer Groot Incident — sources: tomzulu
+- `000805155` — - — 532 | BRW | Hattem | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000805161` — - — 533 | BRW | Heerde | Postcoördinator — sources: tomzulu
+- `000805162` — - — 534 | BRW | Heerde | Postalarm — sources: tomzulu
+- `000805173` — - — 538 | BRW | Heerde | Bezetting BRV — sources: tomzulu
+- `000805174` — - — 539 | BRW | Heerde | Oppervlaktewater Redteam — sources: tomzulu
+- `000805195` — Brandweer — BRW Heerde ( Procedure Extreem Weer ) — sources: capcodes_eu, tomzulu
+- `000805201` — - — 542 | BRW | Wapenveld | Postcoördinator — sources: tomzulu
+- `000805202` — - — 543 | BRW | Wapenveld | Postalarm — sources: tomzulu
+- `000805215` — - — 547 | BRW | Wapenveld | Bezetting KW — sources: tomzulu
+- `000805216` — - — 548 | BRW | Wapenveld | Bezetting KW — sources: tomzulu
+- `000805242` — - — 551 | BRW | Putten | Postalarm — sources: tomzulu
+- `000805275` — - — 557 | BRW | Putten | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000805297` — - — 566 | BRW | Nunspeet | Bezetting WT Ploeg 3 — sources: tomzulu
+- `000805298` — - — 567 | BRW | Nunspeet | Bezetting GW Ploeg 1 — sources: tomzulu
+- `000805299` — - — 568 | BRW | Nunspeet | Bezetting GW Ploeg 2 — sources: tomzulu
+- `000805301` — - — 570 | BRW | Nunspeet | Bezetting GW Ploeg 4 — sources: tomzulu
+- `000805302` — - — 571 | BRW | Nunspeet | Bezetting WT Ploeg 4 — sources: tomzulu
+- `000805303` — - — 572 | BRW | Nunspeet | First Responders Ploeg 1 — sources: tomzulu
+- `000805304` — - — 573 | BRW | Nunspeet | First Responders Ploeg 2 — sources: tomzulu
+- `000805335` — - — 581 | BRW | Elspeet | Veetakel Ploeg — sources: tomzulu
+- `000805343` — - — 582 | BRW | Elspeet | First Responders — sources: tomzulu
+- `000805361` — - — 584 | BRW | Elburg | Postcoördinator — sources: tomzulu
+- `000805362` — - — 585 | BRW | Elburg | Postalarm — sources: tomzulu
+- `000805375` — - — 590 | BRW | Elburg | Bezetting HV Ploeg 1 — sources: tomzulu
+- `000805377` — - — 592 | BRW | Elburg | Bezetting HW Ploeg 1 — sources: tomzulu
+- `000805378` — - — 593 | BRW | Elburg | Bezetting HW Ploeg 2 — sources: tomzulu
+- `000805379` — - — 594 | BRW | Elburg | Bezetting KW Ploeg 1 — sources: tomzulu
+- `000805380` — - — 595 | BRW | Elburg | Bezetting KW Ploeg 2 — sources: tomzulu
+- `000805395` — - — 597 | BRW | Elburg | Procedure Lokaal Afhandelen — sources: tomzulu
+- `000805465` — - — 598 | BRW | ASK 't Harde | Infocode Defensie Brandweer ASK 't Harde — sources: tomzulu
+- `000805483` — - — 599 | BRW | Doetinchem | Logistieke Eenheid Oost (Pelotonscommandant) — sources: tomzulu
+- `000805495` — - — 600 | BRW | Doetinchem | Logistieke Eenheid Oost (Ploeg 1) — sources: tomzulu
+- `000805496` — - — 601 | BRW | Doetinchem | Logistieke Eenheid Oost (Ploeg 2) — sources: tomzulu
+- `000805506` — - — 602 | BRW | Duitsland | Suderwick (Bezetting TS) — sources: tomzulu
+- `000805535` — - — 603 | BRW | Doetinchem | Bezetting CO-MU Ploeg 1 — sources: tomzulu
+- `000805536` — - — 604 | BRW | Doetinchem | Bezetting CO-MU Ploeg 2 — sources: tomzulu
+- `000805537` — - — 605 | BRW | Doetinchem | Bezetting CO-MU Ploeg 3 — sources: tomzulu
+- `000805563` — - — 606 | BRW | Water Logistiek West | Bevelvoerders — sources: tomzulu
+- `000805575` — - — 607 | BRW | Water Logistiek West | Bezetting WT Ploeg 1 — sources: tomzulu
+- `000805576` — - — 608 | BRW | Water Logistiek West | Bezetting WT Ploeg 2 — sources: tomzulu
+- `000805577` — - — 609 | BRW | Water Logistiek West | Ondersteuners GW Ploeg 1 — sources: tomzulu
+- `000805578` — - — 610 | BRW | Water Logistiek West | Ondersteuners GW Ploeg 2 — sources: tomzulu
+- `000805772` — - — 619 | BRW | Regionaal | OvD Veluwe (Persoonlijke Code) — sources: tomzulu
+- `000805811` — Brandweer — BRW N-O Gelderland ( Groepsoproep OvD Apeldoorn ) — sources: capcodes_eu, tomzulu
+- `000805831` — - — 623 | BRW | Regionaal | OvD Achterhoek Noord (Groepscode) — sources: tomzulu
+- `000805851` — - — 625 | BRW | Regionaal | OvD`s (Achterhoek West) (Groepscode) — sources: tomzulu
+- `000805890` — - — 627 | BRW | Defensie Brandweer ASK 't Harde | On Scene Commander — sources: tomzulu
+- `000805931` — - — 630 | BRW | Regionaal | HOvD's (West) (Groepscode) — sources: tomzulu
+- `000805951` — - — 632 | BRW | Regionaal | HOvD's (Oost) (Groepscode) — sources: tomzulu
+- `000806032` — - — 639 | BRW | Regionaal | Operationele Informatie Voorziening) (Persoonlijk) — sources: tomzulu
+- `000806050` — - — 640 | BRW | Regionaal | Persvoorlichting — sources: tomzulu
+- `000806072` — Brandweer — BRW N-O Gelderland ( Loggers Noordwest Veluwe ) — sources: capcodes_eu, tomzulu
+- `000806080` — - — 642 | BRW | Regionaal | Communicatieadviseur Bevolkingszorg (GRIP) — sources: tomzulu
+- `000806081` — - — 643 | BRW | Regionaal | Omgevingsanalist — sources: tomzulu
+- `000806082` — - — 644 | BRW | Regionaal | Communicatieadviseur ROT — sources: tomzulu
+- `000806083` — - — 645 | BRW | Regionaal | Communicatieadviseur BT — sources: tomzulu
+- `000806150` — - — 648 | BRW | Regionaal | Informatiemanager CoPI West — sources: tomzulu
+- `000806170` — - — 649 | BRW | Regionaal | Informatiemanager CoPI Oost — sources: tomzulu
+- `000806171` — - — 650 | BRW | Regionaal | Informatiemanager Oost — sources: tomzulu
+- `000806190` — - — 651 | BRW | Regionaal | Informatiemanager CoPI Midden — sources: tomzulu
+- `000806201` — Brandweer — BRW N-O Gelderland ( Alarmering Grip-1 ) — sources: capcodes_eu, tomzulu
+- `000806202` — Brandweer — BRW N-O Gelderland ( Alarmering Grip-2 ) — sources: capcodes_eu, tomzulu
+- `000806203` — - — 654 | BRW | Regionaal | GRIP 3 (Infocode) — sources: tomzulu
+- `000806205` — - — 655 | BRW | Regionaal | GRIP Monitorcode — sources: tomzulu
+- `000806206` — - — 656 | BRW | Regionaal | Multidisciplinair Adviseur C2000 — sources: tomzulu
+- `000806209` — - — 657 | BRW | Oldebroek | Boswachter Oldebroekse Heide — sources: tomzulu
+- `000806227` — - — 660 | BRW | OCB Oost-Nederland | Infocode naar MKB Kleve Duitsland — sources: tomzulu
+- `000806241` — - — 662 | BRW | OCB Oost-Nederland | Weeralarm — sources: tomzulu
+- `000806242` — Brandweer — BRW N-O Gelderland ( Monitorcode Procedure Extreem Weer ) — sources: capcodes_eu, tomzulu
+- `000806250` — - — 664 | BRW | OCB Oost-Nederland | Middel Incident — sources: tomzulu
+- `000806251` — - — 665 | BRW | OCB Oost-Nederland | Groot Incident — sources: tomzulu
+- `000806252` — - — 666 | BRW | OCB Oost-Nederland | Zeer Groot Incident — sources: tomzulu
+- `000806261` — - — 667 | BRW | OCB Oost-Nederland | Fire Bucket Operations (Alarm) — sources: tomzulu
+- `000806262` — - — 668 | BRW | OCB Oost-Nederland | Fire Bucket Operations (Info) — sources: tomzulu
+- `000806267` — - — 669 | BRW | OCB Oost-Nederland | Waterschap Vallei en Veluwe — sources: tomzulu
+- `000806268` — - — 670 | BRW | OCB Oost-Nederland | Waterschap Drents Overijsselse delta — sources: tomzulu
+- `000806269` — - — 671 | BRW | OCB Oost-Nederland | Liaison Waterschap Vechtstromen — sources: tomzulu
+- `000806270` — - — 672 | BRW | OCB Oost-Nederland | Liaison Waterschap Rijn en Ijssel — sources: tomzulu
+- `000806280` — - — 673 | BRW | Regionaal | Natuurbrandbestrijding Grond Verkenners — sources: tomzulu
+- `000806281` — - — 674 | BRW | Regionaal | Natuurbrandbestrijding Luchtverkenners — sources: tomzulu
+- `000806282` — - — 675 | BRW | Regionaal | Logistieke Ondersteuning ICT — sources: tomzulu
+- `000806301` — - — 676 | BRW | Ulft | Poller Centrum — sources: tomzulu
+- `000806303` — - — 677 | BRW | Nunspeet | Poller Markt / Marktstraat — sources: tomzulu
+- `000806307` — - — 678 | BRW | Nunspeet | Poller Laan / Eperweg — sources: tomzulu
+- `000806340` — - — 679 | BRW | Duitsland | Löschzug Oeding Bezetting TS — sources: tomzulu
+- `000806342` — - — 681 | BRW | Duitsland | Vreden Bezetting TS — sources: tomzulu
+- `000806343` — - — 682 | BRW | Duitsland | Vreden Bezetting AL — sources: tomzulu
+- `000806344` — - — 683 | BRW | Duitsland | Anholt Bezetting TS — sources: tomzulu
+- `000806347` — - — 684 | BRW | Duitsland | Oeding Bezetting TS ANW — sources: tomzulu
+- `000806350` — - — 685 | BRW | Regionaal | OvD Bevolkingszorg Achterhoek Oost — sources: tomzulu
+- `000806370` — Brandweer — BRW N-O Gelderland ( TS-9331 Winterswijk ) — sources: capcodes_eu, tomzulu
+- `000806390` — Brandweer — BRW N-O Gelderland ( TS-06-9031 Borculo ) — sources: capcodes_eu, tomzulu
+- `000806410` — - — 688 | BRW | Regionaal | OvD Bevolkingszorg Ijsselstreek — sources: tomzulu
+- `000806430` — - — 689 | BRW | Regionaal | OvD Bevolkingszorg Veluwe-West — sources: tomzulu
+- `000806470` — - — 690 | BRW | Regionaal | OvD Bevolkingszorg (GRIP) — sources: tomzulu
+- `000806471` — - — 691 | BRW | Regionaal | Communicatieadviseur Bevolkingszorg (GRIP) — sources: tomzulu
+- `000806472` — - — 692 | BRW | Regionaal | Algemeen Commandant Bevolkingszorg (GRIP) — sources: tomzulu
+- `000820020` — Ambulance — 694 | Regionaal | Rode Kruis Noodhulpteam (Coördinator) — sources: tomzulu
+- `000820022` — Ambulance — 695 | Regionaal | Rode Kruis (Noodhulp Team UGS 2 Zwolle-Zuid) — sources: tomzulu
+- `000820029` — Ambulance — 696 | Regionaal | Rode Kruis (Noodhulp Team UGS Zelhem) — sources: tomzulu
+- `000820030` — Ambulance — 697 | Regionaal | Rode Kruis (Noodhulp Team UGS Ruurlo) — sources: tomzulu
+- `000820031` — Ambulance — 698 | Regionaal | Rode Kruis (Noodhulp Team UGS Hummelo) — sources: tomzulu
+- `000820032` — Ambulance — 699 | Regionaal | Rode Kruis (Noodhulp Team UGS Apeldoorn) — sources: tomzulu
+- `000820034` — Ambulance — 700 | Regionaal | Rode Kruis (Noodhulp Team UGS Zutphen) — sources: tomzulu
+- `000820035` — Ambulance — 701 | Regionaal | Rode Kruis (Noodhulpteam UGS Epse) — sources: tomzulu
+- `000820100` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820102` — Ambulance — GHOR N-O Gelderland ( OvD-G Oost ) — sources: capcodes_eu, tomzulu
+- `000820121` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820122` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820123` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820124` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820125` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820126` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820127` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820128` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820129` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820141` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820142` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820150` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820151` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820152` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820153` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820154` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820155` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820156` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820157` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820158` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820159` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820160` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820161` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820162` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820163` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820164` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820165` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820180` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820181` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820182` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820183` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820184` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820185` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820186` — Ambulance — 737 | Harderwijk en Elburg | Ambulancelance 06-186 — sources: tomzulu
+- `000820187` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820188` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu
+- `000820189` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu
+- `000820190` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820191` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820201` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820202` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820203` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820204` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820205` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820206` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820210` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820215` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820217` — Ambulance — 749 | Meldkamer Ambulancelancezorg | Hoofd MKA — sources: tomzulu
+- `000820220` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820225` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820230` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820235` — Ambulance — 753 | Meldkamer Ambulancelancezorg | Leider Kernteam PSHOR — sources: tomzulu
+- `000820301` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820303` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu
+- `000820342` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820400` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820401` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820402` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820403` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820410` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820601` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820602` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820603` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820604` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820605` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820606` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820990` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000820998` — Ambulance — Ambulance Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000826204` — Ambulance — 770 | Regionaal | Middencomplexe ZorgAmbulancelance 06-204 — sources: tomzulu
+- `000826205` — Ambulance — 771 | Regionaal | Middencomplexe ZorgAmbulancelance 06-205 — sources: tomzulu
+- `000826206` — Ambulance — 772 | Regionaal | Middencomplexe ZorgAmbulancelance 06-206 — sources: tomzulu
+- `000830050` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830052` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830055` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830060` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830061` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu
+- `000830110` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild ) — sources: capcodes_eu, tomzulu
+- `000830111` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild N-W Veluwe ) — sources: capcodes_eu, tomzulu
+- `000830112` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild ) — sources: capcodes_eu, tomzulu
+- `000830113` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild ) — sources: capcodes_eu, tomzulu
+- `000830114` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild ) — sources: capcodes_eu, tomzulu
+- `000830116` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild ) — sources: capcodes_eu, tomzulu
+- `000830117` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild ) — sources: capcodes_eu, tomzulu
+- `000830118` — Politie — Politie N-O Gelderland ( BOA Aangereden Wild ) — sources: capcodes_eu, tomzulu
+- `000830119` — Politie — Politie N-O Gelderland ( WBE Ijsselstreek Ooost ) — sources: capcodes_eu, tomzulu
+- `000830120` — Politie — Politie N-O Gelderland ( WBE Achterhoek West ) — sources: capcodes_eu, tomzulu
+- `000830121` — Politie — Politie N-O Gelderland ( WBE Achterhoek Oost ) — sources: capcodes_eu, tomzulu
+- `000830200` — - — 789 | POL | Politie Eenheid Oost-Nederland | BHV BT Apeldoorn — sources: tomzulu
+- `000830211` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830300` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830301` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830500` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830501` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830502` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830510` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830511` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830512` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830520` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830521` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830522` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830530` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830531` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830532` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu, tomzulu
+- `000830998` — Politie — Politie Noord en Oost Gelderland — sources: capcodes_eu
+- `000900036` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900038` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900044` — Brandweer — BRW Gelderland-Midden ( PLV Regionaal Commandant ) — sources: capcodes_eu, tomzulu
+- `000900047` — - — 21 | BRW | Regionaal | OvD Zuid (Infocode) — sources: tomzulu
+- `000900050` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900095` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900097` — - — 27 | BRW | Regionaal | Incident Management (Persoonlijke Code) — sources: tomzulu
+- `000900101` — Brandweer — BRW Giesbeek ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000900103` — Brandweer — BRW Giesbeek ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000900106` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900315` — - — 41 | BRW | Arnhem-Zuid | Dienstvrije Duikploeg — sources: tomzulu
+- `000900322` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900324` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900337` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900338` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900339` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900340` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900342` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900345` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900346` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900347` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900357` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900362` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900364` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900451` — Brandweer — BRW Barneveld ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000900453` — Brandweer — BRW Barneveld ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000900455` — Brandweer — BRW Barneveld ( Blusgroep 3 ) — sources: capcodes_eu, tomzulu
+- `000900457` — Brandweer — BRW Barneveld ( HV Groep 1 ) — sources: capcodes_eu, tomzulu
+- `000900459` — Brandweer — BRW Barneveld ( HV Groep 2 ) — sources: capcodes_eu, tomzulu
+- `000900461` — Brandweer — BRW Barneveld ( HV Groep 3 ) — sources: capcodes_eu, tomzulu
+- `000900463` — Brandweer — BRW Barneveld ( Weekendpiket ) — sources: capcodes_eu, tomzulu
+- `000900465` — Brandweer — BRW Barneveld ( OvD ) — sources: capcodes_eu, tomzulu
+- `000900469` — - — 76 | BRW | Barneveld | Bezetting HV Dagdienst — sources: tomzulu
+- `000900472` — - — 78 | BRW | Barneveld | Dagondersteuning — sources: tomzulu
+- `000900476` — - — 81 | BRW | Barneveld | Bezetting HA — sources: tomzulu
+- `000900482` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900486` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900487` — - — 84 | BRW | Barneveld | First Responders Dagdienst — sources: tomzulu
+- `000900488` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900517` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900539` — - — 87 | BRW | Barneveld | Postalarm — sources: tomzulu
+- `000900541` — Brandweer — BRW Garderen ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000900589` — Brandweer — BRW Garderen ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000900591` — Brandweer — BRW Kootwijkerbroek ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000900620` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900639` — - — 98 | BRW | Kootwijkerbroek | Noodalarmering — sources: tomzulu
+- `000900645` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900650` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu
+- `000900691` — Brandweer — BRW Zwartebroek ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000900700` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900701` — - — 108 | BRW | Regionaal | OvD Noord (Infocode) — sources: tomzulu
+- `000900702` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900739` — Brandweer — BRW Zwartebroek ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000900791` — Brandweer — BRW Doesburg ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000900793` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900800` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900854` — Brandweer — BRW Duiven ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000900860` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000900909` — Brandweer — BRW Duiven ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000901075` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901077` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901078` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901079` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901081` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901083` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901084` — - — 142 | BRW | Regionaal | HOvD West (Infocode) — sources: tomzulu
+- `000901085` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901111` — - — 144 | BRW | Ede Centrum | Herbezetting Ploeg 1 — sources: tomzulu
+- `000901112` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901113` — - — 146 | BRW | Ede Centrum | Herbezetting Ploeg 3 — sources: tomzulu
+- `000901114` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901122` — Brandweer — BRW Ede-Stadspoort ( First Responder Team ) — sources: capcodes_eu, tomzulu
+- `000901126` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901172` — Brandweer — BRW Bennekom ( First Responder Team ) — sources: capcodes_eu, tomzulu
+- `000901176` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901221` — Brandweer — BRW Ederveen ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000901222` — Brandweer — BRW Ederveen ( First Responder Team ) — sources: capcodes_eu, tomzulu
+- `000901271` — Brandweer — BRW Harskamp ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000901272` — Brandweer — BRW Harskamp ( MoB ) — sources: capcodes_eu, tomzulu
+- `000901276` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901319` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901322` — Brandweer — BRW Lunteren ( First Responder Team ) — sources: capcodes_eu, tomzulu
+- `000901326` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901369` — Brandweer — BRW Lunteren ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000901372` — Brandweer — BRW Otterlo ( First Responder Team ) — sources: capcodes_eu, tomzulu
+- `000901375` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901376` — - — 170 | BRW | Otterlo | Kader — sources: tomzulu
+- `000901421` — Brandweer — BRW De Valk ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000901422` — Brandweer — BRW De Valk ( MoB ) — sources: capcodes_eu, tomzulu
+- `000901426` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901489` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901496` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901584` — Brandweer — BRW Bemmel ( First Responder ) — sources: capcodes_eu, tomzulu
+- `000901586` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901590` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901629` — - — 190 | BRW | Bemmel | Postalarm — sources: tomzulu
+- `000901631` — Brandweer — BRW Doornenburg ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000901640` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901680` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901721` — Brandweer — BRW Huissen ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000901769` — - — 205 | BRW | Huissen | Postalarm — sources: tomzulu
+- `000901771` — Brandweer — BRW Hoevelaken ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000901779` — Brandweer — BRW Hoevelaken ( Meetploeg ) — sources: capcodes_eu, tomzulu
+- `000901780` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901781` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901790` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901829` — Brandweer — BRW Hoevelaken ( Korpsalarm ) — sources: capcodes_eu
+- `000901839` — Brandweer — BRW Nijkerk ( Firstresponder 1 ) — sources: capcodes_eu, tomzulu
+- `000901840` — Brandweer — BRW Nijkerk ( Firstresponder 2 ) — sources: capcodes_eu, tomzulu
+- `000901841` — Brandweer — BRW Nijkerk ( Firstresponder 3 ) — sources: capcodes_eu, tomzulu
+- `000901847` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901848` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901849` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901853` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901854` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901861` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901862` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901863` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901866` — - — 228 | BRW | Nijkerk | Postcommandant — sources: tomzulu
+- `000901871` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901872` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901873` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901894` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901895` — - — 233 | BRW | Nijkerk | Postcommandant — sources: tomzulu
+- `000901919` — Brandweer — BRW Nijkerk ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000901930` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901937` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901938` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901939` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000901940` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902029` — - — 248 | BRW | Heteren | Postalarm — sources: tomzulu
+- `000902031` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902034` — Brandweer — BRW Oosterhout ( Firstresponders ) — sources: capcodes_eu, tomzulu
+- `000902073` — - — 256 | BRW | Valburg | TCO — sources: tomzulu
+- `000902075` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902076` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902109` — Brandweer — BRW Valburg ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000902111` — Brandweer — BRW Zetten ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000902159` — Brandweer — BRW Zetten ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000902165` — Brandweer — BRW Renkum-Heelsum ( Piketploeg ) — sources: capcodes_eu, tomzulu
+- `000902166` — Brandweer — BRW Renkum ( Beroepsploeg 1 Spoed ) — sources: capcodes_eu, tomzulu
+- `000902167` — Brandweer — BRW Renkum ( Beroepsploeg 1) — sources: capcodes_eu, tomzulu
+- `000902168` — Brandweer — BRW Renkum ( Beroepsploeg 2 Spoed ) — sources: capcodes_eu, tomzulu
+- `000902175` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu
+- `000902210` — - — 273 | BRW | Renkum | Persoonlijke Code — sources: tomzulu
+- `000902219` — - — 274 | BRW | Doorwerth | Postalarm — sources: tomzulu
+- `000902221` — Brandweer — BRW Oosterbeek ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000902225` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902259` — - — 278 | BRW | Oosterbeek | Postalarm — sources: tomzulu
+- `000902261` — Brandweer — BRW Renkum/Heelsum ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000902296` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902301` — Brandweer — BRW Wolfheze ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `000902302` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902322` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902339` — - — 287 | BRW | Wolfheze | Postalarm — sources: tomzulu
+- `000902394` — Brandweer — BRW Dieren ( Postcommandant ) — sources: capcodes_eu, tomzulu
+- `000902396` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902400` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902449` — Brandweer — BRW Dieren ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000902453` — Brandweer — BRW Rheden ( HV Bemanning ) — sources: capcodes_eu, tomzulu
+- `000902456` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902457` — Brandweer — BRW Rheden — sources: capcodes_eu, tomzulu
+- `000902458` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902499` — - — 302 | BRW | Rheden | Postalarm — sources: tomzulu
+- `000902503` — Brandweer — BRW Velp ( Beroepsgroep ) — sources: capcodes_eu, tomzulu
+- `000902504` — Brandweer — BRW Velp ( Meetploeg ) — sources: capcodes_eu, tomzulu
+- `000902505` — - — 307 | BRW | Velp | Kader — sources: tomzulu
+- `000902507` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902559` — - — 310 | BRW | Velp | Postalarm — sources: tomzulu
+- `000902563` — Brandweer — BRW Rijnwaarden ( Blusgroep 2 Korps Lobith ) — sources: capcodes_eu, tomzulu
+- `000902565` — - — 315 | BRW | Lobith | First Responders Dagdienst — sources: tomzulu
+- `000902566` — - — 316 | BRW | Lobith | Dagdienst groep — sources: tomzulu
+- `000902570` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902599` — - — 318 | BRW | Lobith | Postalarm — sources: tomzulu
+- `000902601` — Brandweer — BRW Rijnwaarden ( Blusgroep Korps Pannerden ) — sources: capcodes_eu, tomzulu
+- `000902643` — Brandweer — BRW Scherpenzeel ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000902644` — Brandweer — BRW Scherpenzeel ( MOB 1 ) — sources: capcodes_eu, tomzulu
+- `000902662` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902666` — Brandweer — BRW Scherpenzeel ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `000902699` — Brandweer — BRW Scherpenzeel ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `000902701` — Brandweer — BRW Wageningen ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000902703` — Brandweer — BRW Wageningen ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000902705` — Brandweer — BRW Wageningen ( Blusgroep 3 ) — sources: capcodes_eu, tomzulu
+- `000902707` — Brandweer — BRW Wageningen ( Dagploeg ) — sources: capcodes_eu, tomzulu
+- `000902709` — Brandweer — BRW Wageningen ( Duikers ) — sources: capcodes_eu, tomzulu
+- `000902711` — Brandweer — BRW Wageningen ( OvD ) — sources: capcodes_eu, tomzulu
+- `000902718` — Brandweer — BRW Wageningen ( Chauffeursgroep 2 ) — sources: capcodes_eu, tomzulu
+- `000902721` — Brandweer — BRW Wageningen ( First Responders ) — sources: capcodes_eu, tomzulu
+- `000902722` — Brandweer — BRW Wageningen ( First Responders ) — sources: capcodes_eu, tomzulu
+- `000902723` — Brandweer — BRW Wageningen ( First Responders ) — sources: capcodes_eu, tomzulu
+- `000902724` — Brandweer — BRW Wageningen ( HW Bemanning 1 ) — sources: capcodes_eu, tomzulu
+- `000902725` — Brandweer — BRW Wageningen ( HW Bemanning 2 ) — sources: capcodes_eu, tomzulu
+- `000902726` — Brandweer — BRW Wageningen ( HW Bemanning 3 ) — sources: capcodes_eu, tomzulu
+- `000902788` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902791` — Brandweer — BRW Zevenaar ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `000902806` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902869` — - — 360 | BRW | Zevenaar | Postalarm — sources: tomzulu
+- `000902902` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902903` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902904` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902905` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902960` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902968` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902969` — Brandweer — Brandweer Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000902970` — - — 368 | BRW | Rijnwaarden | Sturing decentrale uitgifte — sources: tomzulu
+- `000902972` — - — 369 | BRW | Wageningen | Sturing decentrale uitgifte — sources: tomzulu
+- `000902973` — - — 370 | BRW | Zevenaar | Sturing decentrale uitgifte — sources: tomzulu
+- `000902999` — Brandweer — BRW Arnhem ( Lichtkrant RAC ) — sources: capcodes_eu, tomzulu
+- `000903005` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903006` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903007` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903011` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903015` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903024` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903025` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903028` — - — 11 | BRW | Regionaal | Informatiecoördinator ROT — sources: tomzulu
+- `000903029` — - — 12 | BRW | BRW Gelderland-Zuid | Regionaal Operationeel Team (Alarm) — sources: tomzulu
+- `000903035` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903046` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903048` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903049` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903052` — - — 17 | BRW | OCB Oost-Nederland | Infocode MKB Rotterdam — sources: tomzulu
+- `000903085` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903096` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903097` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903098` — - — 21 | BRW | BRW Gelderland-Zuid | Communicatieadviseurs (Groepscode) — sources: tomzulu
+- `000903102` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903103` — - — 24 | BRW | BRW Gelderland-Zuid | Crisisbeleidsteam — sources: tomzulu
+- `000903105` — Brandweer — BRW Gelderland-Zuid ( Beheer ) — sources: capcodes_eu, tomzulu
+- `000903114` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903115` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903116` — - — 28 | BRW | BRW Gelderland-Zuid | Regionaal Militair Operationeel Adviseur — sources: tomzulu
+- `000903129` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903151` — - — 31 | BRW | BRW Gelderland-Zuid | Commandanten van Dienst (Groepscode) — sources: tomzulu
+- `000903156` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903164` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903165` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903190` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903208` — - — 37 | BRW | Regionaal | Informatiemanager ROT — sources: tomzulu
+- `000903209` — - — 38 | BRW | Regionaal | Informatiemanager ROT — sources: tomzulu
+- `000903210` — - — 39 | BRW | Regionaal | Geo Informatie Medewerker ROT — sources: tomzulu
+- `000903226` — - — 45 | BRW | BRW Gelderland-Zuid | HOvD Oost (Groepscode) — sources: tomzulu
+- `000903230` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903231` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903232` — - — 48 | BRW | Regionaal | Informatiemanager Oost — sources: tomzulu
+- `000903233` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903234` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903235` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903237` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903263` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903264` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903265` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903268` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903269` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903270` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903276` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903277` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903280` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903281` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903282` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903283` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903284` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903285` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903286` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903287` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903288` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903289` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903310` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903312` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903314` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903316` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903318` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903325` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903326` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903327` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903328` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903329` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903330` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903331` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903332` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903333` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903334` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903335` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903336` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903337` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903338` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903340` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903341` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903342` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903344` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903345` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903346` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903347` — - — 103 | BRW | Cluster Oost | decentrale uitgifte — sources: tomzulu
+- `000903348` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903356` — - — 106 | BRW | Beuningen | Oppervlaktewater Redteam — sources: tomzulu
+- `000903357` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903358` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903370` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000903375` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903376` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903384` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903388` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903404` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903405` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903412` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903430` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903431` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903434` — Brandweer — BRW Lienden ( First Responders ) — sources: capcodes_eu, tomzulu
+- `000903445` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000903457` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903487` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903488` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903495` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903496` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903497` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903500` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903504` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903520` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000903531` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903532` — - — 151 | BRW | Asperen | Bezetting BRV — sources: tomzulu
+- `000903534` — Brandweer — BRW Lingewaal-Noord ( First Responders ) — sources: capcodes_eu, tomzulu
+- `000903554` — Brandweer — BRW Geldermalsen ( First Responders Beesd ) — sources: capcodes_eu, tomzulu
+- `000903555` — Brandweer — BRW Geldermalsen ( SBH Beesd ) — sources: capcodes_eu, tomzulu
+- `000903565` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000903575` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903581` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903582` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903584` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903586` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903587` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903590` — - — 167 | BRW | Geldermalsen | Kader — sources: tomzulu
+- `000903596` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903634` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903654` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903655` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903661` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903662` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000903664` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903665` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903666` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903669` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903670` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903671` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903672` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903673` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903684` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903700` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903704` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903730` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903740` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903786` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903787` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903820` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000903884` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903892` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903893` — Brandweer — BRW Millingen aan de Rijn ( Code Rindern Duitsland ) — sources: capcodes_eu, tomzulu
+- `000903906` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903940` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903957` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903985` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000903990` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904030` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904040` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904053` — Brandweer — BRW Nijmegen-Noord ( Postcommandant ) — sources: capcodes_eu, tomzulu
+- `000904055` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904056` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904057` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904090` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904115` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904145` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904146` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904156` — - — 252 | BRW | Ubbergen | Oppervlaktewater Redteam — sources: tomzulu
+- `000904161` — - — 253 | BRW | Ubbergen | Bezetting WT — sources: tomzulu
+- `000904170` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904172` — - — 255 | BRW | Ubbergen | Ploegchef — sources: tomzulu
+- `000904204` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904233` — - — 261 | BRW | Maasbommel | Postcommandant — sources: tomzulu
+- `000904234` — Brandweer — BRW Maasbommel ( First Responders ) — sources: capcodes_eu, tomzulu
+- `000904235` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904236` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904250` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904252` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904253` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904267` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000904268` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000904272` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000904275` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904284` — Brandweer — BRW Brakel ( First Responders ) — sources: capcodes_eu, tomzulu
+- `000904304` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904328` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu
+- `000904332` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904334` — Brandweer — BRW Nederhemert ( First Responder ) — sources: capcodes_eu, tomzulu
+- `000904359` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904362` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904363` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904397` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904471` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904473` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904479` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904480` — Brandweer — Brandweer Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000904999` — Brandweer — BRW Gelderland-Zuid ( Monitorcode Grip ) — sources: capcodes_eu, tomzulu
+- `000920007` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920011` — Ambulance — CPA Gelderland-Midden ( Forensisch Arts Ede ) — sources: capcodes_eu, tomzulu
+- `000920012` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920013` — Ambulance — 377 | Regionaal | Plaatsvervangend Directeur Publieke Gezondheid — sources: tomzulu
+- `000920014` — Ambulance — CPA Gelderland-Midden ( HS-GHOR ) — sources: capcodes_eu, tomzulu
+- `000920037` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920038` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920040` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920050` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920055` — Ambulance — 388 | RAV Gelderland-Midden | Persoonlijke-code — sources: tomzulu
+- `000920120` — Ambulance — CPA Gelderland-Midden ( Ambulance 07-120 Ede ) — sources: capcodes_eu, tomzulu
+- `000920121` — Ambulance — CPA Gelderland-Midden ( Ambulance 07-121 Zevenaar ) — sources: capcodes_eu, tomzulu
+- `000920122` — Ambulance — CPA Gelderland-Midden ( Ambulance 07-122 Barneveld ) — sources: capcodes_eu, tomzulu
+- `000920123` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920124` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920125` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920126` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920127` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920201` — Ambulance — CPA Gelderland-Midden ( Sigma Oost ) — sources: capcodes_eu, tomzulu
+- `000920202` — Ambulance — CPA Gelderland-Midden ( Sigma West ) — sources: capcodes_eu, tomzulu
+- `000920203` — Ambulance — CPA Gelderland-Midden ( Sigma Arnhem ) — sources: capcodes_eu, tomzulu
+- `000920204` — Ambulance — CPA Gelderland-Midden ( Sigma Renkum ) — sources: capcodes_eu, tomzulu
+- `000920205` — Ambulance — CPA Gelderland-Midden ( Sigma de Liemers ) — sources: capcodes_eu, tomzulu
+- `000920222` — Ambulance — 424 | Regionaal | NRK Noodhulp-Team UGS Ede — sources: tomzulu
+- `000920322` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920324` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920328` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920329` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920340` — Ambulance — 429 | Regionaal | Rapid Responder 07-340 — sources: tomzulu
+- `000920341` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920342` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920343` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920344` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920345` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920701` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu
+- `000920702` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu
+- `000920801` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920802` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000920912` — Ambulance — CPA Gelderland-Midden ( Centralist ) — sources: capcodes_eu
+- `000920999` — Ambulance — Ambulance Gelderland Midden — sources: capcodes_eu
+- `000923000` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923001` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923110` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923120` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923130` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923133` — Ambulance — RAV Gelderland-Zuid ( B Ambulance 08-433 Nijmegen ) — sources: capcodes_eu, tomzulu
+- `000923190` — Ambulance — 322 | Regionaal | Ambulancelance Kamp Heumensoord — sources: tomzulu
+- `000923201` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923202` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923203` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923204` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923205` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923206` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923207` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923291` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923302` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923320` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923340` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923341` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923342` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923343` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923344` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923345` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923504` — Ambulance — RAV Gelderland-Zuid ( MMA ) — sources: capcodes_eu, tomzulu
+- `000923508` — Ambulance — RAV Gelderland-Zuid ( COOT Regio West ) — sources: capcodes_eu, tomzulu
+- `000923509` — Ambulance — RAV Gelderland-Zuid ( COOT Regio Oost ) — sources: capcodes_eu, tomzulu
+- `000923798` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923803` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923804` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923805` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923841` — Ambulance — RAV Gelderland-Zuid ( HS-GHOR ) — sources: capcodes_eu, tomzulu
+- `000923845` — Ambulance — 352 | GHOR | Coordinatie — sources: tomzulu
+- `000923855` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923871` — Ambulance — 354 | Tiel | Rode Kruis Noodhulpteam — sources: tomzulu
+- `000923873` — Ambulance — 355 | Beuningen | Rode Kruis Noodhulpteam — sources: tomzulu
+- `000923875` — Ambulance — 356 | MKA Oost-Nederland | Centralist — sources: tomzulu
+- `000923878` — Ambulance — RAV Gelderland-Zuid ( Leider Kernteam ) — sources: capcodes_eu, tomzulu
+- `000923879` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923883` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923884` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923885` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923886` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923887` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923888` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923995` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000923999` — Ambulance — Ambulance Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000930010` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930791` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930793` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930795` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930796` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930797` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930799` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930800` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930811` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930813` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930814` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930834` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930837` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930839` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930843` — - — 452 | POL | Politie Eenheid Oost-Nederland | Duiven piket bodembeheer — sources: tomzulu
+- `000930845` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930854` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930855` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930857` — - — 456 | POL | Politie Eenheid Oost-Nederland | Beheer GMK — sources: tomzulu
+- `000930858` — Politie — Politie Gelderland Midden — sources: capcodes_eu, tomzulu
+- `000930901` — Politie — Politie Gelderland Midden — sources: capcodes_eu
+- `000933350` — Politie — Politie Gelderland-Zuid ( Persvoorlichting ) — sources: capcodes_eu, tomzulu
+- `000933400` — Politie — Politie Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000933401` — Politie — Politie Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000933402` — Politie — Politie Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000933403` — Politie — Politie Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000933404` — Politie — Politie Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000933405` — Politie — Politie Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `000933406` — Politie — Politie Gelderland Zuid — sources: capcodes_eu, tomzulu
+- `001002000` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002001` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002005` — - — 5 | BRW | Baarlo | Interregionale alarmering via MKOB 's-Hertogenbosch — sources: tomzulu
+- `001002007` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002018` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002019` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002020` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002021` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002027` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002028` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002038` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002039` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002040` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002041` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002042` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002043` — - — 18 | BRW | Bergen | PreCom Telling OR — sources: tomzulu
+- `001002045` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002046` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002047` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002048` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002049` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002050` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002051` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002053` — - — 26 | BRW | Bergen | Oppervlaktewater Redteam — sources: tomzulu
+- `001002054` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002055` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002056` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002058` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002059` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002060` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002061` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002063` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002064` — - — 35 | BRW | Echt | PreCom Telling VKE — sources: tomzulu
+- `001002067` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002068` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002070` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002071` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002074` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002078` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002079` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002080` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002081` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002082` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002083` — - — 46 | BRW | Gennep | PreCom Telling BRV — sources: tomzulu
+- `001002085` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002087` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002088` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002090` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002091` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002093` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002098` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002099` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002100` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002101` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002102` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002103` — - — 58 | BRW | Heythuysen | PreCom Telling Transport Ploeg COH — sources: tomzulu
+- `001002104` — - — 59 | BRW | Heythuysen | PreCom Telling NBH — sources: tomzulu
+- `001002105` — - — 60 | BRW | Heythuysen | PreCom Telling VZH — sources: tomzulu
+- `001002106` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002107` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002108` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002109` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002110` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002111` — - — 66 | BRW | Heythuysen | Transport Ploeg COH Ploeg 1 — sources: tomzulu
+- `001002112` — - — 67 | BRW | Heythuysen | Transport Ploeg COH Ploeg 2 — sources: tomzulu
+- `001002113` — - — 68 | BRW | Heythuysen | Bezetting NBH Ploeg 1 — sources: tomzulu
+- `001002114` — - — 69 | BRW | Heythuysen | Bezetting NBH Ploeg 2 — sources: tomzulu
+- `001002115` — - — 70 | BRW | Heythuysen | Bezetting VZH Ploeg 1 — sources: tomzulu
+- `001002116` — - — 71 | BRW | Heythuysen | Bezetting VZH Ploeg 2 — sources: tomzulu
+- `001002118` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002119` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002120` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002121` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002122` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002123` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002124` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002125` — - — 79 | BRW | Horst | PreCom Telling LAC — sources: tomzulu
+- `001002126` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002127` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002128` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002130` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002131` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002133` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002134` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002138` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002139` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002140` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002141` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002142` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002143` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002144` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002147` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002148` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002150` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002151` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002154` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002158` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002159` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002160` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002161` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002163` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002167` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002170` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002178` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002179` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002180` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002181` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002187` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002198` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002199` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002200` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002201` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002202` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002207` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002209` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002218` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002219` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002220` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002221` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002222` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002227` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002229` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002238` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002239` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002240` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002241` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002242` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002247` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002258` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002259` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002260` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002261` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002262` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002263` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002267` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002269` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002278` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002279` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002280` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002281` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002282` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002283` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002287` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002290` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002298` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002299` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002300` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002301` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002307` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002318` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002319` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002320` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002321` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002322` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002327` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002328` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002329` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002338` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002339` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002340` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002341` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002342` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002343` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002344` — - — 166 | BRW | Nederweert | PreCom Telling BRV — sources: tomzulu
+- `001002345` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002347` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002348` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002349` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002350` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002351` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002352` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002353` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002354` — - — 175 | BRW | Nederweert | Schippers Ploeg 1 — sources: tomzulu
+- `001002355` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002356` — - — 177 | BRW | Nederweert | Schippers Ploeg 3 — sources: tomzulu
+- `001002358` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002359` — - — 179 | BRW | Nederweert | Bevelvoerder van Dienst — sources: tomzulu
+- `001002360` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002361` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002363` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002364` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002367` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002368` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002370` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002371` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002373` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002374` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002378` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002379` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002380` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002381` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002387` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002388` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002398` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002399` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002400` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002401` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002402` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002403` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002405` — - — 202 | BRW | Roermond | PreCom Telling BRV-K — sources: tomzulu
+- `001002406` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002408` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002416` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002417` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002418` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002419` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002420` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002421` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002422` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002423` — - — 212 | BRW | Roermond Vrijwilligers | Ploeg 3 — sources: tomzulu
+- `001002426` — - — 213 | BRW | Roermond | Bezetting BRV-K — sources: tomzulu
+- `001002427` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002428` — - — 215 | BRW | Roermond Vrijwilligers | Bezetting HA Ploeg 2 — sources: tomzulu
+- `001002431` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002432` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002445` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002446` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002447` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002448` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002449` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002450` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002451` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002457` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002458` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002468` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002469` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002470` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002471` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002477` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002488` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002489` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002490` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002491` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002497` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002508` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002509` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002510` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002511` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002512` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002517` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002528` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002529` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002530` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002531` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002532` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002533` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002537` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002538` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002540` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002541` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002548` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002549` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002550` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002551` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002552` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002553` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002555` — - — 259 | BRW | Venlo | Lokaal afhandelen (Telling Precom) — sources: tomzulu
+- `001002556` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002566` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002567` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002568` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002569` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002570` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002571` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002574` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002596` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002597` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002598` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002599` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002600` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002601` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002602` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002604` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002605` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002606` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002607` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002609` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002618` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002619` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002620` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002621` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002622` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002623` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002624` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002625` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002626` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002627` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002628` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002629` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002633` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002635` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002640` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002648` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002649` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002650` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002651` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002652` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002653` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002655` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002656` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002657` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002658` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002661` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002666` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002667` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002668` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002670` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002671` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002672` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002674` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002675` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002676` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002681` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002682` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002683` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002684` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002685` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002686` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002690` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002698` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002699` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002700` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002701` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002702` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002707` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002709` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002718` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002719` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002721` — - — 331 | BRW | Horst | Bezetting LAC — sources: tomzulu
+- `001002722` — - — 332 | BRW | Roermond | Bezetting LAC — sources: tomzulu
+- `001002723` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002725` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002726` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002727` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002728` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002729` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002730` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002731` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002732` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002733` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002734` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002735` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002736` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002737` — - — 346 | BRW | Cluster Weert | OvD`s (Groepscode) — sources: tomzulu
+- `001002746` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002747` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002748` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002749` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002750` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002751` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002752` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002753` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002754` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002755` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002760` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002762` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002763` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002764` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002765` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002766` — - — 362 | BRW | Meijel | Verkenningseenheid — sources: tomzulu
+- `001002767` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002768` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002769` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002772` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002778` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002779` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002780` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002781` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002782` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002783` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002784` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002785` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002787` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002788` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002796` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002798` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002799` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002800` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002801` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002802` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002805` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002806` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002807` — - — 385 | BRW | Regionaal | Leider CoPI (Noord) — sources: tomzulu
+- `001002808` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002809` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002810` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002811` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002812` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002813` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002814` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002815` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002821` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002822` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002825` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002828` — - — 397 | BRW | Regionaal | Informatiemanager CoPI (Noord) — sources: tomzulu
+- `001002829` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002857` — - — 399 | BRW | Regionaal | OvD-Bevolkingszorg Cluster Roermond Evenementencode — sources: tomzulu
+- `001002858` — - — 400 | BRW | Regionaal | OvD-Bevolkingszorg Cluster Venlo Evenementencode — sources: tomzulu
+- `001002859` — - — 401 | BRW | Regionaal | OvD-Bevolkingszorg Cluster Venray Evenementencode — sources: tomzulu
+- `001002860` — - — 402 | BRW | Regionaal | Veiligheidscoördinator Evenement Bospop — sources: tomzulu
+- `001002861` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002862` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002863` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002864` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002865` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002866` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002870` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002871` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002872` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002873` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002874` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002875` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002876` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002877` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002878` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002879` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002880` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002881` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002882` — - — 421 | BRW | Regionaal | OvD-Bevolkingszorg Cluster Roermond (Infocode) — sources: tomzulu
+- `001002883` — - — 422 | BRW | Regionaal | OvD-Bevolkingszorg Cluster Venlo (Infocode) — sources: tomzulu
+- `001002884` — - — 423 | BRW | Regionaal | OvD-Bevolkingszorg Cluster Venray (Infocode) — sources: tomzulu
+- `001002885` — - — 424 | BRW | Regionaal | OvD-Bevolkingszorg Cluster Weert (Infocode) — sources: tomzulu
+- `001002886` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002887` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002888` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002889` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002918` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002919` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002931` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001002932` — Brandweer — Brandweer Limburg Noord — sources: capcodes_eu, tomzulu
+- `001003002` — Brandweer — BRW Beek ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `001003050` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003055` — Brandweer — BRW Beek ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001003060` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003098` — Brandweer — BRW Beek ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `001003101` — Brandweer — BRW Meerssen — sources: capcodes_eu, tomzulu
+- `001003105` — Brandweer — Brandweer Meerssen — sources: capcodes_eu, tomzulu
+- `001003109` — Brandweer — BRW Kazerne Meerssen — sources: capcodes_eu, tomzulu
+- `001003112` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003200` — Brandweer — BRW Valkenburg — sources: capcodes_eu, tomzulu
+- `001003201` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003205` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003206` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003209` — Brandweer — BRW Valkenburg — sources: capcodes_eu, tomzulu
+- `001003210` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003211` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003215` — Brandweer — BRW Valkenburg ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001003255` — Brandweer — BRW Bocholtz — sources: capcodes_eu, tomzulu
+- `001003305` — Brandweer — BRW Simpelveld ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001003351` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003355` — Brandweer — BRW Born ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001003357` — Brandweer — BRW Born ( Bevelvoerder 1 ) — sources: capcodes_eu
+- `001003359` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003409` — Brandweer — BRW Geleen — sources: capcodes_eu, tomzulu
+- `001003501` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003550` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003555` — Brandweer — BRW Sittard Swentiboldstraat ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001003560` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003750` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003751` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003752` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003753` — - — 49 | BRW | Regionaal | Communicatieadviseur GBT + RBT — sources: tomzulu
+- `001003757` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003760` — - — 51 | BRW | Regionaal | Sectie Communicatie — sources: tomzulu
+- `001003775` — - — 52 | BRW | Regionaal | Hoofd taakorganisatie Bevolkingszorg — sources: tomzulu
+- `001003780` — - — 53 | BRW | Regionaal | 2e OvD-Bevolkingszorg Westelijke Mijnstreek — sources: tomzulu
+- `001003781` — - — 54 | BRW | Regionaal | 2e OvD-Bevolkingszorg Maastricht/Heuvelland — sources: tomzulu
+- `001003782` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003790` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003791` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003792` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003793` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003794` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003800` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003855` — Brandweer — BRW Hulsberg ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001003862` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001003955` — Brandweer — BRW Cadier en Keer — sources: capcodes_eu, tomzulu
+- `001004005` — Brandweer — BRW Mheer ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001004010` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004055` — Brandweer — BRW Margraten ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001004059` — Brandweer — BRW Margraten ( Commando haakarmbak ) — sources: capcodes_eu, tomzulu
+- `001004101` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004103` — - — 74 | BRW | Regionaal | Notulist GBT — sources: tomzulu
+- `001004105` — - — 75 | BRW | Regionaal | Notulist RBT — sources: tomzulu
+- `001004155` — Brandweer — BRW Eijsden( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001004161` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004203` — - — 79 | BRW | Regionaal | Adviseur Bandweerzorg- Regionaal Beleids Team — sources: tomzulu
+- `001004270` — Brandweer — BRW Sittard Middenweg TS — sources: capcodes_eu, tomzulu
+- `001004271` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004272` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004273` — Brandweer — BRW Sittard Middenweg ( BvD ) — sources: capcodes_eu, tomzulu
+- `001004275` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004276` — Brandweer — BRW Sittard Middenweg ( kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001004305` — Brandweer — BRW Gulpen ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001004310` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004355` — Brandweer — BRW Mechelen ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001004359` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004401` — Brandweer — BRW Veiligheidsregio Zuid-Limburg ( OvD Bevolkingszorg Maastricht/Heuvelland ) — sources: capcodes_eu, tomzulu
+- `001004403` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004404` — Brandweer — BRW Maastricht ( Piketploeg A3 ) — sources: capcodes_eu, tomzulu
+- `001004405` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004411` — Brandweer — BRW Maastricht Zuid ( BvD ) — sources: capcodes_eu, tomzulu
+- `001004415` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004435` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004555` — Brandweer — BRW Onderbanken — sources: capcodes_eu, tomzulu
+- `001004601` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004610` — Brandweer — BRW Limburg-Zuid ( Piket Centralist ) — sources: capcodes_eu, tomzulu
+- `001004620` — Brandweer — BRW Limburg-Zuid ( HOvD District 1 en 2 ) — sources: capcodes_eu, tomzulu
+- `001004624` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004625` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004630` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004634` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004635` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004642` — - — 119 | BRW | Regionaal | Adviseur — sources: tomzulu
+- `001004645` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004646` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004647` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004657` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004705` — Brandweer — BRW Schinnen ( Postalarm ) — sources: capcodes_eu, tomzulu
+- `001004709` — Brandweer — BRW Schinnen — sources: capcodes_eu, tomzulu
+- `001004771` — - — 153 | BRW | Regionaal | Medewerker Sectie Bevolkingszorg Parkstad Zuid — sources: tomzulu
+- `001004772` — - — 154 | BRW | Onbekende code | Onbekende code — sources: tomzulu
+- `001004773` — - — 155 | BRW | Regionaal | Medewerker Sectie BZ Westelijke Mijnstreek — sources: tomzulu
+- `001004776` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004801` — - — 157 | BRW | Regionaal | Liaison Defensie ROT — sources: tomzulu
+- `001004850` — Brandweer — BRW Stein — sources: capcodes_eu, tomzulu
+- `001004855` — Brandweer — BRW Stein — sources: capcodes_eu, tomzulu
+- `001004859` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004861` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004902` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004929` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004930` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004931` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004932` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004933` — - — 167 | BRW | Regionaal | Informatiemanager CoPI - District 2 — sources: tomzulu
+- `001004935` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004936` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004937` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001004940` — Brandweer — BRW Parkstad ( Officier van Dienst district Noord ) — sources: capcodes_eu, tomzulu
+- `001004941` — Brandweer — BRW Parkstad ( Officier van Dienst district Zuid ) — sources: capcodes_eu, tomzulu
+- `001004942` — Brandweer — BRW Maastricht ( Officier van Dienst ) — sources: capcodes_eu, tomzulu
+- `001004945` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005001` — Brandweer — BRW Vaals ( Blusgroep 1 ) — sources: capcodes_eu
+- `001005003` — Brandweer — BRW Vaals ( Vrijwilligers C + A ) — sources: capcodes_eu
+- `001005012` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu
+- `001005014` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005060` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005061` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005065` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005070` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005080` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005090` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005101` — Brandweer — BRW Gemeente Kerkrade ( OvD BZ ) — sources: capcodes_eu, tomzulu
+- `001005251` — Brandweer — OVD – BZ (gemeente) Parkstad — sources: capcodes_eu, tomzulu
+- `001005253` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005261` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005266` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005270` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005400` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005500` — - — 202 | BRW | Beek | Burgemeester — sources: tomzulu
+- `001005501` — - — 203 | BRW | Beek | Gemeentesecretaris — sources: tomzulu
+- `001005546` — Brandweer — BRW Heerlen ( Dienst Openbare Werken ) — sources: capcodes_eu, tomzulu
+- `001005556` — - — 206 | BRW | Regionaal | Hoofd Crisiscommunicatie — sources: tomzulu
+- `001005559` — - — 207 | BRW | Kerkrade | Coördinerend Burgemeester — sources: tomzulu
+- `001005577` — - — 212 | BRW | GMK | Calamiteiten Coördinator — sources: tomzulu
+- `001005643` — - — 217 | BRW | Simpelveld | Voorlichting — sources: tomzulu
+- `001005889` — Brandweer — Brandweer Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001005997` — Brandweer — BRW Limburg Zuid ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001020175` — Ambulance — RAV Limburg-Noord ( Rapid Responder Roermond ) — sources: capcodes_eu, tomzulu
+- `001020184` — Ambulance — 436 | AmbulancelanceZorg Limburg | Ambulance Post Weert 23-116 — sources: tomzulu
+- `001020185` — Ambulance — 437 | AmbulancelanceZorg Limburg | Ambulance Post Weert 23-104 — sources: tomzulu
+- `001020186` — Ambulance — RAV Limburg-Noord ( Ambulance 3 Weert ) — sources: capcodes_eu, tomzulu
+- `001020191` — Ambulance — 441 | AmbulancelanceZorg Limburg | Ambulance 23-180 — sources: tomzulu
+- `001020193` — Ambulance — 443 | AmbulancelanceZorg Limburg | Ambulance 23-109 — sources: tomzulu
+- `001020194` — Ambulance — 444 | AmbulancelanceZorg Limburg | Ambulance 23-121 — sources: tomzulu
+- `001020195` — Ambulance — 445 | AmbulancelanceZorg Limburg | Ambulance 23-124 — sources: tomzulu
+- `001020196` — Ambulance — 446 | AmbulancelanceZorg Limburg | Ambulance 23-108 — sources: tomzulu
+- `001020198` — Ambulance — 448 | AmbulancelanceZorg Limburg | Ambulance 23-119 — sources: tomzulu
+- `001020199` — Ambulance — 449 | AmbulancelanceZorg Limburg | Rapid-Responder — sources: tomzulu
+- `001020200` — Ambulance — 450 | AmbulancelanceZorg Limburg | Ambulance 23-107 — sources: tomzulu
+- `001020273` — Ambulance — RAV Limburg-Noord ( Leider Kernteam GHOR ) — sources: capcodes_eu, tomzulu
+- `001020274` — Ambulance — RAV Limburg-Noord ( Achterwacht ( HSGHOR ) — sources: capcodes_eu, tomzulu
+- `001020360` — Ambulance — Ambulance Limburg Noord — sources: capcodes_eu, tomzulu
+- `001020361` — Ambulance — 457 | NRK Noodhulp Team | UGS Roermond — sources: tomzulu
+- `001020362` — Ambulance — 458 | NRK Noodhulp Team | UGS Weert — sources: tomzulu
+- `001020363` — Ambulance — 459 | NRK Noodhulp Team | UGS Venlo — sources: tomzulu
+- `001020364` — Ambulance — 460 | NRK Noodhulp Team | UGS Venray — sources: tomzulu
+- `001020365` — Ambulance — 461 | NRK Noodhulp Team | UGS Sevenum — sources: tomzulu
+- `001020597` — Ambulance — 462 | GHOR Limburg-Noord | OvD-G Evenementen Cluster Weert — sources: tomzulu
+- `001020598` — Ambulance — Ambulance Limburg Noord — sources: capcodes_eu, tomzulu
+- `001020599` — Ambulance — Ambulance Limburg Noord — sources: capcodes_eu, tomzulu
+- `001020600` — Ambulance — 465 | MKA Limburg | Evenementen Code — sources: tomzulu
+- `001020999` — Ambulance — RAV Limburg-Noord ( RAV Totaal ) — sources: capcodes_eu, tomzulu
+- `001023102` — Ambulance — RAV Limburg-Zuid ( Lichtkrant Alarmcentrale Stadt Aachen DLD ) — sources: capcodes_eu, tomzulu
+- `001023104` — Ambulance — RAV Limburg-Zuid ( Lichtkrant Alarmcentrale Kreis Heinsberg DLD ) — sources: capcodes_eu, tomzulu
+- `001023502` — Ambulance — RAV Limburg-Zuid ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `001023505` — Ambulance — Ambulance Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001023506` — Ambulance — RAV Limburg-Zuid ( Grip-2 ) — sources: capcodes_eu, tomzulu
+- `001023507` — Ambulance — 232 | MKA Zuid-Limburg | GRIP-3 — sources: tomzulu
+- `001023508` — Ambulance — Ambulance Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001023509` — Ambulance — Ambulance Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001023510` — Ambulance — RAV Limburg-Zuid ( HS-GHOR ) — sources: capcodes_eu, tomzulu
+- `001023532` — Ambulance — Ambulance Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001023703` — Ambulance — Ambulance Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001023728` — Ambulance — Ambulance Limburg Zuid — sources: capcodes_eu
+- `001023950` — Ambulance — 240 | NRK Zuid-Limburg | Noodhulp-Team UGS Sittard — sources: tomzulu
+- `001023951` — Ambulance — 241 | NRK Zuid-Limburg | Noodhulp-Team UGS Geleen — sources: tomzulu
+- `001023952` — Ambulance — 242 | NRK Zuid-Limburg | Noodhulp-Team UGS Buchten — sources: tomzulu
+- `001023953` — Ambulance — 243 | NRK Zuid-Limburg | Noodhulp-Team UGS Heerlen — sources: tomzulu
+- `001023954` — Ambulance — 244 | NRK Zuid-Limburg | Noodhulp-Team UGS Maastricht — sources: tomzulu
+- `001023955` — Ambulance — Ambulance Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001030210` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030211` — - — 468 | POL | Politie Eenheid Limburg | Staf SGBO — sources: tomzulu
+- `001030219` — - — 469 | POL | Politie Eenheid Limburg | Algemeen Commandant — sources: tomzulu
+- `001030220` — - — 470 | POL | Politie Eenheid Limburg | Hoofd Informatie — sources: tomzulu
+- `001030221` — - — 471 | POL | Politie Eenheid Limburg | Hoofd Ondersteuning — sources: tomzulu
+- `001030222` — - — 472 | POL | Politie Eenheid Limburg | Hoofd Ordehandhaving — sources: tomzulu
+- `001030223` — - — 473 | POL | Politie Eenheid Limburg | Hoofd Opsporing — sources: tomzulu
+- `001030224` — - — 474 | POL | Politie Eenheid Limburg | Hoofd Communicatie — sources: tomzulu
+- `001030225` — - — 475 | POL | Politie Eenheid Limburg | SGBO — sources: tomzulu
+- `001030226` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030228` — - — 477 | POL | Politie Eenheid Limburg | Hoofd Mobiliteit — sources: tomzulu
+- `001030231` — - — 478 | POL | Politie Eenheid Limburg | Hoofd interventies — sources: tomzulu
+- `001030232` — - — 479 | POL | Politie Eenheid Limburg | Hoofd Handhaven Netwerken — sources: tomzulu
+- `001030233` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030238` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030239` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030250` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030260` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030280` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030303` — - — 486 | POL | Politie Eenheid Limburg | BHV Basisteam Venlo — sources: tomzulu
+- `001030305` — - — 487 | POL | Politie Eenheid Limburg | BHV Basisteam Horst — sources: tomzulu
+- `001030307` — - — 488 | POL | Politie Eenheid Limburg | BHV Basisteam Weert — sources: tomzulu
+- `001030309` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030310` — Politie — Politie Limburg Noord — sources: capcodes_eu
+- `001030313` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030316` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030319` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001030322` — Politie — Politie Limburg Noord — sources: capcodes_eu, tomzulu
+- `001033000` — Politie — Politie Limburg-Zuid ( Beheer Meldkamer ) — sources: capcodes_eu, tomzulu
+- `001033002` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033070` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033090` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033138` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033140` — Politie — Politie Limburg-Zuid ( Chef Technische Recherche ) — sources: capcodes_eu, tomzulu
+- `001033150` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033151` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033155` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033156` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033160` — Politie — Politie Limburg-Zuid (Team Grootschalige Opsporing ) — sources: capcodes_eu, tomzulu
+- `001033180` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033198` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033199` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033200` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033205` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033215` — Politie — Politie Limburg-Zuid ( Persvoorlichter ) — sources: capcodes_eu, tomzulu
+- `001033216` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033232` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033233` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033239` — Politie — Politie Limburg Zuid — sources: capcodes_eu, tomzulu
+- `001033280` — Politie — Politie Limburg-Zuid ( Team Grootschalig Optreden ) — sources: capcodes_eu, tomzulu
+- `001100000` — Brandweer — BRW Brabant-Noord ( Systeembeheer ) — sources: capcodes_eu, tomzulu
+- `001100005` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100013` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100015` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100016` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100017` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100018` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100027` — - — 6 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100100` — - — 7 | BRW | Regionaal | Proefalarm Centralisten — sources: tomzulu
+- `001100101` — - — 8 | BRW | Regionaal | Centralisten — sources: tomzulu
+- `001100108` — - — 9 | BRW | Regionaal | AGS (Persoonlijke Code) — sources: tomzulu
+- `001100109` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100111` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100112` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100113` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100116` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100164` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100165` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100166` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100167` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100168` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100169` — Brandweer — BRW Brabant Noord ( Officier Informatievoorziening ) — sources: capcodes_eu, tomzulu
+- `001100170` — Brandweer — BRW Brabant-Noord ( OIV Groep ) — sources: capcodes_eu, tomzulu
+- `001100171` — Brandweer — BRW Brabant Noord ( Officier Informatievoorziening ) — sources: capcodes_eu, tomzulu
+- `001100175` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100176` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100179` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100181` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100182` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100191` — - — 24 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100192` — - — 25 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100193` — - — 26 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100194` — - — 27 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100195` — - — 28 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100196` — - — 29 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100197` — - — 30 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100362` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100381` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100390` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100391` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100530` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100542` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100612` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100614` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100615` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100617` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100619` — - — 34 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001100628` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001100631` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100635` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001100642` — - — 37 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001100806` — - — 38 | BRW | Regionaal | Ondersteuningsteam (Persoonlijke code) — sources: tomzulu
+- `001100953` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101017` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001101053` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101056` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001101181` — - — 41 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101206` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101215` — - — 42 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101255` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101268` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001101306` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001101314` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101354` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001101362` — - — 46 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101366` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101384` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101388` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101481` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101553` — - — 47 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101616` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101676` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001101723` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101727` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101744` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101756` — - — 49 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101757` — - — 50 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101804` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101811` — - — 51 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101815` — - — 52 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101818` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101851` — - — 53 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101857` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101877` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101909` — - — 54 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101970` — - — 55 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001101978` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001101985` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102051` — - — 57 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102056` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001102102` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102113` — - — 59 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102132` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102138` — - — 61 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102140` — - — 62 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102165` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102176` — - — 64 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102201` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102204` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102359` — - — 67 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102465` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102477` — - — 69 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102492` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102566` — - — 71 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102613` — - — 72 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001102653` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102702` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu, tomzulu
+- `001102703` — Brandweer — Brandweer Brabant Noord — sources: capcodes_eu
+- `001103000` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001104154` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001104711` — Brandweer — BRW Brabant-Zuidoost ( LMPO ) — sources: capcodes_eu, tomzulu
+- `001104731` — Brandweer — BRW Brabant-Zuidoost ( Alarmeringsfunctionaris ) — sources: capcodes_eu, tomzulu
+- `001104734` — Brandweer — BRW Brabant-Zuidoost ( Alarmeringsfunctionaris ) — sources: capcodes_eu
+- `001104735` — Brandweer — BRW Brabant-Zuidoost ( Operationeel Leider ) — sources: capcodes_eu, tomzulu
+- `001104743` — Brandweer — BRW Brabant-Zuidoost ( Staatsbosbeheer Leenderbos ) — sources: capcodes_eu, tomzulu
+- `001104769` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001104779` — - — 37 | BRW | Regionaal | Procedure Extreem Weer — sources: tomzulu
+- `001104797` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001104798` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001105148` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001105162` — Brandweer — BRW Asten ( Groep C ) — sources: capcodes_eu, tomzulu
+- `001105163` — Brandweer — BRW Asten ( Groep D ) — sources: capcodes_eu, tomzulu
+- `001105164` — Brandweer — BRW Asten ( Groep E ) — sources: capcodes_eu, tomzulu
+- `001105165` — Brandweer — BRW Asten ( Groep F ) — sources: capcodes_eu, tomzulu
+- `001105254` — - — 63 | BRW | Beek en Donk | Chemie Pakdragers — sources: tomzulu
+- `001105325` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu
+- `001105447` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001105649` — - — 76 | BRW | Gemert | Postalarm via noodprocedure — sources: tomzulu
+- `001105746` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001105825` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001105854` — - — 82 | BRW | Bergeijk | Chemie Pakdragers — sources: tomzulu
+- `001105933` — Brandweer — Brandweer Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001106047` — - — 89 | BRW | Best | Bezetting HV — sources: tomzulu
+- `001106120` — - — 92 | BRW | Bladel | Bezetting HW — sources: tomzulu
+- `001106154` — - — 93 | BRW | Bladel | Chemie Pakdragers — sources: tomzulu
+- `001106263` — - — 100 | BRW | Hapert | Verkenningseenheid — sources: tomzulu
+- `001106554` — - — 109 | BRW | Deurne | Bezetting KW — sources: tomzulu
+- `001106730` — - — 113 | BRW | Eersel | Oppervlaktewater Redteam — sources: tomzulu
+- `001106747` — - — 115 | BRW | Eersel | Bezetting HV — sources: tomzulu
+- `001106749` — - — 116 | BRW | Eersel | Postalarm via noodprocedure — sources: tomzulu
+- `001106847` — - — 119 | BRW | Vessem | Veetakel Ploeg — sources: tomzulu
+- `001106953` — - — 122 | BRW | Eindhoven (Centrum) | Redteam Hoogteverschillen — sources: tomzulu
+- `001106961` — - — 124 | BRW | Eindhoven-Noord/Woensel Vrijwilligers | Bezetting HA — sources: tomzulu
+- `001106975` — - — 127 | BRW | Eindhoven (Oost) TUE | Kazernealarm — sources: tomzulu
+- `001106976` — - — 128 | BRW | Eindhoven-Noord/Woensel | Brandstofploeg — sources: tomzulu
+- `001107022` — - — 130 | BRW | Heeze | Bezetting HA+WTH Ploeg A — sources: tomzulu
+- `001107049` — - — 134 | BRW | Heeze | Postalarm via noodprocedure — sources: tomzulu
+- `001107221` — - — 140 | BRW | Geldrop | Bezetting HW Ploeg B — sources: tomzulu
+- `001107222` — - — 141 | BRW | Geldrop | Bezetting HW Ploeg C — sources: tomzulu
+- `001107247` — - — 143 | BRW | Geldrop | Adembescherming Ploeg — sources: tomzulu
+- `001107249` — - — 144 | BRW | Geldrop | Postalarm Totaal — sources: tomzulu
+- `001107264` — - — 149 | BRW | Geldrop | Adembescherming Ploeg B — sources: tomzulu
+- `001107265` — - — 150 | BRW | Geldrop | Adembescherming Ploeg C — sources: tomzulu
+- `001107347` — - — 154 | BRW | Mierlo | Bezetting GW — sources: tomzulu
+- `001107354` — - — 155 | BRW | Mierlo | Postalarm via noodprocedure — sources: tomzulu
+- `001107465` — - — 159 | BRW | Nuenen | Bezetting KW — sources: tomzulu
+- `001107565` — - — 164 | BRW | Oirschot | Bezetting KW — sources: tomzulu
+- `001107649` — - — 168 | BRW | De Beerzen | Postalarm via noodprocedure — sources: tomzulu
+- `001107925` — - — 170 | BRW | Reusel | Bezetting HA — sources: tomzulu
+- `001107965` — - — 173 | BRW | Reusel | Bezetting KW — sources: tomzulu
+- `001108165` — - — 177 | BRW | Someren | Bezetting KW — sources: tomzulu
+- `001108254` — - — 180 | BRW | Son en Breugel | Chemie Pakdragers — sources: tomzulu
+- `001108465` — - — 189 | BRW | Valkenswaard | Bezetting KW — sources: tomzulu
+- `001108520` — - — 191 | BRW | Veldhoven De Run | Bezetting HW — sources: tomzulu
+- `001108540` — - — 192 | BRW | Veldhoven De Run | Medische Assistentie Eenheid — sources: tomzulu
+- `001108546` — - — 193 | BRW | Veldhoven De Run | Postalarm — sources: tomzulu
+- `001108824` — - — 198 | BRW | Helmond Vrijwilligers | Bezetting HA + SBH — sources: tomzulu
+- `001108825` — - — 199 | BRW | Helmond Vrijwilligers | Bezetting HA + COH — sources: tomzulu
+- `001108946` — Brandweer — BRW Helmond-Brandevoort ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001108960` — - — 203 | BRW | Bedrijfsbrandweer Bavaria Lieshout | Ploeg A — sources: tomzulu
+- `001108961` — - — 204 | BRW | Bedrijfsbrandweer Bavaria Lieshout | Ploeg B — sources: tomzulu
+- `001108962` — - — 205 | BRW | Bedrijfsbrandweer Bavaria Lieshout | Gids — sources: tomzulu
+- `001120000` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120101` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120102` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120103` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120104` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120105` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120106` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120107` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120108` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120111` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120113` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120114` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120115` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120116` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu
+- `001120121` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120124` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120125` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120126` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120128` — Ambulance — 737 | Regionaal | Ambulancelance 21-128 (Haps) — sources: tomzulu
+- `001120129` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120131` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120132` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120133` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120241` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120242` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120243` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120244` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120245` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120246` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120343` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120344` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120402` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120801` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001120802` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001122000` — Ambulance — CPA Brabant Noord ( Alarm HSGOR ) — sources: capcodes_eu, tomzulu
+- `001122001` — Ambulance — CPA Brabant Noord ( Infocode HSGHOR ) — sources: capcodes_eu, tomzulu
+- `001122020` — Ambulance — CPA Brabant Noord ( Alarm RGF ) — sources: capcodes_eu, tomzulu
+- `001122021` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001122040` — Ambulance — CPA Brabant Noord ( Alarm OMAC ) — sources: capcodes_eu, tomzulu
+- `001122041` — Ambulance — CPA Brabant Noord ( Infocode OMAC ) — sources: capcodes_eu, tomzulu
+- `001122050` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001122601` — Ambulance — 763 | Regionaal | NRK Noodhulp-Team UGS Rode Kruis Evertsenstraat Veghel (Chauffeurs-code) — sources: tomzulu
+- `001122602` — Ambulance — 764 | Regionaal | NRK Noodhulp-Team UGS HAWK International de Amert Veghel — sources: tomzulu
+- `001122603` — Ambulance — 765 | Regionaal | NRK Noodhulp-Team UGS CSU Veghelsedijk Uden — sources: tomzulu
+- `001122604` — Ambulance — 766 | Regionaal | NRK Noodhulp-Team UGS Carpool Rijkswaterstaat Hoge Poeldonk Den Bosch — sources: tomzulu
+- `001122605` — Ambulance — 767 | Regionaal | NRK Noodhulp-Team UGS van der Valk Bosscheweg Vught — sources: tomzulu
+- `001122606` — Ambulance — 768 | Regionaal | NRK Noodhulp-Team UGS Mcdonald's Cereslaan Heesch — sources: tomzulu
+- `001122607` — Ambulance — 769 | Regionaal | NRK Noodhulp-Team UGS Truckwash Schuttersweg Haps — sources: tomzulu
+- `001122608` — Ambulance — Ambulance Brabant Noord — sources: capcodes_eu, tomzulu
+- `001123000` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123013` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123111` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123114` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123115` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123116` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123117` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123118` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123120` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123122` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123126` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123127` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123129` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123130` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123131` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu
+- `001123132` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu
+- `001123140` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu
+- `001123201` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123202` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123203` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123204` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123205` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123206` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123210` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123310` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123340` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123341` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123801` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123802` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123803` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123804` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123805` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123806` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001123807` — Ambulance — 256 | GHOR Brabant-Zuidoost | OvD-G 22-807 — sources: tomzulu
+- `001124404` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu
+- `001124499` — Ambulance — Ambulance Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001130000` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130051` — - — 771 | POL | Politie Eenheid Oost-Brabant | Mobiele Eenheid (ME) Piket Sectie — sources: tomzulu
+- `001130550` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130551` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130552` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130555` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130556` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130557` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130560` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130561` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130562` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130565` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130566` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130567` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130570` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130571` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130572` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130575` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130576` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130577` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130580` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130581` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130582` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130585` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130586` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130587` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130590` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130591` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130592` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130595` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130596` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130597` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130600` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130605` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130610` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130615` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130620` — - — 806 | POL | Politie Eenheid Oost-Brabant | SGBO Hoofd Informatie (Informatiemanager) — sources: tomzulu
+- `001130625` — - — 807 | POL | Politie Eenheid Oost-Brabant | SGBO Beleidsondersteuner — sources: tomzulu
+- `001130971` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130981` — Politie — Politie Brabant Noord — sources: capcodes_eu, tomzulu
+- `001130982` — - — 810 | POL | Politie Eenheid Oost-Brabant | Infocode GRIP-2 — sources: tomzulu
+- `001130983` — - — 811 | POL | Politie Eenheid Oost-Brabant | Infocode GRIP-3 — sources: tomzulu
+- `001130998` — Politie — Politie Brabant Noord — sources: capcodes_eu
+- `001133000` — Politie — Politie Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001133777` — Politie — Politie Brabant Zuid en Oost — sources: capcodes_eu, tomzulu
+- `001140000` — - — 77 | BRW | GMK Oost-Brabant | Beheer — sources: tomzulu
+- `001150000` — - — 78 | BRW | GMK Oost-Brabant | Beheer — sources: tomzulu
+- `001160201` — - — 80 | BRW | Berghem | PreCom Telling 1e TS — sources: tomzulu
+- `001160251` — - — 81 | BRW | Berlicum | PreCom Telling 1e TS — sources: tomzulu
+- `001160263` — - — 82 | BRW | Berlicum | PreCom Telling VI — sources: tomzulu
+- `001160301` — - — 83 | BRW | Boekel | PreCom Telling 1e TS — sources: tomzulu
+- `001160313` — - — 84 | BRW | Boekel | PreCom Telling VI — sources: tomzulu
+- `001160351` — - — 85 | BRW | Boxmeer | PreCom Telling 1e TS — sources: tomzulu
+- `001160352` — - — 86 | BRW | Boxmeer | PreCom Telling 2e TS — sources: tomzulu
+- `001160357` — - — 87 | BRW | Boxmeer | PreCom Telling HV — sources: tomzulu
+- `001160401` — - — 88 | BRW | Boxtel | PreCom Telling 1e TS — sources: tomzulu
+- `001160402` — - — 89 | BRW | Boxtel | PreCom Telling 2e TS — sources: tomzulu
+- `001160407` — - — 90 | BRW | Boxtel | PreCom Telling VK-GS — sources: tomzulu
+- `001160451` — - — 91 | BRW | Cuijk | PreCom Telling 1e TS — sources: tomzulu
+- `001160452` — - — 92 | BRW | Cuijk | PreCom Telling 2e TS — sources: tomzulu
+- `001160454` — - — 93 | BRW | Cuijk | PreCom Telling HW — sources: tomzulu
+- `001160460` — - — 94 | BRW | Cuijk | PreCom Telling OR — sources: tomzulu
+- `001160462` — - — 95 | BRW | Cuijk | PreCom Telling VKE — sources: tomzulu
+- `001160501` — - — 96 | BRW | Geffen | PreCom Telling 1e TS — sources: tomzulu
+- `001160507` — - — 97 | BRW | Geffen | PreCom Telling HV — sources: tomzulu
+- `001160551` — - — 98 | BRW | Grave | PreCom Telling 1e TS — sources: tomzulu
+- `001160552` — - — 99 | BRW | Grave | PreCom Telling 2e TS — sources: tomzulu
+- `001160560` — - — 100 | BRW | Grave | PreCom Telling BRV — sources: tomzulu
+- `001160562` — - — 101 | BRW | Grave | PreCom Telling VKE — sources: tomzulu
+- `001160651` — - — 102 | BRW | Haps | PreCom Telling 1e TS — sources: tomzulu
+- `001160701` — - — 103 | BRW | Heesch | PreCom Telling 1e TS — sources: tomzulu
+- `001160705` — - — 104 | BRW | Heesch | PreCom Telling WT — sources: tomzulu
+- `001160751` — - — 105 | BRW | Heeswijk-Dinther | PreCom Telling TS — sources: tomzulu
+- `001160762` — - — 106 | BRW | Heeswijk-Dinther | PreCom Telling VK-GS — sources: tomzulu
+- `001160801` — - — 107 | BRW | Helvoirt | PreCom Telling 1e TS — sources: tomzulu
+- `001160805` — - — 108 | BRW | Helvoirt | PreCom Telling WT — sources: tomzulu
+- `001160911` — - — 110 | BRW | s-Hertogenbosch | PreCom Telling AH Vrijwilligers — sources: tomzulu
+- `001160915` — - — 111 | BRW | s-Hertogenbosch | PreCom Telling Herbezetting — sources: tomzulu
+- `001160951` — - — 112 | BRW | Liempde | PreCom Telling 1e TS — sources: tomzulu
+- `001161001` — - — 113 | BRW | Lith | PreCom Telling 1e TS — sources: tomzulu
+- `001161010` — - — 114 | BRW | Lith | PreCom Telling BRV — sources: tomzulu
+- `001161051` — - — 115 | BRW | Rosmalen | PreCom Telling 1e TS — sources: tomzulu
+- `001161052` — - — 116 | BRW | Rosmalen | PreCom Telling 2e TS — sources: tomzulu
+- `001161058` — - — 117 | BRW | Rosmalen | PreCom Telling HA — sources: tomzulu
+- `001161059` — - — 118 | BRW | Rosmalen | PreCom Telling GW — sources: tomzulu
+- `001161101` — - — 119 | BRW | Megen | PreCom Telling 1e TS — sources: tomzulu
+- `001161115` — - — 120 | BRW | Megen | PreCom Telling Hand Crew — sources: tomzulu
+- `001161151` — - — 121 | BRW | Mill | PreCom Telling 1e TS — sources: tomzulu
+- `001161157` — - — 122 | BRW | Mill | PreCom Telling HV — sources: tomzulu
+- `001161161` — - — 123 | BRW | Mill | PreCom Telling OR — sources: tomzulu
+- `001161201` — - — 124 | BRW | Nistelrode | PreCom Telling 1e TS — sources: tomzulu
+- `001161214` — - — 125 | BRW | Nistelrode | PreCom Telling Ondersteuners AH — sources: tomzulu
+- `001161215` — - — 126 | BRW | Nistelrode | PreCom Telling CO-MU — sources: tomzulu
+- `001161251` — - — 127 | BRW | Wanroij | PreCom Telling 1e TS — sources: tomzulu
+- `001161256` — - — 128 | BRW | Wanroij | PreCom Telling SBH — sources: tomzulu
+- `001161258` — - — 129 | BRW | Wanroij | PreCom Telling HA — sources: tomzulu
+- `001161259` — - — 130 | BRW | Wanroij | PreCom Telling GW — sources: tomzulu
+- `001161301` — - — 131 | BRW | Oeffelt | PreCom Telling 1e TS — sources: tomzulu
+- `001161314` — - — 132 | BRW | Oeffelt | PreCom Telling AH — sources: tomzulu
+- `001161351` — - — 133 | BRW | Sint Anthonis | PreCom Telling 1e TS — sources: tomzulu
+- `001161355` — - — 134 | BRW | Sint Anthonis | PreCom Telling WT — sources: tomzulu
+- `001161401` — - — 135 | BRW | Oss | PreCom Telling 1e TS — sources: tomzulu
+- `001161402` — - — 136 | BRW | Oss | PreCom Telling 2e TS — sources: tomzulu
+- `001161404` — - — 137 | BRW | Oss | PreCom Telling HW — sources: tomzulu
+- `001161406` — - — 138 | BRW | Oss | PreCom Telling SBH — sources: tomzulu
+- `001161408` — - — 139 | BRW | Oss | PreCom Telling HA — sources: tomzulu
+- `001161412` — - — 140 | BRW | Oss | PreCom Telling VKE — sources: tomzulu
+- `001161416` — - — 141 | BRW | Oss | PreCom Telling ABH — sources: tomzulu
+- `001161451` — - — 142 | BRW | Ravenstein | PreCom Telling 1e TS — sources: tomzulu
+- `001161501` — - — 143 | BRW | Zeeland | PreCom Telling 1e TS — sources: tomzulu
+- `001161508` — - — 144 | BRW | Zeeland | PreCom Telling HA — sources: tomzulu
+- `001161509` — - — 145 | BRW | Zeeland | PreCom Telling GW — sources: tomzulu
+- `001161516` — - — 146 | BRW | Zeeland | PreCom Telling BSA — sources: tomzulu
+- `001161551` — - — 147 | BRW | Schaijk | PreCom Telling 1e TS — sources: tomzulu
+- `001161557` — - — 148 | BRW | Schaijk | PreCom Telling HV — sources: tomzulu
+- `001161601` — - — 149 | BRW | Schijndel | PreCom Telling 1e TS — sources: tomzulu
+- `001161602` — - — 150 | BRW | Schijndel | PreCom Telling 2e TS — sources: tomzulu
+- `001161605` — - — 151 | BRW | Schijndel | PreCom Telling WT — sources: tomzulu
+- `001161651` — - — 152 | BRW | Sint-Michielsgestel | PreCom Telling 1e TS — sources: tomzulu
+- `001161701` — - — 153 | BRW | Sint-Oedenrode | PreCom Telling 1e TS — sources: tomzulu
+- `001161707` — - — 154 | BRW | Sint-Oedenrode | PreCom Telling HV — sources: tomzulu
+- `001161751` — - — 155 | BRW | Uden | PreCom Telling 1e TS — sources: tomzulu
+- `001161752` — - — 156 | BRW | Uden | PreCom Telling 2e TS — sources: tomzulu
+- `001161754` — - — 157 | BRW | Uden | PreCom Telling AL — sources: tomzulu
+- `001161755` — - — 158 | BRW | Uden | PreCom Telling WT — sources: tomzulu
+- `001161801` — - — 159 | BRW | Veghel | PreCom Telling 1e TS — sources: tomzulu
+- `001161802` — - — 160 | BRW | Veghel | PreCom Telling 2e TS — sources: tomzulu
+- `001161804` — - — 161 | BRW | Veghel | PreCom Telling HW — sources: tomzulu
+- `001161808` — - — 162 | BRW | Veghel | PreCom Telling HA — sources: tomzulu
+- `001161812` — - — 163 | BRW | Veghel | PreCom Telling VK-GS — sources: tomzulu
+- `001161851` — - — 164 | BRW | Vierlingsbeek | PreCom Telling 1e TS — sources: tomzulu
+- `001161860` — - — 165 | BRW | Vierlingsbeek | PreCom Telling OR — sources: tomzulu
+- `001161901` — - — 166 | BRW | Erp | PreCom Telling 1e TS — sources: tomzulu
+- `001161915` — - — 167 | BRW | Erp | PreCom Telling Verzorgingsploeg — sources: tomzulu
+- `001161951` — - — 168 | BRW | Vught | PreCom Telling 1e TS — sources: tomzulu
+- `001161952` — - — 169 | BRW | Vught | PreCom Telling 2e TS — sources: tomzulu
+- `001161958` — - — 170 | BRW | Vught | PreCom Telling HA — sources: tomzulu
+- `001161965` — - — 171 | BRW | Vught | PreCom Telling LIH — sources: tomzulu
+- `001162001` — - — 172 | BRW | Vlijmen | PreCom Telling 1e TS — sources: tomzulu
+- `001162007` — - — 173 | BRW | Vlijmen | PreCom Telling HV — sources: tomzulu
+- `001162012` — - — 174 | BRW | Vlijmen | PreCom Telling VKE — sources: tomzulu
+- `001162051` — - — 175 | BRW | Drunen | PreCom Telling 1e TS — sources: tomzulu
+- `001162052` — - — 176 | BRW | Drunen | PreCom Telling 2e TS — sources: tomzulu
+- `001162065` — - — 177 | BRW | Drunen | PreCom Telling DAT — sources: tomzulu
+- `001162101` — - — 178 | BRW | Heusden | PreCom Telling 1e TS — sources: tomzulu
+- `001162110` — - — 179 | BRW | Heusden | PreCom Telling OR — sources: tomzulu
+- `001162151` — - — 180 | BRW | Cromvoirt | PreCom Telling 1e TS — sources: tomzulu
+- `001170000` — - — 181 | BRW | GMK Oost-Brabant | Beheer — sources: tomzulu
+- `001170006` — - — 184 | BRW | Regio | OvD-Bevolkingszorg Regio — sources: tomzulu
+- `001170007` — - — 185 | BRW | Regio | OvD-Bevolkingszorg Den Bosch — sources: tomzulu
+- `001170008` — - — 186 | BRW | Regio | Media Piket — sources: tomzulu
+- `001170012` — - — 190 | BRW | Regionaal | OvD Noord (Aflossing) — sources: tomzulu
+- `001170022` — Brandweer — BRW Brabant-Noord ( OvD Boxtel/Schijndel/Michielsgestel/Oedenrode ) — sources: capcodes_eu, tomzulu
+- `001170032` — - — 194 | BRW | Regionaal | OvD Zuid (Aflossing) — sources: tomzulu
+- `001170042` — - — 196 | BRW | Regionaal | OvD West (Aflossing) — sources: tomzulu
+- `001170050` — - — 197 | BRW | Regionaal | Adviseur Gevaarlijke Stoffen — sources: tomzulu
+- `001170052` — - — 199 | BRW | Regionaal | HOvD (Aflossing) — sources: tomzulu
+- `001170061` — - — 200 | BRW | Regionaal | HOvD Oost — sources: tomzulu
+- `001170062` — - — 201 | BRW | Regionaal | HOvD West — sources: tomzulu
+- `001170070` — - — 202 | BRW | Regionaal | HOvD West (Groepsoproep) — sources: tomzulu
+- `001170072` — - — 204 | BRW | Regionaal | Algemeen Commandant Brandweerzorg — sources: tomzulu
+- `001170073` — - — 205 | BRW | Regionaal | HOvD/ACB Hoofd Bron- en Effectbestrijding — sources: tomzulu
+- `001170081` — - — 206 | BRW | Regio | Informatiemanager-CoPI/Operationele Informatie Voorziening (Piket) — sources: tomzulu
+- `001170082` — - — 207 | BRW | Regionaal | Team Collegiale Ondersteuning — sources: tomzulu
+- `001170083` — - — 208 | BRW | Regionaal | Team Brandonderzoek — sources: tomzulu
+- `001170084` — - — 209 | BRW | GMK Oost-Brabant | Calamiteiten Coördinator — sources: tomzulu
+- `001170085` — - — 210 | BRW | GMK Oost-Brabant | Initieel Respons Team — sources: tomzulu
+- `001170086` — - — 211 | BRW | Regionaal | Waterschappen Aa en Maas / De Dommel — sources: tomzulu
+- `001170090` — - — 212 | BRW | Regionaal | Teamleider Handcrew — sources: tomzulu
+- `001170094` — - — 213 | BRW | Regionaal | Calamiteitenteam A — sources: tomzulu
+- `001170095` — - — 214 | BRW | Regionaal | Calamiteitenteam B — sources: tomzulu
+- `001170097` — Brandweer — BRW Brabant-Noord ( Infocode Officieren ) — sources: capcodes_eu, tomzulu
+- `001170101` — - — 216 | BRW | Regionaal | Algemeen Commandant Bevolkingszorg — sources: tomzulu
+- `001170102` — - — 217 | BRW | Regionaal | Hoofd Crisiscommunicatie — sources: tomzulu
+- `001170103` — - — 218 | BRW | Regionaal | Omgevingsanalist — sources: tomzulu
+- `001170205` — - — 221 | BRW | Berghem | Postalarm — sources: tomzulu
+- `001170247` — Brandweer — BRW Berghem ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170248` — - — 223 | BRW | Berghem | Noodalarmering — sources: tomzulu
+- `001170249` — Brandweer — BRW Berghem ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170255` — Brandweer — BRW Berlicum ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001170275` — - — 229 | BRW | Berlicum | Postalarm Veetakel Ploeg — sources: tomzulu
+- `001170297` — Brandweer — BRW Berlicum ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170298` — - — 231 | BRW | Berlicum | Noodalarmering — sources: tomzulu
+- `001170299` — Brandweer — BRW Berlicum ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170305` — Brandweer — BRW Boekel ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001170325` — - — 235 | BRW | Boekel | Postalarm Veetakel Ploeg — sources: tomzulu
+- `001170347` — Brandweer — BRW Boekel ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170348` — - — 237 | BRW | Boekel | Noodalarmering — sources: tomzulu
+- `001170349` — Brandweer — BRW Boekel ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170352` — - — 241 | BRW | Boxmeer | Ploeg B — sources: tomzulu
+- `001170355` — - — 242 | BRW | Boxmeer | Postalarm — sources: tomzulu
+- `001170371` — - — 243 | BRW | Boxmeer | Bezetting HV Ploeg A — sources: tomzulu
+- `001170372` — - — 244 | BRW | Boxmeer | Bezetting HV Ploeg B — sources: tomzulu
+- `001170375` — - — 245 | BRW | Boxmeer | Postalarm HV — sources: tomzulu
+- `001170397` — Brandweer — BRW Boxmeer ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170398` — - — 247 | BRW | Boxmeer | Noodalarmering — sources: tomzulu
+- `001170399` — Brandweer — BRW Boxmeer ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170400` — Brandweer — BRW Boxtel ( Kader ) — sources: capcodes_eu, tomzulu
+- `001170401` — Brandweer — BRW Boxtel ( Blusgroep A ) — sources: capcodes_eu, tomzulu
+- `001170402` — Brandweer — BRW Boxtel ( Blusgroep B ) — sources: capcodes_eu, tomzulu
+- `001170405` — - — 252 | BRW | Boxtel | Postalarm — sources: tomzulu
+- `001170441` — Brandweer — BRW Boxtel ( WvD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001170447` — Brandweer — BRW Boxtel ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170448` — - — 255 | BRW | Boxtel | Noodalarmering — sources: tomzulu
+- `001170449` — Brandweer — BRW Boxtel ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170452` — - — 259 | BRW | Cuijk | Ploeg B — sources: tomzulu
+- `001170453` — - — 260 | BRW | Cuijk | Ploeg C — sources: tomzulu
+- `001170455` — - — 261 | BRW | Cuijk | Postalarm — sources: tomzulu
+- `001170472` — - — 263 | BRW | Cuijk | Bezetting HW Ploeg B — sources: tomzulu
+- `001170473` — - — 264 | BRW | Cuijk | Bezetting HW Ploeg C — sources: tomzulu
+- `001170475` — - — 265 | BRW | Cuijk | Postalarm HW — sources: tomzulu
+- `001170485` — - — 266 | BRW | Cuijk | Postalarm ORT — sources: tomzulu
+- `001170497` — Brandweer — BRW Cuijk ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170498` — - — 269 | BRW | Cuijk | Noodalarmering — sources: tomzulu
+- `001170521` — - — 275 | BRW | Geffen | Bezetting HV Ploeg A — sources: tomzulu
+- `001170522` — - — 276 | BRW | Geffen | Bezetting HV Ploeg A — sources: tomzulu
+- `001170525` — - — 277 | BRW | Geffen | Postalarm HV — sources: tomzulu
+- `001170547` — Brandweer — BRW Maasdonk ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170548` — - — 279 | BRW | Geffen | Noodalarmering — sources: tomzulu
+- `001170551` — Brandweer — BRW Grave ( Blusgroep A ) — sources: capcodes_eu, tomzulu
+- `001170552` — Brandweer — BRW Grave ( Blusgroep B ) — sources: capcodes_eu, tomzulu
+- `001170555` — Brandweer — BRW Grave ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001170581` — Brandweer — BRW Grave ( HW Bemanning A ) — sources: capcodes_eu, tomzulu
+- `001170582` — Brandweer — BRW Grave ( HW Bemanning B ) — sources: capcodes_eu, tomzulu
+- `001170585` — Brandweer — BRW Grave ( HW Bemanning A+B ) — sources: capcodes_eu, tomzulu
+- `001170591` — Brandweer — BRW Grave ( WVD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001170597` — Brandweer — BRW Grave ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170598` — - — 290 | BRW | Grave | Noodalarmering — sources: tomzulu
+- `001170599` — Brandweer — BRW Grave ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170655` — - — 293 | BRW | Haps | Postalarm — sources: tomzulu
+- `001170697` — Brandweer — BRW Haps ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170701` — Brandweer — BRW Heesch ( Blusgroep A ) — sources: capcodes_eu, tomzulu
+- `001170702` — Brandweer — BRW Heesch ( Blusgroep B ) — sources: capcodes_eu, tomzulu
+- `001170703` — Brandweer — BRW Heesch ( Blusgroep C ) — sources: capcodes_eu, tomzulu
+- `001170705` — Brandweer — BRW Heesch ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001170721` — - — 300 | BRW | Heesch | Bezetting WT Ploeg A — sources: tomzulu
+- `001170722` — - — 301 | BRW | Heesch | Bezetting WT Ploeg B — sources: tomzulu
+- `001170723` — - — 302 | BRW | Heesch | Bezetting WT Ploeg C — sources: tomzulu
+- `001170725` — - — 303 | BRW | Heesch | Postalarm WT — sources: tomzulu
+- `001170747` — Brandweer — BRW Heesch ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170748` — - — 305 | BRW | Heesch | Noodalarmering — sources: tomzulu
+- `001170749` — Brandweer — BRW Heesch ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170750` — Brandweer — BRW Heeswijk-Dinther ( Kader ) — sources: capcodes_eu, tomzulu
+- `001170755` — - — 308 | BRW | Heeswijk-Dinther | Postalarm — sources: tomzulu
+- `001170791` — Brandweer — BRW Heeswijk-Dinther ( WvD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001170797` — Brandweer — BRW Heeswijk-Dinther ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170798` — - — 311 | BRW | Heeswijk-Dinther | Noodalarmering — sources: tomzulu
+- `001170799` — Brandweer — BRW Heeswijk-Dinther ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170805` — - — 314 | BRW | Helvoirt | Postalarm — sources: tomzulu
+- `001170821` — - — 315 | BRW | Helvoirt | Bezetting WT Ploeg A — sources: tomzulu
+- `001170822` — - — 316 | BRW | Helvoirt | Bezetting WT Ploeg B — sources: tomzulu
+- `001170823` — - — 317 | BRW | Helvoirt | Bezetting WT Ploeg C — sources: tomzulu
+- `001170825` — - — 318 | BRW | Helvoirt | Postalarm WT — sources: tomzulu
+- `001170830` — - — 319 | BRW | Helvoirt | Koppelcode PreCom pagers — sources: tomzulu
+- `001170847` — Brandweer — BRW Helvoirt ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170848` — - — 321 | BRW | Helvoirt | Noodalarmering — sources: tomzulu
+- `001170849` — Brandweer — BRW Helvoirt ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001170850` — Brandweer — BRW S-Hertogenbosch ( Kader ) — sources: capcodes_eu, tomzulu
+- `001170897` — Brandweer — BRW S-Hertogenbosch ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170898` — - — 326 | BRW | 's-Hertogenbosch | Noodalarmering — sources: tomzulu
+- `001170901` — Brandweer — BRW S-Hertogenbosch ( Blusgroep E Vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `001170902` — Brandweer — BRW S-Hertogenbosch ( Blusgroep F Vrijwilligers ) — sources: capcodes_eu, tomzulu
+- `001170905` — Brandweer — BRW S-Hertogenbosch ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001170911` — - — 331 | BRW | s-Hertogenbosch vrijwilligers | Bezetting AH Ploeg E — sources: tomzulu
+- `001170912` — - — 332 | BRW | s-Hertogenbosch vrijwilligers | Bezetting AH Ploeg F — sources: tomzulu
+- `001170915` — - — 333 | BRW | s-Hertogenbosch vrijwilligers | Postalarm AH — sources: tomzulu
+- `001170921` — - — 334 | BRW | s-Hertogenbosch vrijwilligers | Herbezetting Ploeg E — sources: tomzulu
+- `001170922` — - — 335 | BRW | s-Hertogenbosch vrijwilligers | Herbezetting Ploeg F — sources: tomzulu
+- `001170925` — - — 336 | BRW | s-Hertogenbosch vrijwilligers | Postalarm Herbezetting — sources: tomzulu
+- `001170947` — Brandweer — BRW S-Hertogenbosch ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170948` — - — 338 | BRW | s-Hertogenbosch vrijwilligers | Noodalarmering — sources: tomzulu
+- `001170949` — - — 339 | BRW | s-Hertogenbosch vrijwilligers | Monitorcode — sources: tomzulu
+- `001170950` — - — 340 | BRW | Liempde | Bevelvoerder van Dienst — sources: tomzulu
+- `001170955` — - — 341 | BRW | Liempde | Postalarm — sources: tomzulu
+- `001170975` — - — 342 | BRW | Liempde | Handcrew-Zuid 6 — sources: tomzulu
+- `001170997` — Brandweer — BRW Liempde ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001170998` — - — 344 | BRW | Liempde | Noodalarmering — sources: tomzulu
+- `001170999` — Brandweer — BRW Liempde ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171000` — Brandweer — BRW Lith ( Kader ) — sources: capcodes_eu, tomzulu
+- `001171005` — - — 347 | BRW | Lith | Postalarm — sources: tomzulu
+- `001171045` — - — 348 | BRW | Lith | Bezetting BRV — sources: tomzulu
+- `001171047` — Brandweer — BRW Lith ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171048` — - — 350 | BRW | Lith | Noodalarmering — sources: tomzulu
+- `001171049` — Brandweer — BRW Lith ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171050` — - — 352 | BRW | Rosmalen | Bevelvoerder van Dienst — sources: tomzulu
+- `001171051` — Brandweer — BRW Rosmalen ( Blusgroep A ) — sources: capcodes_eu, tomzulu
+- `001171052` — Brandweer — BRW Rosmalen ( Blusgroep B ) — sources: capcodes_eu, tomzulu
+- `001171055` — Brandweer — BRW Rosmalen ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171070` — - — 356 | BRW | Rosmalen | Bevelvoerder van Dienst Dagploeg — sources: tomzulu
+- `001171081` — Brandweer — BRW Rosmalen ( HA Bemanning ) — sources: capcodes_eu, tomzulu
+- `001171082` — - — 359 | BRW | Rosmalen | Bezetting GW Ploeg B — sources: tomzulu
+- `001171085` — - — 360 | BRW | Rosmalen | Postalarm GW — sources: tomzulu
+- `001171095` — - — 361 | BRW | Rosmalen | Postalarm HA — sources: tomzulu
+- `001171097` — Brandweer — BRW Rosmalen ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171098` — - — 363 | BRW | Rosmalen | Noodalarmering — sources: tomzulu
+- `001171100` — Brandweer — BRW Megen ( Kader ) — sources: capcodes_eu, tomzulu
+- `001171105` — - — 366 | BRW | Megen | Postalarm — sources: tomzulu
+- `001171125` — - — 367 | BRW | Megen | Hand Crew — sources: tomzulu
+- `001171147` — Brandweer — BRW Megen ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171148` — - — 369 | BRW | Megen | Noodalarmering — sources: tomzulu
+- `001171149` — Brandweer — BRW Megen ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171152` — - — 373 | BRW | Mill | Ploeg B — sources: tomzulu
+- `001171155` — - — 374 | BRW | Mill | Postalarm — sources: tomzulu
+- `001171171` — - — 375 | BRW | Mill | Bezetting HV Ploeg A — sources: tomzulu
+- `001171172` — - — 376 | BRW | Mill | Bezetting HV Ploeg B — sources: tomzulu
+- `001171175` — - — 377 | BRW | Mill | Postalarm HV — sources: tomzulu
+- `001171185` — - — 378 | BRW | Mill | Oppervlakte Reddingsteam — sources: tomzulu
+- `001171197` — Brandweer — BRW Mill ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171198` — - — 380 | BRW | Mill | Noodalarmering — sources: tomzulu
+- `001171199` — Brandweer — BRW Mill ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171200` — Brandweer — BRW Nistelrode ( Kader ) — sources: capcodes_eu, tomzulu
+- `001171205` — Brandweer — BRW Nistelrode ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171215` — Brandweer — BRW Nistelrode ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171225` — - — 385 | BRW | Nistelrode | Postalarm CO-MU — sources: tomzulu
+- `001171247` — Brandweer — BRW Nistelrode ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171248` — - — 387 | BRW | Nistelrode | Noodalarmering — sources: tomzulu
+- `001171249` — Brandweer — BRW Nistelrode ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171250` — - — 389 | BRW | Wanroij | Bevelvoerder van Dienst — sources: tomzulu
+- `001171255` — - — 390 | BRW | Wanroij | Postalarm — sources: tomzulu
+- `001171265` — - — 391 | BRW | Wanroij | Postalarm SBH — sources: tomzulu
+- `001171275` — - — 392 | BRW | Wanroij | Postalarm HA — sources: tomzulu
+- `001171285` — - — 393 | BRW | Wanroij | Postalarm GW — sources: tomzulu
+- `001171297` — Brandweer — BRW Wanroy ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171298` — - — 395 | BRW | Wanroij | Noodalarmering — sources: tomzulu
+- `001171299` — Brandweer — BRW Wanroy ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171305` — - — 398 | BRW | Oeffelt | Postalarm — sources: tomzulu
+- `001171315` — - — 399 | BRW | Oeffelt | Postalarm Ondersteuningsteam AH — sources: tomzulu
+- `001171347` — Brandweer — BRW Oeffelt ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171348` — - — 401 | BRW | Oeffelt | Noodalarmering — sources: tomzulu
+- `001171349` — Brandweer — BRW Oeffelt ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171355` — - — 404 | BRW | Sint Anthonis | Postalarm — sources: tomzulu
+- `001171371` — - — 405 | BRW | Sint Anthonis | Bezetting WT — sources: tomzulu
+- `001171375` — - — 406 | BRW | Sint Anthonis | Postalarm WT — sources: tomzulu
+- `001171397` — Brandweer — BRW Sint Anthonius ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171398` — - — 408 | BRW | Sint Anthonis | Noodalarmering — sources: tomzulu
+- `001171399` — Brandweer — BRW Sint Anthonius ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171403` — - — 413 | BRW | Oss | Ploeg C — sources: tomzulu
+- `001171405` — - — 414 | BRW | Oss | Postalarm — sources: tomzulu
+- `001171406` — - — 415 | BRW | Oss | Bezetting HW Ploeg A — sources: tomzulu
+- `001171407` — - — 416 | BRW | Oss | Bezetting HW Ploeg B — sources: tomzulu
+- `001171408` — - — 417 | BRW | Oss | Bezetting HW Ploeg C — sources: tomzulu
+- `001171412` — - — 419 | BRW | Oss | Bezetting HA Ploeg B — sources: tomzulu
+- `001171413` — - — 420 | BRW | Oss | Bezetting HA Ploeg C — sources: tomzulu
+- `001171421` — - — 421 | BRW | Oss | Bezetting ABH Ploeg A — sources: tomzulu
+- `001171422` — - — 422 | BRW | Oss | Bezetting ABH Ploeg B — sources: tomzulu
+- `001171423` — - — 423 | BRW | Oss | Bezetting ABH Ploeg C — sources: tomzulu
+- `001171446` — - — 424 | BRW | Oss | Verkenningseenheid — sources: tomzulu
+- `001171447` — Brandweer — BRW Oss ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171448` — - — 426 | BRW | Oss | Noodalarmering — sources: tomzulu
+- `001171455` — - — 429 | BRW | Ravenstein | Postalarm — sources: tomzulu
+- `001171497` — Brandweer — BRW Ravenstein ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171498` — - — 431 | BRW | Ravenstein | Noodalarmering — sources: tomzulu
+- `001171499` — Brandweer — BRW Ravenstein ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171500` — Brandweer — BRW Zeeland ( Kader ) — sources: capcodes_eu, tomzulu
+- `001171505` — Brandweer — BRW Zeeland ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171525` — - — 435 | BRW | Zeeland | Postalarm GW — sources: tomzulu
+- `001171535` — - — 436 | BRW | Zeeland | Postalarm HA — sources: tomzulu
+- `001171544` — - — 437 | BRW | Zeeland | Bezetting GW — sources: tomzulu
+- `001171545` — - — 438 | BRW | Zeeland | Bezetting BSA — sources: tomzulu
+- `001171547` — Brandweer — BRW Zeeland ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171548` — - — 440 | BRW | Zeeland | Noodalarmering — sources: tomzulu
+- `001171549` — Brandweer — BRW Zeeland ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171550` — Brandweer — BRW Schaijk ( Kader ) — sources: capcodes_eu, tomzulu
+- `001171555` — Brandweer — BRW Schaijk ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171575` — - — 444 | BRW | Schaijk | Postalarm HV — sources: tomzulu
+- `001171597` — Brandweer — BRW Schaijk ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171598` — - — 446 | BRW | Schaijk | Noodalarmering — sources: tomzulu
+- `001171599` — Brandweer — BRW Schaijk ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171605` — Brandweer — BRW Schijndel ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171621` — - — 452 | BRW | Schijndel | Bezetting WT Ploeg A — sources: tomzulu
+- `001171622` — - — 453 | BRW | Schijndel | Bezetting WT Ploeg B — sources: tomzulu
+- `001171623` — - — 454 | BRW | Schijndel | Bezetting WT Ploeg C — sources: tomzulu
+- `001171624` — - — 455 | BRW | Schijndel | Bezetting WT Ploeg D — sources: tomzulu
+- `001171625` — - — 456 | BRW | Schijndel | Postalarm WT — sources: tomzulu
+- `001171647` — Brandweer — BRW Schijndel ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171648` — - — 458 | BRW | Schijndel | Noodalarmering — sources: tomzulu
+- `001171649` — Brandweer — BRW Schijndel ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171655` — Brandweer — BRW Sint Michielsgestel ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171675` — - — 464 | BRW | Sint-Michielsgestel | Hand Crew — sources: tomzulu
+- `001171697` — Brandweer — BRW Sint Michielsgestel ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171698` — - — 466 | BRW | Sint-Michielsgestel | Noodalarmering — sources: tomzulu
+- `001171699` — Brandweer — BRW Sint Michielsgestel ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171705` — - — 471 | BRW | Sint-Oedenrode | Postalarm — sources: tomzulu
+- `001171731` — Brandweer — BRW Sint Oedenrode ( HV Groep A ) — sources: capcodes_eu, tomzulu
+- `001171732` — Brandweer — BRW Sint Oedenrode ( HV Groep B ) — sources: capcodes_eu, tomzulu
+- `001171735` — Brandweer — BRW Sint Oedenrode ( HV Groep A + B ) — sources: capcodes_eu, tomzulu
+- `001171747` — Brandweer — BRW Sint Oedenrode ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171748` — - — 476 | BRW | Sint-Oedenrode | Noodalarmering — sources: tomzulu
+- `001171749` — Brandweer — BRW Sint Oedenrode ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171752` — - — 480 | BRW | Uden | Ploeg B — sources: tomzulu
+- `001171753` — - — 481 | BRW | Uden | Ploeg C — sources: tomzulu
+- `001171755` — - — 482 | BRW | Uden | Postalarm — sources: tomzulu
+- `001171762` — - — 484 | BRW | Uden | Bezetting AL Ploeg B — sources: tomzulu
+- `001171763` — - — 485 | BRW | Uden | Bezetting AL Ploeg C — sources: tomzulu
+- `001171771` — - — 486 | BRW | Uden | Bezetting WT Ploeg A — sources: tomzulu
+- `001171772` — - — 487 | BRW | Uden | Bezetting WT Ploeg B — sources: tomzulu
+- `001171773` — - — 488 | BRW | Uden | Bezetting WT Ploeg C — sources: tomzulu
+- `001171797` — Brandweer — BRW Uden ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171798` — - — 490 | BRW | Uden | Noodalarmering — sources: tomzulu
+- `001171802` — - — 494 | BRW | Veghel | Ploeg B — sources: tomzulu
+- `001171803` — - — 495 | BRW | Veghel | Ploeg C — sources: tomzulu
+- `001171805` — - — 496 | BRW | Veghel | Postalarm — sources: tomzulu
+- `001171821` — - — 497 | BRW | Veghel | Bezetting HW Ploeg A — sources: tomzulu
+- `001171822` — - — 498 | BRW | Veghel | Bezetting HW Ploeg B — sources: tomzulu
+- `001171823` — - — 499 | BRW | Veghel | Bezetting HW Ploeg C — sources: tomzulu
+- `001171831` — - — 500 | BRW | Veghel | Bezetting HA Ploeg A — sources: tomzulu
+- `001171832` — - — 501 | BRW | Veghel | Bezetting HA Ploeg B — sources: tomzulu
+- `001171833` — - — 502 | BRW | Veghel | Bezetting HA Ploeg C — sources: tomzulu
+- `001171841` — Brandweer — BRW Veghel ( GWT Groep ) — sources: capcodes_eu, tomzulu
+- `001171847` — Brandweer — BRW Veghel ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171848` — Brandweer — BRW Veghel ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001171849` — Brandweer — BRW Veghel ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171855` — - — 508 | BRW | Vierlingsbeek | Postalarm — sources: tomzulu
+- `001171885` — - — 509 | BRW | Vierlingsbeek | Oppervlaktewater Redteam — sources: tomzulu
+- `001171897` — Brandweer — BRW Vierlingsbeek ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171898` — - — 511 | BRW | Vierlingsbeek | Noodalarmering — sources: tomzulu
+- `001171899` — Brandweer — BRW Vierlingsbeek ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171905` — - — 514 | BRW | Erp | Postalarm — sources: tomzulu
+- `001171925` — - — 515 | BRW | Erp | Hand Crew — sources: tomzulu
+- `001171945` — - — 516 | BRW | Erp | Postalarm Verzorgingsploeg — sources: tomzulu
+- `001171947` — Brandweer — BRW Erp ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171948` — - — 518 | BRW | Erp | Noodalarmering — sources: tomzulu
+- `001171949` — Brandweer — BRW Erp ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001171950` — Brandweer — BRW Vught ( Kader ) — sources: capcodes_eu, tomzulu
+- `001171951` — Brandweer — BRW Vught ( Blusgroep A ) — sources: capcodes_eu, tomzulu
+- `001171952` — Brandweer — BRW Vught ( Blusgroep B ) — sources: capcodes_eu, tomzulu
+- `001171955` — Brandweer — BRW Vught ( Monitorcode Blusgroepen ) — sources: capcodes_eu, tomzulu
+- `001171971` — - — 524 | BRW | Vught | Bezetting LIH Ploeg A — sources: tomzulu
+- `001171972` — - — 525 | BRW | Vught | Bezetting LIH Ploeg B — sources: tomzulu
+- `001171975` — - — 526 | BRW | Vught | Postalarm LIH — sources: tomzulu
+- `001171981` — - — 527 | BRW | Vught | Bezetting HA Ploeg A — sources: tomzulu
+- `001171982` — Brandweer — BRW Vught ( Chauffeurs B ) — sources: capcodes_eu, tomzulu
+- `001171985` — - — 529 | BRW | Vught | Postalarm HA — sources: tomzulu
+- `001171991` — Brandweer — BRW Vught ( WvD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001171997` — Brandweer — BRW Vught ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001171998` — - — 532 | BRW | Vught | Noodalarmering — sources: tomzulu
+- `001171999` — Brandweer — BRW Vught ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001172000` — Brandweer — BRW Vlijmen ( Kader ) — sources: capcodes_eu, tomzulu
+- `001172001` — Brandweer — BRW Vlijmen ( Blusgroep A ) — sources: capcodes_eu, tomzulu
+- `001172002` — Brandweer — BRW Vlijmen ( Blusgroep B ) — sources: capcodes_eu, tomzulu
+- `001172005` — Brandweer — BRW Vlijmen ( Blusgroep A + B ) — sources: capcodes_eu, tomzulu
+- `001172031` — Brandweer — BRW Vlijmen ( HV Bemanning A ) — sources: capcodes_eu, tomzulu
+- `001172032` — Brandweer — BRW Vlijmen ( HV Bemanning B ) — sources: capcodes_eu, tomzulu
+- `001172035` — - — 540 | BRW | Vlijmen | Postalarm HV — sources: tomzulu
+- `001172041` — Brandweer — BRW Vlijmen ( WVD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001172047` — Brandweer — BRW Vlijmen ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001172048` — - — 543 | BRW | Vlijmen | Noodalarmering — sources: tomzulu
+- `001172049` — Brandweer — BRW Vlijmen ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001172055` — - — 546 | BRW | Drunen | Postalarm — sources: tomzulu
+- `001172060` — - — 547 | BRW | Drunen | Postalarm Bezetting DAT — sources: tomzulu
+- `001172097` — Brandweer — BRW Drunen ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001172098` — - — 549 | BRW | Drunen | Noodalarmering — sources: tomzulu
+- `001172099` — Brandweer — BRW Drunen ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001172105` — - — 552 | BRW | Heusden | Postalarm — sources: tomzulu
+- `001172135` — - — 553 | BRW | Heusden | Oppervlaktewater Redteam — sources: tomzulu
+- `001172147` — Brandweer — BRW Heusden ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001172148` — - — 555 | BRW | Heusden | Noodalarmering — sources: tomzulu
+- `001172149` — Brandweer — BRW Heusden ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001172150` — - — 557 | BRW | Cromvoirt | Bevelvoerder van Dienst — sources: tomzulu
+- `001172155` — - — 558 | BRW | Cromvoirt | Postalarm — sources: tomzulu
+- `001172197` — Brandweer — BRW Cromvoirt ( Infocode ) — sources: capcodes_eu, tomzulu
+- `001172198` — - — 560 | BRW | Cromvoirt | Noodalarmering — sources: tomzulu
+- `001172199` — Brandweer — BRW Cromvoirt ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001172999` — - — 562 | BRW | GMK | Testcode Beheer P2000 monitor test — sources: tomzulu
+- `001180000` — - — 563 | BRW | GMK | 5 Minuten TESTOPROEP HOOFDSYSTEEM MKOB DEN BOSCH — sources: tomzulu
+- `001180001` — - — 564 | BRW | GMK | Systeembeheer TEST CODE (1) — sources: tomzulu
+- `001180002` — - — 565 | BRW | GMK | Systeembeheer TEST CODE (2) — sources: tomzulu
+- `001180003` — - — 566 | BRW | GMK | Systeembeheer TEST CODE (3) — sources: tomzulu
+- `001180004` — - — 567 | BRW | GMK | Systeembeheer TEST CODE (4) — sources: tomzulu
+- `001180005` — - — 568 | BRW | GMK | Systeembeheer TEST CODE (5) — sources: tomzulu
+- `001180006` — - — 569 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180007` — - — 570 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180008` — - — 571 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180009` — - — 572 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180010` — - — 573 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180011` — - — 574 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180012` — - — 575 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180013` — - — 576 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180014` — - — 577 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180015` — - — 578 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180016` — - — 579 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180017` — - — 580 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180018` — - — 581 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180019` — - — 582 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180020` — - — 583 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180021` — - — 584 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180030` — - — 585 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180031` — - — 586 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180040` — - — 587 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180041` — - — 588 | BRW | GMK | Systeembeheer TEST CODE — sources: tomzulu
+- `001180200` — - — 589 | BRW | Berghem | Kazernetechniek — sources: tomzulu
+- `001180240` — - — 590 | BRW | Berghem | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180247` — - — 591 | BRW | Berghem | PreCom Koppelcode MKB ZeBra — sources: tomzulu
+- `001180248` — Brandweer — BRW Berghem ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180249` — Brandweer — BRW Berghem ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180290` — - — 594 | BRW | Berlicum | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180298` — Brandweer — BRW Berlicum ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180299` — Brandweer — BRW Berlicum ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180340` — - — 597 | BRW | Boekel | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180348` — Brandweer — BRW Boekel ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180349` — Brandweer — BRW Boekel ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180390` — - — 600 | BRW | Boxmeer | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180396` — - — 601 | BRW | Boxmeer | PreCom Koppelcode MKB Limburg — sources: tomzulu
+- `001180398` — Brandweer — BRW Boxmeer ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180399` — Brandweer — BRW Boxmeer ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180440` — - — 604 | BRW | Boxtel | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180448` — Brandweer — BRW Boxtel ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180449` — Brandweer — BRW Boxtel ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180490` — - — 607 | BRW | Cuijk | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180495` — - — 608 | BRW | Cuijk | PreCom Koppelcode MKB Oost-Nederland — sources: tomzulu
+- `001180496` — - — 609 | BRW | Cuijk | PreCom Koppelcode MKB Limburg — sources: tomzulu
+- `001180540` — - — 612 | BRW | Geffen | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180590` — - — 615 | BRW | Grave | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180598` — Brandweer — BRW Grave ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180599` — Brandweer — BRW Grave ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180690` — - — 618 | BRW | Haps | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180698` — Brandweer — BRW Haps ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180699` — Brandweer — BRW Haps ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180740` — - — 621 | BRW | Heesch | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180745` — - — 622 | BRW | Heesch | PreCom Koppelcode MKB Oost-Nederland — sources: tomzulu
+- `001180748` — Brandweer — BRW Heesch ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180749` — Brandweer — BRW Heesch ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180790` — - — 625 | BRW | Heeswijk-Dinther | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180798` — Brandweer — BRW Heeswijk-Dinther ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180799` — Brandweer — BRW Heeswijk-Dinther ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180840` — - — 628 | BRW | Helvoirt | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180847` — - — 629 | BRW | Helvoirt | PreCom Koppelcode MKB ZeBra — sources: tomzulu
+- `001180848` — Brandweer — BRW Helvoirt ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180849` — Brandweer — BRW Helvoirt ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001180897` — - — 632 | BRW | s-Hertogenbosch | Interregionale Alarmering door MKB ZeBra — sources: tomzulu
+- `001180940` — - — 635 | BRW | s-Hertogenbosch | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180990` — - — 636 | BRW | Liempde | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001180998` — Brandweer — BRW Liempde ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001180999` — Brandweer — BRW Liempde ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181040` — - — 639 | BRW | Lith | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181048` — Brandweer — BRW Lith ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181049` — Brandweer — BRW Lith ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181090` — - — 642 | BRW | Rosmalen | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181095` — - — 643 | BRW | Rosmalen | PreCom Koppelcode MKB Oost-Nederland — sources: tomzulu
+- `001181140` — - — 646 | BRW | Megen | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181148` — Brandweer — BRW Megen ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181149` — Brandweer — BRW Megen ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181190` — - — 649 | BRW | Mill | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181198` — Brandweer — BRW Mill ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181199` — Brandweer — BRW Mill ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181240` — - — 652 | BRW | Nistelrode | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181248` — Brandweer — BRW Nistelrode ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181249` — Brandweer — BRW Nistelrode ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181290` — - — 655 | BRW | Wanroij | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181298` — Brandweer — BRW Wanroy ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181299` — Brandweer — BRW Wanroy ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181340` — - — 658 | BRW | Oeffelt | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181348` — Brandweer — BRW Oeffelt ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181349` — Brandweer — BRW Oeffelt ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181390` — - — 661 | BRW | Sint-Anthonis | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181396` — - — 662 | BRW | Sint-Anthonis | PreCom Koppelcode MKB Limburg — sources: tomzulu
+- `001181398` — Brandweer — BRW Sint Anthonius ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181399` — Brandweer — BRW Sint Anthonius ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181440` — - — 665 | BRW | Oss | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181490` — - — 668 | BRW | Ravenstein | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181495` — - — 669 | BRW | Ravenstein | PreCom Koppelcode MKB Oost-Nederland — sources: tomzulu
+- `001181498` — Brandweer — BRW Ravenstein ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181499` — Brandweer — BRW Ravenstein ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181540` — - — 672 | BRW | Zeeland | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181548` — Brandweer — BRW Zeeland ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181549` — Brandweer — BRW Zeeland ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181590` — - — 675 | BRW | Schaijk | Koppelcode PreCom OCB Oost-Brabant — sources: tomzulu
+- `001181598` — Brandweer — BRW Schaijk ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181599` — Brandweer — BRW Schaijk ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181648` — Brandweer — BRW Schijndel ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181649` — Brandweer — BRW Schijndel ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181690` — - — 680 | BRW | Sint-Michielsgestel | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181698` — Brandweer — BRW Sint Michielsgestel ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181699` — Brandweer — BRW Sint Michielsgestel ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181740` — - — 683 | BRW | Sint-Oedenrode | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181748` — Brandweer — BRW Sint Oedenrode ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181749` — Brandweer — BRW Sint Oedenrode ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181790` — - — 686 | BRW | Uden | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181840` — - — 689 | BRW | Veghel | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181848` — Brandweer — BRW Veghel ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181849` — Brandweer — BRW Veghel ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181890` — - — 692 | BRW | Vierlingsbeek | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181896` — - — 693 | BRW | Vierlingsbeek | PreCom Koppelcode MKB Limburg — sources: tomzulu
+- `001181898` — Brandweer — BRW Vierlingsbeek ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181899` — Brandweer — BRW Vierlingsbeek ( Kazernetetechniek ) — sources: capcodes_eu, tomzulu
+- `001181940` — - — 696 | BRW | Erp | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181948` — Brandweer — BRW Erp ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181949` — Brandweer — BRW Erp ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001181990` — - — 699 | BRW | Vught | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001181998` — Brandweer — BRW Vught ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001181999` — Brandweer — BRW Vught ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001182040` — - — 702 | BRW | Vlijmen | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001182048` — Brandweer — BRW Vlijmen ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001182049` — Brandweer — BRW Vlijmen ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001182090` — - — 705 | BRW | Drunen | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001182097` — - — 706 | BRW | Drunen | PreCom Koppelcode tbv MKB ZeBra — sources: tomzulu
+- `001182098` — Brandweer — BRW Drunen ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001182099` — Brandweer — BRW Drunen ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001182140` — - — 709 | BRW | Heusden | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001182147` — - — 710 | BRW | Heusden | PreCom Koppelcode MKB ZeBra — sources: tomzulu
+- `001182148` — Brandweer — BRW Heusden ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001182149` — Brandweer — BRW Heusden ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001182190` — - — 713 | BRW | Cromvoirt | PreCom Koppelcode MKB Oost-Brabant — sources: tomzulu
+- `001182198` — Brandweer — BRW Cromvoirt ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001182199` — Brandweer — BRW Cromvoirt ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001200003` — - — 3 | BRW | Regionaal | CvD - Adviseur GBT — sources: tomzulu
+- `001200025` — Brandweer — BRW Midden en West Brabant ( RMC Zuid ) — sources: capcodes_eu, tomzulu
+- `001200030` — - — 9 | BRW | Regionaal | Directeur VR - bij Grip 3 en 4 — sources: tomzulu
+- `001200031` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200033` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200034` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200051` — Brandweer — BRW Midden en West Brabant ( Meetplanleider ) — sources: capcodes_eu, tomzulu
+- `001200055` — Brandweer — BRW Werkendam ( WvD ) — sources: capcodes_eu, tomzulu
+- `001200078` — Brandweer — BRW Dinteloord ( WvD ) — sources: capcodes_eu, tomzulu
+- `001200079` — - — 36 | BRW | Hoogerheide | Verkenningseenheid IBGS — sources: tomzulu
+- `001200081` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200082` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200083` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200084` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200089` — - — 43 | BRW | Regionaal | Informatiemanager CoPI Oost (Infocode) — sources: tomzulu
+- `001200091` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200092` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200094` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200095` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200096` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200097` — - — 49 | BRW | Regionaal | Informatiecoördinator ROT West (Alarmcode) — sources: tomzulu
+- `001200120` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200127` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200134` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200162` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200175` — - — 68 | BRW | Chaam | Bezetting GM + BPA — sources: tomzulu
+- `001200182` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200187` — - — 74 | BRW | Prinsenbeek | 25 kV Team Spoor — sources: tomzulu
+- `001200208` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200210` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200213` — - — 86 | BRW | Prinsenbeek | Contactpersoon — sources: tomzulu
+- `001200223` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200224` — - — 89 | BRW | Teteringen | Incident Team — sources: tomzulu
+- `001200233` — - — 90 | BRW | Ulvenhout | Contactpersoon — sources: tomzulu
+- `001200243` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200244` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200253` — - — 97 | BRW | Dongen | Incident Team — sources: tomzulu
+- `001200272` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200286` — - — 102 | BRW | Made | Contactpersoon — sources: tomzulu
+- `001200287` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200310` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200312` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200318` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200330` — - — 122 | BRW | Bergen op Zoom | Contactpersoon Vrijwilligers — sources: tomzulu
+- `001200331` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200332` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200333` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200334` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200335` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200336` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200337` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200344` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200346` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200350` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200351` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200352` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200354` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200355` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200393` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200394` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200395` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200402` — Brandweer — BRW Geertruidenberg ( AOV ) — sources: capcodes_eu, tomzulu
+- `001200440` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200444` — - — 157 | BRW | Rijen | Bedieners WTH-NWS — sources: tomzulu
+- `001200445` — Brandweer — BRW Rijen ( Bezetting Steunpunt ) — sources: capcodes_eu, tomzulu
+- `001200462` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200463` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200481` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200482` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200505` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200527` — - — 176 | BRW | Oud-Gastel | Contactpersoon — sources: tomzulu
+- `001200541` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200552` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200553` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200580` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200584` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200585` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200594` — Brandweer — BRW Moerdijk ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001200596` — Brandweer — BRW Moerdijk ( AOV ) — sources: capcodes_eu, tomzulu
+- `001200598` — - — 197 | BRW | Zevenbergen | First Responders — sources: tomzulu
+- `001200617` — - — 199 | BRW | Fijnaart | Bezetting PBA — sources: tomzulu
+- `001200645` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200646` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200701` — - — 221 | BRW | Oosterhout | Bevelvoerder van Dienst — sources: tomzulu
+- `001200702` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200703` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200704` — Brandweer — BRW Oosterhout ( Chauffeurs HA ) — sources: capcodes_eu, tomzulu
+- `001200705` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200710` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200711` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200712` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200716` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200717` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200741` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200743` — - — 240 | BRW | Rucphen | Ondersteuners LIH — sources: tomzulu
+- `001200746` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200763` — - — 245 | BRW | Steenbergen | Bezetting GW — sources: tomzulu
+- `001200764` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200765` — - — 247 | BRW | Nieuw-Vossemeer | Oppervlaktewater Redteam — sources: tomzulu
+- `001200775` — Brandweer — BRW Dinteloord ( Blusboot Furie ) — sources: capcodes_eu, tomzulu
+- `001200802` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200821` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200822` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200833` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200873` — Brandweer — BRW Waalwijk ( Bemanning HW Groep 1 ) — sources: capcodes_eu, tomzulu
+- `001200916` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200918` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001200937` — - — 296 | BRW | Dussen | Incident Team — sources: tomzulu
+- `001200947` — - — 299 | BRW | Hank | Contactpersoon — sources: tomzulu
+- `001200950` — - — 302 | BRW | Hank | Bezetting SI — sources: tomzulu
+- `001200976` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201027` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu
+- `001201063` — Brandweer — BRW Zundert ( Bemanning TW-8561 ) — sources: capcodes_eu, tomzulu
+- `001201080` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201081` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201082` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201087` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201088` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201090` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201104` — Brandweer — BRW Midden en West Brabant ( Hoofd Sectie Gemeenten ) — sources: capcodes_eu, tomzulu
+- `001201105` — Brandweer — BRW Midden en West Brabant ( Leden Sectie Gemeenten ) — sources: capcodes_eu, tomzulu
+- `001201107` — Brandweer — BRW Midden en West Brabant ( Communicatie Centrum ) — sources: capcodes_eu, tomzulu
+- `001201108` — Brandweer — BRW Midden en West Brabant ( Hoofd Sectie Communicatie ) — sources: capcodes_eu, tomzulu
+- `001201109` — Brandweer — BRW Midden en West Brabant ( Communicatie liaison 1 ) — sources: capcodes_eu, tomzulu
+- `001201110` — Brandweer — BRW Midden en West Brabant ( Communicatie liaison 2 ) — sources: capcodes_eu, tomzulu
+- `001201112` — Brandweer — BRW Midden en West Brabant ( Directe zorg Hoofd Actiecentrum ) — sources: capcodes_eu, tomzulu
+- `001201113` — Brandweer — BRW Midden en West Brabant ( Directe zorg Hoofd Opvang ) — sources: capcodes_eu, tomzulu
+- `001201116` — Brandweer — BRW Midden en West Brabant ( Millieu ) — sources: capcodes_eu, tomzulu
+- `001201118` — Brandweer — BRW Midden en West Brabant ( CRIB ) — sources: capcodes_eu, tomzulu
+- `001201119` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201120` — Brandweer — BRW Midden en West Brabant ( Termijnzorg ) — sources: capcodes_eu, tomzulu
+- `001201133` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu
+- `001201171` — - — 343 | BRW | Regionaal | OvD-B Markiezaten West (OvD-B Copi) — sources: tomzulu
+- `001201172` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201176` — - — 345 | BRW | Regionaal | OvD-B Stafsectie Brandweerzorg ROT (Noord/West) — sources: tomzulu
+- `001201180` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201184` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201196` — - — 348 | BRW | Regionaal | OvD-B Baronie Zuid (Stafsectie ROT) — sources: tomzulu
+- `001201220` — Brandweer — BRW Midden en West Brabant ( Info TBO Regio Midden ) — sources: capcodes_eu, tomzulu
+- `001201221` — Brandweer — BRW Midden en West Brabant ( Alarm TBO Regio Midden ) — sources: capcodes_eu, tomzulu
+- `001201223` — Brandweer — BRW Midden en West Brabant ( Info TBO Regio West ) — sources: capcodes_eu, tomzulu
+- `001201224` — Brandweer — BRW Midden en West Brabant ( Alarm TBO Regio West ) — sources: capcodes_eu, tomzulu
+- `001201226` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201230` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201231` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201232` — - — 356 | BRW | Regionaal | Sluiswachter Spieringsluis Werkendam — sources: tomzulu
+- `001201233` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201234` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201236` — - — 359 | BRW | Regionaal | Brabant Water (waterleidingbedrijf) — sources: tomzulu
+- `001201237` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201238` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201239` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201240` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201241` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201242` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201305` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201307` — Brandweer — BRW Breda ( WO-6173 ) — sources: capcodes_eu, tomzulu
+- `001201308` — Brandweer — BRW Breda ( HA-6181 ) — sources: capcodes_eu, tomzulu
+- `001201322` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201323` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201324` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201325` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201326` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201332` — Brandweer — BRW Tilburg-Centrum ( HW-6752 ) — sources: capcodes_eu, tomzulu
+- `001201333` — Brandweer — BRW Tilburg-Centrum ( HV ) — sources: capcodes_eu, tomzulu
+- `001201334` — Brandweer — BRW Tilburg-Centrum ( TS-2 ) — sources: capcodes_eu, tomzulu
+- `001201335` — Brandweer — BRW Tilburg-Centrum ( SB ) — sources: capcodes_eu, tomzulu
+- `001201341` — Brandweer — BRW Tilburg-Vossenberg ( TS ) — sources: capcodes_eu, tomzulu
+- `001201342` — Brandweer — BRW Tilburg-Vossenberg ( HW-6751 ) — sources: capcodes_eu, tomzulu
+- `001201343` — Brandweer — BRW Tilburg-Vossenberg ( HV ) — sources: capcodes_eu, tomzulu
+- `001201345` — Brandweer — BRW Tilburg-Vossenberg ( WO ) — sources: capcodes_eu, tomzulu
+- `001201346` — Brandweer — BRW Tilburg-Vossenberg ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001201347` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201348` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201349` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201350` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201351` — Brandweer — BRW Waalwijk ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001201352` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201353` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201354` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201355` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201356` — - — 401 | BRW | Regionaal | Loon op Zand (Slagbomen Midden Brabantweg - N261) — sources: tomzulu
+- `001201357` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201358` — - — 403 | BRW | Regionaal | Hoogerheide (Slagboom Bungalowpark Familyland) — sources: tomzulu
+- `001201359` — - — 404 | BRW | Regionaal | Hoogerheide (Slagboom Bungalowpark Familyland) — sources: tomzulu
+- `001201360` — Brandweer — BRW Willemstad ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001201363` — Brandweer — BRW Gilze-Rijen ( Wegblokkers ) — sources: capcodes_eu, tomzulu
+- `001201364` — Brandweer — BRW Oosterhout ( Wegblokkers ) — sources: capcodes_eu, tomzulu
+- `001201367` — - — 408 | BRW | Regionaal | Halsteren (Bollards Bedrijventerrein Oude Molen - Canadaweg) — sources: tomzulu
+- `001201368` — Brandweer — BRW Standaardbuiten ( Wegblokkers ) — sources: capcodes_eu, tomzulu
+- `001201369` — - — 410 | BRW | Regionaal | Halsteren (Bollards Bedrijventerrein Oude Molen - De Vang) — sources: tomzulu
+- `001201370` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201372` — Brandweer — BRW Bergen op Zoom ( TS-7233 ) — sources: capcodes_eu, tomzulu
+- `001201378` — - — 413 | BRW | Regionaal | Wegblokkade Geertruidenberg-Centrum — sources: tomzulu
+- `001201379` — Brandweer — BRW Bergen op Zoom ( Kazernetechniek ) — sources: capcodes_eu, tomzulu
+- `001201382` — Brandweer — BRW Roosendaal ( TS-2 ) — sources: capcodes_eu, tomzulu
+- `001201390` — - — 417 | BRW | Raamsdonksveer | Wegblokkades Keizersdijk/Knip — sources: tomzulu
+- `001201391` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201400` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201401` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201402` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201403` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201404` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201405` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201406` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201407` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201408` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201409` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201410` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201411` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201412` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201413` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201414` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201415` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201416` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201417` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201418` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201419` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201420` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201421` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201422` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201424` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201425` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201426` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201427` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201428` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201429` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201431` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201433` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201434` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201435` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201436` — - — 452 | BRW | Dinteloord | HV 1672 — sources: tomzulu
+- `001201437` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201440` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201441` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201442` — - — 456 | BRW | District Markiezaten | Reserve 20-3032 — sources: tomzulu
+- `001201443` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201444` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201445` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201446` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201447` — - — 461 | BRW | Prinsenbeek | GM 3185 — sources: tomzulu
+- `001201448` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201449` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201450` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201451` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201452` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201454` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201455` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201457` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201458` — - — 470 | BRW | Rucphen | HA 3381 — sources: tomzulu
+- `001201459` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201460` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201461` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201462` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201467` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201468` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201469` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201470` — - — 478 | BRW | Terheijden | HV 5471 — sources: tomzulu
+- `001201471` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201472` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201473` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201474` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201475` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201476` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201478` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201479` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201480` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201481` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201483` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201485` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201486` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201487` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201488` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201489` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201490` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201492` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201494` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201495` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201496` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201500` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201502` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201503` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201504` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201505` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201506` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201507` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201508` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201509` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201510` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201511` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201513` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201514` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201517` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201518` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201520` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201521` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201522` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201524` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201532` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu
+- `001201533` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201534` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201535` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201536` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201537` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201538` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201539` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201540` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201541` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201542` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201543` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201544` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201545` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201546` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201547` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201548` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201550` — - — 535 | BRW | Zevenbergen | HV 1171 — sources: tomzulu
+- `001201551` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201552` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201553` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201554` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201555` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201557` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201565` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201566` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201567` — - — 544 | BRW | Kaatsheuvel | HV 7271 — sources: tomzulu
+- `001201568` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201569` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201570` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201571` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201572` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201573` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201574` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201575` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201576` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201577` — - — 554 | BRW | OvD Reserve | DV 0098 — sources: tomzulu
+- `001201578` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201580` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201581` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201582` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201583` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201584` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201585` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201586` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201587` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201589` — - — 564 | BRW | Wijk en Aalburg | HA 5181 — sources: tomzulu
+- `001201590` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201592` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201594` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201595` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201596` — - — 569 | BRW | Oud Gastel | PM/SL 1262 — sources: tomzulu
+- `001201597` — - — 570 | BRW | Bergen op Zoom | PM 1562 — sources: tomzulu
+- `001201598` — - — 571 | BRW | Etten-Leur | GM 3461 — sources: tomzulu
+- `001201600` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu
+- `001201601` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201658` — - — 573 | BRW | Roosendaal | Kazerne Centrale — sources: tomzulu
+- `001201659` — - — 574 | BRW | Zevenbergen | Kazerne Centrale — sources: tomzulu
+- `001201660` — - — 575 | BRW | Etten-Leur | Kazerne Centrale — sources: tomzulu
+- `001201703` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201704` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201706` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201707` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201711` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201712` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201713` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201714` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201719` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201721` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201722` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201725` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201726` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201727` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201728` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201741` — - — 591 | BRW | Regionaal | Vrije OvD-B — sources: tomzulu
+- `001201744` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201745` — - — 593 | BRW | Regionaal | OvD-B Hart van Brabant Oost (Groepscode) — sources: tomzulu
+- `001201801` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201802` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201803` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201804` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201805` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201811` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201812` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201815` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201816` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201836` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu
+- `001201896` — - — 603 | BRW | Regionaal | Directeur — sources: tomzulu
+- `001201935` — Brandweer — BRW Geertruidenberg ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001201945` — Brandweer — BRW Huijbergen ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001201948` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201970` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001201980` — Brandweer — BRW Waspik ( Lichtkrant ) — sources: capcodes_eu, tomzulu
+- `001201982` — Brandweer — Brandweer Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220000` — Ambulance — 675 | GHOR Midden- en West-Brabant | Algemeen Commandant Geneeskundige Zorg) (Alarmcode) — sources: tomzulu
+- `001220029` — Ambulance — MKA Midden en West Brabant ( GAGS ) — sources: capcodes_eu, tomzulu
+- `001220030` — Ambulance — MKA Midden en West Brabant ( BOT ) — sources: capcodes_eu, tomzulu
+- `001220031` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220033` — - — 683 | MKA | RAV Brabant Midden-West-Noord | Functionaris Incident Response Team — sources: tomzulu
+- `001220175` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220232` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220233` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220234` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220235` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220236` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220357` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220429` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220451` — Ambulance — 692 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS Waalwijk — sources: tomzulu
+- `001220452` — Ambulance — 693 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS — sources: tomzulu
+- `001220453` — Ambulance — 694 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS Tilburg — sources: tomzulu
+- `001220454` — Ambulance — 695 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS — sources: tomzulu
+- `001220455` — Ambulance — 696 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS Etten-Leur — sources: tomzulu
+- `001220456` — Ambulance — 697 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS Hoogerheide — sources: tomzulu
+- `001220457` — Ambulance — 698 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS — sources: tomzulu
+- `001220458` — Ambulance — 699 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS — sources: tomzulu
+- `001220459` — Ambulance — 700 | RAV Brabant Midden-West-Noord | NRK Noodhulp-Teamalarm UGS — sources: tomzulu
+- `001220549` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu
+- `001220619` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220627` — Ambulance — 721 | Breda | Ambulancelance 20-167 — sources: tomzulu
+- `001220643` — Ambulance — MKA Midden en West Brabant ( Ambu 20-183 Tilburg ) — sources: capcodes_eu, tomzulu
+- `001220646` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220708` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu
+- `001220711` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220803` — Ambulance — MKA Midden en West Brabant ( OVD-G Breda ) — sources: capcodes_eu, tomzulu
+- `001220804` — Ambulance — MKA Midden en West Brabant ( OVD-G Tilburg ) — sources: capcodes_eu, tomzulu
+- `001220805` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220845` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220846` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu
+- `001220938` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220939` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220940` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220941` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220945` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220946` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220947` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001220948` — Ambulance — Ambulance Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230001` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu
+- `001230004` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu
+- `001230054` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu
+- `001230059` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu
+- `001230065` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230066` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230090` — - — 763 | POL | Politie Eenheid Zeeland-West-Brabant | Piketfunctionaris Korpsleiding — sources: tomzulu
+- `001230100` — Politie — Politie Midden en West Brabant ( Teamleiders ) — sources: capcodes_eu, tomzulu
+- `001230114` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230115` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230116` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230117` — - — 770 | POL | District Markiezaten | GRIP 3 (Alarmcode) — sources: tomzulu
+- `001230121` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230122` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230123` — - — 773 | POL | District De Baronie | Grote HV) (Infocode) — sources: tomzulu
+- `001230124` — - — 774 | POL | District De Baronie | Zeer Grote HV) (Infocode) — sources: tomzulu
+- `001230125` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230126` — - — 776 | POL | District De Baronie | GRIP 2 (Alarmcode) — sources: tomzulu
+- `001230141` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230142` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230143` — - — 779 | POL | District Hart van Brabant | Grote HV) (Infocode) — sources: tomzulu
+- `001230144` — - — 780 | POL | District Hart van Brabant | Zeer Grote HV) (Infocode) — sources: tomzulu
+- `001230145` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230146` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230147` — - — 783 | POL | District Hart van Brabant | GRIP 3 (Alarmcode) — sources: tomzulu
+- `001230151` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230152` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230153` — - — 786 | POL | District De Markiezaten | Grote HV) (Infocode) — sources: tomzulu
+- `001230154` — - — 787 | POL | District De Markiezaten | Zeer Grote HV) (Infocode) — sources: tomzulu
+- `001230160` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230201` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230260` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230261` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230262` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230264` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230265` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230266` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230270` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230275` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230301` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230302` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230501` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230502` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230503` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230504` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230505` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230506` — - — 806 | POL | Politie Eenheid Zeeland-West-Brabant | Grip 3 (Alarmcode) — sources: tomzulu
+- `001230507` — - — 807 | POL | Politie Eenheid Zeeland-West-Brabant | Grip 4 (Infocode) — sources: tomzulu
+- `001230508` — - — 808 | POL | Politie Eenheid Zeeland-West-Brabant | Grip 4 (Alarmcode) — sources: tomzulu
+- `001230509` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230510` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230511` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230512` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230513` — - — 813 | POL | Politie Eenheid Zeeland-West-Brabant | Grote Hulpverlening (Infocode) — sources: tomzulu
+- `001230514` — - — 814 | POL | Politie Eenheid Zeeland-West-Brabant | Grote Hulpverlening (Alarmcode) — sources: tomzulu
+- `001230900` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230902` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230903` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230904` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu, tomzulu
+- `001230999` — Politie — Politie Midden en West Brabant ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001232999` — Politie — Politie Midden- en West-Brabant — sources: capcodes_eu
+- `001300005` — Brandweer — BRW Zeeland ( Synchronisatie Lichtkranten Veiligheidsregio Zeeland ) — sources: capcodes_eu, tomzulu
+- `001300007` — Brandweer — Brandweer Zeeland — sources: capcodes_eu
+- `001300018` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300019` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300043` — - — 19 | MKA | Regionaal | TCO — sources: tomzulu
+- `001300052` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300053` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300058` — Brandweer — BRW Zeeland ( OVR Ministerie van Defensie ) — sources: capcodes_eu, tomzulu
+- `001300059` — Brandweer — BRW Zeeland (Functionaris VRZ ) — sources: capcodes_eu, tomzulu
+- `001300060` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300061` — Brandweer — BRW Zeeland ( Functionaris VRZ ) — sources: capcodes_eu, tomzulu
+- `001300065` — Brandweer — BRW Zeeland ( Functionaris VRZ ) — sources: capcodes_eu, tomzulu
+- `001300068` — Brandweer — BRW Zeeland ( 19-4308 Logistiek Medewerker ) — sources: capcodes_eu, tomzulu
+- `001300070` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300082` — Brandweer — BRW Zeeland (Functionaris VRZ ) — sources: capcodes_eu, tomzulu
+- `001300140` — Brandweer — BRW Zeeland VR Zeeland Noord ( Functionaris 01 t/m 05 ) — sources: capcodes_eu, tomzulu
+- `001300158` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300180` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300186` — - — 37 | BRW | Regionaal | TCO — sources: tomzulu
+- `001300187` — - — 38 | BRW | Walcheren/Schouwen-Duiveland | TCO — sources: tomzulu
+- `001300188` — - — 39 | BRW | Zeeuws-Vlaanderen | TCO — sources: tomzulu
+- `001300189` — - — 40 | BRW | Zeeuws-Vlaanderen | TCO — sources: tomzulu
+- `001300191` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300192` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300194` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300195` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300197` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300198` — - — 46 | BRW | Regionaal | Vrije Instroom Officieren Schouwen-Duiveland — sources: tomzulu
+- `001300202` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300206` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300207` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300208` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300211` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300213` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300219` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300221` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300222` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300226` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300227` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300231` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300234` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300236` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300238` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300420` — Brandweer — BRW Goes ( Blusgroepen 31 + 32 ) — sources: capcodes_eu, tomzulu
+- `001300422` — - — 73 | BRW | Goes-Oranjeweg | First Responders Dagdienst — sources: tomzulu
+- `001300425` — - — 75 | BRW | Heinkenszand | Bezetting TS-BO — sources: tomzulu
+- `001300427` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300432` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300438` — Brandweer — BRW Goes ( Chauffeursgroepen 32 en 33 ) — sources: capcodes_eu, tomzulu
+- `001300440` — Brandweer — BRW Goes ( Alle Chauffeursgroepen ) — sources: capcodes_eu, tomzulu
+- `001300441` — Brandweer — BRW Goes ( Officieren ) — sources: capcodes_eu, tomzulu
+- `001300446` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300447` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300448` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300449` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300451` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300453` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300454` — Brandweer — BRW Wolphaartsdijk ( WVD Groep ) — sources: capcodes_eu, tomzulu
+- `001300459` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300479` — - — 97 | BRW | OC-B Zeeland/West-Brabant | Centralist (Persoonlijke Code) — sources: tomzulu
+- `001300568` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300575` — - — 102 | BRW | Hulst | First Responders — sources: tomzulu
+- `001300576` — Brandweer — BRW Hulst ( HV Groep ) — sources: capcodes_eu, tomzulu
+- `001300589` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300590` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300600` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300617` — Brandweer — BRW Vogelwaarde ( WvD Groep ) — sources: capcodes_eu, tomzulu
+- `001300620` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300746` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300749` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300751` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300755` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300811` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300815` — Brandweer — BRW Colijnsplaat ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `001300817` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300819` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300821` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300825` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300827` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300828` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300829` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300894` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300896` — Brandweer — BRW Krabbendijke ( Verzorgingsgroep ) — sources: capcodes_eu, tomzulu
+- `001300898` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300899` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300901` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300904` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300906` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300909` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300912` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300913` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300914` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300918` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001300920` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301037` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301041` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301049` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301050` — Brandweer — BRW Oosterland ( WVD Groep ) — sources: capcodes_eu, tomzulu
+- `001301056` — Brandweer — BRW Brouwershaven ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301060` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301066` — Brandweer — BRW Dreischor ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301069` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301071` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301077` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301081` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301086` — Brandweer — BRW Kerkwerve ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301089` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301091` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301094` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301095` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301099` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301101` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301102` — - — 178 | BRW | Renesse | First Responders — sources: tomzulu
+- `001301104` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301106` — Brandweer — BRW Scharendijke ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301115` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301120` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301125` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301332` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301336` — Brandweer — BRW Aardenburg ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301340` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301346` — Brandweer — BRW Breskens ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301349` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301351` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301356` — Brandweer — BRW Cadzand ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301357` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301358` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301359` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301361` — Brandweer — BRW Oostburg ( HA Chauffeursgroep 1 en 2 ) — sources: capcodes_eu, tomzulu
+- `001301363` — - — 205 | BRW | Sluis | First Responders — sources: tomzulu
+- `001301364` — Brandweer — BRW Oostburg ( HA Chauffeursgroep 2 ) — sources: capcodes_eu, tomzulu
+- `001301366` — Brandweer — BRW Sluis ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301367` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301368` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301371` — Brandweer — BRW Schoondijke ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301372` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301374` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301375` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301376` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301378` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301381` — Brandweer — BRW IJzendijke ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301382` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301389` — Brandweer — BRW Oostburg ( HW Chauffeursgroep 4 ) — sources: capcodes_eu, tomzulu
+- `001301532` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301540` — Brandweer — BRW Middelburg ( Blusgroep Stromenweg Dagdienst Spitscode ) — sources: capcodes_eu, tomzulu
+- `001301545` — Brandweer — BRW Middelburg ( Alle Chauffeursgroepen Stromenweg ) — sources: capcodes_eu, tomzulu
+- `001301554` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301555` — - — 234 | BRW | Middelburg-Stromenweg | Bezetting HA Ploeg 2 — sources: tomzulu
+- `001301556` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301558` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301560` — Brandweer — BRW Middelburg ( Blusgroep Rooseveltlaan Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301564` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301573` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301585` — Brandweer — BRW Oost-Souburg ( Blusgroep Dagoproep ) — sources: capcodes_eu, tomzulu
+- `001301588` — Brandweer — BRW Oost-Souburg ( Chauffeursgroep ) — sources: capcodes_eu, tomzulu
+- `001301590` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301592` — - — 252 | BRW | Vlissingen-Olympiaweg | Bezetting HA - ANW Ploeg 1 — sources: tomzulu
+- `001301593` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301594` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301597` — - — 257 | BRW | Vlissingen-Olympiaweg | First Responders — sources: tomzulu
+- `001301600` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301601` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301602` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301617` — Brandweer — BRW Vlissingen ( Persoonlijke Code Hoofd Strandbewaking ) — sources: capcodes_eu, tomzulu
+- `001301618` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301851` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301852` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301857` — Brandweer — BRW Axel ( WVD Groep ) — sources: capcodes_eu, tomzulu
+- `001301859` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301861` — Brandweer — BRW Mauritsfort ( Verkeersregeling N61 ) — sources: capcodes_eu, tomzulu
+- `001301862` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301865` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301869` — Brandweer — BRW Sluiskil ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `001301870` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301875` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301878` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301886` — Brandweer — BRW Zaamslag ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `001301889` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301890` — Brandweer — BRW Biervliet ( Blusgroep ) — sources: capcodes_eu, tomzulu
+- `001301891` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301895` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301904` — - — 295 | BRW | Sas van Gent | First Responders — sources: tomzulu
+- `001301907` — - — 296 | BRW | Sas van Gent | Gaspakteam — sources: tomzulu
+- `001301945` — Brandweer — BRW Koegors ( SIV Dagdienst ) — sources: capcodes_eu, tomzulu
+- `001301953` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301954` — - — 311 | BRW | Terneuzen post Zuidlandstraat | Ploegen 1+2 — sources: tomzulu
+- `001301955` — Brandweer — BRW Koegors ( Lichtkrant Kazerne ) — sources: capcodes_eu, tomzulu
+- `001301958` — Brandweer — BRW Koegors ( Bootbemanning ) — sources: capcodes_eu, tomzulu
+- `001301960` — Brandweer — BRW Koegors ( Groep Hoogte Redding Team ) — sources: capcodes_eu, tomzulu
+- `001301963` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001301965` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302251` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302259` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302261` — Brandweer — BRW Sint Annaland ( Chauffeursgroep ) — sources: capcodes_eu, tomzulu
+- `001302262` — Brandweer — BRW Sint Annaland ( Chauffeursgroep ) — sources: capcodes_eu, tomzulu
+- `001302263` — Brandweer — BRW Sint Annaland ( Logisieke Groep ) — sources: capcodes_eu, tomzulu
+- `001302264` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302266` — - — 325 | BRW | Sint Maartensdijk | First Responders — sources: tomzulu
+- `001302267` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302269` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302272` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302274` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302277` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302278` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302279` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302281` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302282` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302283` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302284` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302287` — Brandweer — BRW Sint Philipsland ( WVD Groep ) — sources: capcodes_eu, tomzulu
+- `001302295` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302407` — - — 347 | BRW | Domburg | First Responders — sources: tomzulu
+- `001302409` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302412` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302414` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302419` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302422` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302424` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302429` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302434` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302439` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302442` — Brandweer — BRW Zoutelande ( WVD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001302630` — KNRM — KNRM Zeeland ( Monitorcode ) — sources: capcodes_eu, tomzulu
+- `001302632` — KNRM — KNRM Zeeland ( Station Neeltje Jans - Bemanning Harder ) — sources: capcodes_eu, tomzulu
+- `001302633` — KNRM — KNRM Zeeland ( Station Neeltje Jans - Bemanning Koopmansdank ) — sources: capcodes_eu, tomzulu
+- `001302635` — KNRM — KNRM Zeeland ( Station Veere - Bemanning Oranje ) — sources: capcodes_eu, tomzulu
+- `001302637` — KNRM — KNRM Zeeland ( Station Westkapelle - Bemanning ULY ) — sources: capcodes_eu, tomzulu
+- `001302638` — KNRM — KNRM Zeeland ( Station Westkapelle - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001302640` — KNRM — KNRM Zeeland ( Station Breskens - Bemanning Zeemanshoop ) — sources: capcodes_eu, tomzulu
+- `001302642` — KNRM — KNRM Zeeland ( Station Cadzand - Bemanning Winifred Lucy Verkade ) — sources: capcodes_eu, tomzulu
+- `001302643` — KNRM — KNRM Zeeland ( Station Cadzand - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001302645` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302648` — KNRM — 380 | KNRM Ouddorp Binnen | Bezetting Reddingboot — sources: tomzulu
+- `001302649` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302762` — Brandweer — Brandweer Zeeland — sources: capcodes_eu
+- `001302801` — Brandweer — BRW Zeeland ( AOV gemeente Borsele ) — sources: capcodes_eu, tomzulu
+- `001302802` — Brandweer — BRW Zeeland ( AOV gemeente Goes ) — sources: capcodes_eu, tomzulu
+- `001302803` — Brandweer — BRW Zeeland ( AOV gemeente Hulst ) — sources: capcodes_eu, tomzulu
+- `001302804` — Brandweer — BRW Zeeland ( AOV gemeente Kapelle ) — sources: capcodes_eu, tomzulu
+- `001302805` — Brandweer — BRW Zeeland ( AOV gemeente Middelburg ) — sources: capcodes_eu, tomzulu
+- `001302806` — Brandweer — BRW Zeeland ( AOV gemeente Noord-Beveland ) — sources: capcodes_eu, tomzulu
+- `001302807` — Brandweer — BRW Zeeland ( AOV gemeente Reimerswaal ) — sources: capcodes_eu, tomzulu
+- `001302808` — Brandweer — BRW Zeeland ( AOV gemeente Schouwen-Duiveland ) — sources: capcodes_eu, tomzulu
+- `001302809` — Brandweer — BRW Zeeland ( AOV gemeente Sluis ) — sources: capcodes_eu, tomzulu
+- `001302810` — Brandweer — BRW Zeeland ( AOV gemeente Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001302812` — Brandweer — BRW Zeeland ( AOV gemeente Veere ) — sources: capcodes_eu, tomzulu
+- `001302813` — Brandweer — BRW Zeeland ( AOV gemeente Vlissingen ) — sources: capcodes_eu, tomzulu
+- `001302871` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302880` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302885` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302886` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302887` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302888` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302889` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302890` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302900` — Brandweer — BRW Zeeland ( AC Operatiën 19-4695 OvD Veere en Noord-Beveland ) — sources: capcodes_eu
+- `001302916` — Brandweer — BRW Zeeland ( COPI 19-5695 OvD Midden Zeeuws-Vlaanderen ) — sources: capcodes_eu, tomzulu
+- `001302947` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302988` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302989` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302990` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302991` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302992` — - — 417 | BRW | Regionaal | Coordinator Verkenningseenheden Noord — sources: tomzulu
+- `001302993` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302995` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302996` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001302998` — Brandweer — Brandweer Zeeland — sources: capcodes_eu, tomzulu
+- `001303030` — Brandweer — BRW Vlissingen ( DPH 19-4360 ) — sources: capcodes_eu, tomzulu
+- `001303031` — Brandweer — BRW Goes ( DPH 19-4365 ) — sources: capcodes_eu, tomzulu
+- `001303034` — Brandweer — BRW Sint Annaland ( DPH 19-4364 ) — sources: capcodes_eu, tomzulu
+- `001303036` — Brandweer — BRW Schoondijke ( DPH 19-5366 ) — sources: capcodes_eu, tomzulu
+- `001303037` — - — 426 | BRW | Axel | DPH 19-8664 — sources: tomzulu
+- `001303041` — Brandweer — BRW Goes ( SLH 19-4369 ) — sources: capcodes_eu, tomzulu
+- `001303042` — Brandweer — BRW Goes ( WTU 19-4366 ) — sources: capcodes_eu, tomzulu
+- `001303047` — Brandweer — BRW Koegors ( SLH 19-5465 ) — sources: capcodes_eu, tomzulu
+- `001303061` — Brandweer — BRW Sint Annaland ( HA 19-4966 ) — sources: capcodes_eu, tomzulu
+- `001303062` — Brandweer — BRW Goes ( HA 19-4362 ) — sources: capcodes_eu, tomzulu
+- `001303063` — Brandweer — BRW Haamstede ( HA 19-4967 ) — sources: capcodes_eu, tomzulu
+- `001303065` — - — 433 | BRW | Tholen | HA 19-8280 — sources: tomzulu
+- `001303067` — Brandweer — BRW Koegors ( HA 19-5647 ) — sources: capcodes_eu, tomzulu
+- `001303068` — - — 436 | BRW | Schoondijke | HA 19-5648 — sources: tomzulu
+- `001303069` — Brandweer — BRW Vlissingen ( HA 19-4361 ) — sources: capcodes_eu, tomzulu
+- `001303072` — Brandweer — BRW Goes ( HA 19-4372 ) — sources: capcodes_eu, tomzulu
+- `001303082` — - — 440 | BRW | Goes-Oranjeweg | BOH-DC 8920 — sources: tomzulu
+- `001303083` — - — 441 | BRW | Goes-Oranjeweg | VZU 19-4389 — sources: tomzulu
+- `001303086` — - — 442 | BRW | Terneuzen Koegors | ABH 19-8689 — sources: tomzulu
+- `001303089` — - — 443 | BRW | Oosterland | LIH 19-8873 — sources: tomzulu
+- `001303090` — Brandweer — BRW Middelburg ( COH 19-4290 ) — sources: capcodes_eu, tomzulu
+- `001303094` — - — 445 | BRW | Zierikzee | VC2 19-4293 — sources: tomzulu
+- `001303095` — - — 446 | BRW | AGS Zuid | DV 8620 — sources: tomzulu
+- `001303130` — Brandweer — BRW Oostburg ( TAS 19-5530 ) — sources: capcodes_eu, tomzulu
+- `001303131` — Brandweer — BRW Breskens ( TAS 19-5531 ) — sources: capcodes_eu, tomzulu
+- `001303132` — Brandweer — BRW Cadzand ( TAS 19-5532 ) — sources: capcodes_eu, tomzulu
+- `001303134` — Brandweer — BRW IJzendijke ( TAS 19-5534 ) — sources: capcodes_eu, tomzulu
+- `001303135` — Brandweer — BRW Aardenburg ( TAS 19-5535 ) — sources: capcodes_eu, tomzulu
+- `001303136` — Brandweer — BRW Sluis ( TAS 19-5536 ) — sources: capcodes_eu, tomzulu
+- `001303160` — Brandweer — BRW Oostburg ( HA 19-5560 ) — sources: capcodes_eu, tomzulu
+- `001303163` — - — 455 | BRW | Oostburg | WT 19-6560 — sources: tomzulu
+- `001303170` — Brandweer — BRW Oostburg ( HVH 19-5570 ) — sources: capcodes_eu, tomzulu
+- `001303201` — - — 457 | BRW | Sint Philipsland | OGS / Verkenningseenheid Brandweer (Meetgroep) — sources: tomzulu
+- `001303212` — - — 458 | BRW | Tholen | Reddingboot Eendracht 19-2212 — sources: tomzulu
+- `001303230` — Brandweer — BRW Tholen ( TAS 19-4230 ) — sources: capcodes_eu, tomzulu
+- `001303231` — Brandweer — BRW Sint Philipsland ( TAS 19-4231 ) — sources: capcodes_eu, tomzulu
+- `001303232` — Brandweer — BRW Sint Annaland ( TAS 19-4232 ) — sources: capcodes_eu, tomzulu
+- `001303233` — Brandweer — BRW Stavenisse ( TAS 19-4233 ) — sources: capcodes_eu, tomzulu
+- `001303234` — Brandweer — BRW Sint Maartensdijk ( TAS 19-4234 ) — sources: capcodes_eu, tomzulu
+- `001303262` — - — 464 | BRW | Sint Annaland | TW 19-4262 (16.000 L incl. one-seven systeem) — sources: tomzulu
+- `001303283` — Brandweer — BRW Stavenisse ( Boot 19-4283 ) — sources: capcodes_eu, tomzulu
+- `001303285` — Brandweer — BRW Tholen ( Boot 19-4285 ) — sources: capcodes_eu, tomzulu
+- `001303295` — Brandweer — BRW Zeeland ( DA 19-4295 OvD Tholen ) — sources: capcodes_eu, tomzulu
+- `001303330` — Brandweer — BRW Terneuzen ( TAS 19-5630 ) — sources: capcodes_eu, tomzulu
+- `001303331` — Brandweer — BRW Koegors ( TAS 19-5631 ) — sources: capcodes_eu, tomzulu
+- `001303332` — Brandweer — BRW Mauritsfort ( TAS 19-5632 ) — sources: capcodes_eu, tomzulu
+- `001303334` — Brandweer — BRW Sluiskil ( TAS 19-5634 ) — sources: capcodes_eu, tomzulu
+- `001303335` — Brandweer — BRW Sas van Gent ( TAS 19-5635 ) — sources: capcodes_eu, tomzulu
+- `001303336` — Brandweer — BRW Axel ( TAS 19-5636 ) — sources: capcodes_eu, tomzulu
+- `001303337` — Brandweer — BRW Westdorpe ( TAS 19-5637 ) — sources: capcodes_eu, tomzulu
+- `001303338` — Brandweer — BRW Koewacht ( TAS 19-5638 ) — sources: capcodes_eu, tomzulu
+- `001303339` — Brandweer — BRW Zaamslag ( TAS 19-5639 ) — sources: capcodes_eu, tomzulu
+- `001303346` — Brandweer — BRW Zuiddorpe ( TAS 19-5646 ) — sources: capcodes_eu, tomzulu
+- `001303350` — Brandweer — BRW Terneuzen ( HW 19-5650 ) — sources: capcodes_eu, tomzulu
+- `001303360` — Brandweer — BRW Terneuzen ( SIV 19-5660 ) — sources: capcodes_eu, tomzulu
+- `001303361` — Brandweer — BRW Koegors ( SB1 19-5661 ) — sources: capcodes_eu, tomzulu
+- `001303363` — Brandweer — BRW Koegors ( HA 19-5663 ) — sources: capcodes_eu, tomzulu
+- `001303364` — Brandweer — BRW Koegors ( TWA 19-5664 ) Zeeland — sources: capcodes_eu, tomzulu
+- `001303365` — - — 483 | BRW | Terneuzen post Koegors | DPHS 19-8663 — sources: tomzulu
+- `001303367` — - — 484 | BRW | Terneuzen post Koegors | PBA 19-6667 — sources: tomzulu
+- `001303372` — Brandweer — BRW Mauritsfort ( HVH 19-5672 ) — sources: capcodes_eu, tomzulu
+- `001303377` — - — 486 | BRW | Terneuzen post Koegors | TS4 19-6666 — sources: tomzulu
+- `001303381` — Brandweer — BRW Koegors ( WO/OGS 19-5681 ) — sources: capcodes_eu, tomzulu
+- `001303383` — Brandweer — BRW Koegors ( TR Met Trailer 19-5683 ) — sources: capcodes_eu, tomzulu
+- `001303385` — - — 489 | BRW | Sas van Gent | DV-GP 19-6625 — sources: tomzulu
+- `001303389` — - — 490 | BRW | Sluiskil | SIV 6664 met COBRA systeem — sources: tomzulu
+- `001303390` — Brandweer — BRW Koegors ( DA Hoogte Redding Team 19-5690 ) — sources: capcodes_eu, tomzulu
+- `001303394` — - — 492 | BRW | Regionaal | HOvD Zuid Dienst auto — sources: tomzulu
+- `001303395` — Brandweer — BRW Zeeland ( DA 19-5695 OvD Midden Zeeuws-Vlaanderen ) — sources: capcodes_eu, tomzulu
+- `001303414` — - — 494 | BRW | Regionaal | TS reserve 19-8034 — sources: tomzulu
+- `001303415` — - — 495 | BRW | Regionaal | TS reserve 19-8631 — sources: tomzulu
+- `001303430` — Brandweer — BRW Hulst ( TAS 19-5730 ) — sources: capcodes_eu, tomzulu
+- `001303431` — Brandweer — BRW Hulst ( TAS 19-5731 ) — sources: capcodes_eu, tomzulu
+- `001303435` — Brandweer — BRW Kloosterzande ( TAS 19-5735 ) — sources: capcodes_eu, tomzulu
+- `001303436` — Brandweer — BRW Vogelwaarde ( TAS 19-5736 ) — sources: capcodes_eu, tomzulu
+- `001303450` — Brandweer — BRW Hulst ( HW 19-5750 ) — sources: capcodes_eu, tomzulu
+- `001303451` — - — 501 | BRW | Borsele | Tankautospuit(TS) reserve — sources: tomzulu
+- `001303452` — - — 502 | BRW | Zierikzee | HW 19-2859 — sources: tomzulu
+- `001303469` — - — 503 | BRW | Wolphaartsdijk | TS 19-4933 — sources: tomzulu
+- `001303470` — Brandweer — BRW Hulst ( HV2 19-5770 ) — sources: capcodes_eu, tomzulu
+- `001303501` — - — 505 | BRW | Vlissingen Olympiaweg | DB 19-4401 — sources: tomzulu
+- `001303502` — - — 506 | BRW | Vlissingen-Souburg | DB 19-4402 — sources: tomzulu
+- `001303510` — Brandweer — BRW Middelburg ( DB 19-4510 Stromenweg ) — sources: capcodes_eu, tomzulu
+- `001303516` — - — 508 | BRW | Oosterland | HA 19-8883 — sources: tomzulu
+- `001303532` — Brandweer — BRW Oost-Souburg ( TAS 19-4532 ) — sources: capcodes_eu, tomzulu
+- `001303533` — Brandweer — BRW Middelburg ( TAS 19-4533 Torenweg ) — sources: capcodes_eu, tomzulu
+- `001303534` — Brandweer — BRW Arnemuiden ( TAS 19-4534 ) — sources: capcodes_eu, tomzulu
+- `001303535` — Brandweer — BRW Middelburg ( TAS 19-4535 Rooseveltlaan ) — sources: capcodes_eu, tomzulu
+- `001303538` — - — 515 | BRW | Regionaal | TS reserve 19-8035 — sources: tomzulu
+- `001303539` — - — 516 | BRW | Regionaal | TS reserve 19-8539 — sources: tomzulu
+- `001303550` — Brandweer — BRW Middelburg ( AL 19-4550 Stromenweg ) — sources: capcodes_eu, tomzulu
+- `001303560` — - — 520 | BRW | Middelburg-Stromenweg | WTH 19-8560 — sources: tomzulu
+- `001303566` — Brandweer — BRW Oost-Souburg ( TW 19-4566 ) — sources: capcodes_eu, tomzulu
+- `001303570` — Brandweer — BRW Middelburg ( HA + HVC 19-4570 Stromenweg ) — sources: capcodes_eu, tomzulu
+- `001303580` — - — 523 | BRW | Middelburg-Stromenweg | WO 19-4510 — sources: tomzulu
+- `001303594` — Brandweer — BRW Zeeland ( DA 19-4594 HOvD Noord en Midden Zeeland ) — sources: capcodes_eu, tomzulu
+- `001303595` — Brandweer — BRW Zeeland ( DA 19-4595 OvD Stadsgewest ) — sources: capcodes_eu, tomzulu
+- `001303599` — - — 526 | BRW | Arnemuiden | ICB 19-8599 — sources: tomzulu
+- `001303605` — - — 527 | BRW | Kamperland | DB 19-4801 — sources: tomzulu
+- `001303630` — - — 528 | BRW | Regionaal Reserve | TS 19-8530 — sources: tomzulu
+- `001303631` — Brandweer — BRW Serooskerke ( TAS 19-4631 ) — sources: capcodes_eu, tomzulu
+- `001303632` — Brandweer — BRW Veere ( TAS 19-4632 ) — sources: capcodes_eu, tomzulu
+- `001303633` — Brandweer — BRW Colijnsplaat ( TAS 19-4733 ) — sources: capcodes_eu, tomzulu
+- `001303634` — - — 532 | BRW | Zoutelande | TS 19-4634 — sources: tomzulu
+- `001303635` — Brandweer — BRW Kamperland ( TAS 19-4732 ) — sources: capcodes_eu, tomzulu
+- `001303636` — Brandweer — BRW Westkapelle ( TAS 19-4636 ) — sources: capcodes_eu, tomzulu
+- `001303641` — Brandweer — BRW Domburg ( TAS 19-4641 ) — sources: capcodes_eu, tomzulu
+- `001303642` — Brandweer — BRW Oostkapelle ( TAS 19-4642 ) — sources: capcodes_eu, tomzulu
+- `001303644` — - — 537 | BRW | Zoutelande | TST 19-4644 — sources: tomzulu
+- `001303661` — - — 538 | BRW | Serooskerke | TW 19-4661 — sources: tomzulu
+- `001303663` — - — 539 | BRW | Koudekerke | TS4 19-4663 — sources: tomzulu
+- `001303672` — Brandweer — BRW Zoutelande ( PM 19-4604 ) — sources: capcodes_eu, tomzulu
+- `001303731` — Brandweer — BRW Borssele ( TAS 19-4731 ) — sources: capcodes_eu, tomzulu
+- `001303734` — Brandweer — BRW s-Gravenpolder ( TAS 19-4734 ) — sources: capcodes_eu, tomzulu
+- `001303735` — Brandweer — BRW Rilland ( TAS 19-4735 ) — sources: capcodes_eu, tomzulu
+- `001303736` — Brandweer — BRW Heinkenszand ( TAS 19-4736 ) — sources: capcodes_eu, tomzulu
+- `001303737` — Brandweer — BRW Nieuwdorp ( TAS 19-4737 ) — sources: capcodes_eu, tomzulu
+- `001303738` — Brandweer — BRW Ovezande ( TAS 19-4738 ) — sources: capcodes_eu, tomzulu
+- `001303740` — Brandweer — BRW s-Heer Arendskerke ( TAS 19-4740 ) — sources: capcodes_eu, tomzulu
+- `001303741` — Brandweer — BRW Goes ( TAS 19-4741 ) — sources: capcodes_eu, tomzulu
+- `001303742` — Brandweer — BRW Kapelle ( TAS 19-4742 ) — sources: capcodes_eu, tomzulu
+- `001303743` — Brandweer — BRW Wemeldinge ( TAS 19-4743 ) — sources: capcodes_eu, tomzulu
+- `001303744` — - — 554 | BRW | Regionaal | TS reserve 19-8037 — sources: tomzulu
+- `001303745` — Brandweer — BRW Krabbendijke ( TAS 19-4745 ) — sources: capcodes_eu, tomzulu
+- `001303747` — Brandweer — BRW Kruiningen ( TAS 19-4747 ) — sources: capcodes_eu, tomzulu
+- `001303748` — Brandweer — BRW Yerseke ( TAS 19-4748 ) — sources: capcodes_eu, tomzulu
+- `001303750` — Brandweer — BRW Goes ( AL 19-4750 ) — sources: capcodes_eu, tomzulu
+- `001303760` — - — 559 | BRW | Borssele | SIV 19-4760 — sources: tomzulu
+- `001303761` — Brandweer — BRW Borssele ( SB1 19-4761 ) — sources: capcodes_eu, tomzulu
+- `001303764` — - — 561 | BRW | Baarland | TS4 (19-4739) — sources: tomzulu
+- `001303771` — Brandweer — BRW Kruiningen ( HV2 19-4771 ) — sources: capcodes_eu, tomzulu
+- `001303780` — - — 563 | BRW | Borssele | TK 19-4780 — sources: tomzulu
+- `001303784` — Brandweer — BRW Goes ( WO 19-4784 ) — sources: capcodes_eu, tomzulu
+- `001303788` — - — 565 | BRW | Goes-Goese Poort | HV 4970 — sources: tomzulu
+- `001303795` — - — 566 | BRW | Goes | HOvD Noord — sources: tomzulu
+- `001303813` — Brandweer — BRW Oosterland ( DB 19-4813 ) — sources: capcodes_eu, tomzulu
+- `001303827` — Brandweer — BRW Haamstede ( Strandjeep 19-4827 ) — sources: capcodes_eu, tomzulu
+- `001303830` — Brandweer — BRW Brouwershaven ( TAS 19-4830 ) — sources: capcodes_eu, tomzulu
+- `001303831` — Brandweer — BRW Dreischor ( TAS 19-4831 ) — sources: capcodes_eu, tomzulu
+- `001303832` — Brandweer — BRW Bruinisse ( TAS 19-4832 ) — sources: capcodes_eu, tomzulu
+- `001303833` — Brandweer — BRW Oosterland ( TAS 19-4833 ) — sources: capcodes_eu, tomzulu
+- `001303835` — Brandweer — BRW Scharendijke ( TAS 19-4835 ) — sources: capcodes_eu, tomzulu
+- `001303836` — Brandweer — BRW Kerkwerve ( TAS 19-4836 ) — sources: capcodes_eu, tomzulu
+- `001303838` — Brandweer — BRW Renesse ( TAS 19-4838 ) — sources: capcodes_eu, tomzulu
+- `001303845` — - — 576 | BRW | Scharendijke | TST-NB 2845 — sources: tomzulu
+- `001303847` — - — 577 | BRW | Burgh-Haamstede | TS 19-2847 — sources: tomzulu
+- `001303849` — Brandweer — BRW Zierikzee ( TAS 19-4849 ) — sources: capcodes_eu, tomzulu
+- `001303867` — - — 579 | BRW | Burgh-Haamstede | Watertankwagen 19-2867 (23.000 L) — sources: tomzulu
+- `001303873` — - — 580 | BRW | Zierikzee | DB 19-4873 — sources: tomzulu
+- `001303877` — - — 581 | BRW | Burgh-Haamstede | HV2 19-4877 — sources: tomzulu
+- `001303879` — - — 582 | BRW | Zierikzee | HV+KR 19-2879 — sources: tomzulu
+- `001303895` — Brandweer — BRW Zeeland ( DA 19-4895 OvD Schouwen-Duiveland ) — sources: capcodes_eu, tomzulu
+- `001320021` — Ambulance — RAV Zeeland Motorlance 19-321 — sources: capcodes_eu, tomzulu
+- `001320042` — Ambulance — RAV Zeeland Rapid Responder 19-342 — sources: capcodes_eu, tomzulu
+- `001320043` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320044` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320045` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320046` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320048` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320049` — Ambulance — Terneuzen 19-349 (Rapid-Responder Koegors Terneuzen) — sources: capcodes_eu, tomzulu
+- `001320061` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320110` — Ambulance — RAV Zeeland Ambulance 19-410 ( Besteld Vervoer Connexxion ) — sources: capcodes_eu, tomzulu
+- `001320111` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320112` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320113` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320114` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320115` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320117` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320118` — Ambulance — Terneuzen 19-218 (Middencomplex Koegors Terneuzen) — sources: capcodes_eu, tomzulu
+- `001320119` — Ambulance — RAV Zeeland Ambulance 19-219 ( MiddenComplex Koegors ) — sources: capcodes_eu, tomzulu
+- `001320120` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320123` — Ambulance — RAV Zeeland Ambulance 19-123 ( Middelburg ) — sources: capcodes_eu, tomzulu
+- `001320131` — Ambulance — RAV Zeeland Ambulance 19-131 ( Koegors Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001320132` — Ambulance — RAV Zeeland Ambulance 19-132 ( Koegors Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001320133` — Ambulance — RAV Zeeland Ambulance 19-133 ( Koegors Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001320134` — Ambulance — RAV Zeeland Ambulance 19-134 ( Koegors Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001320137` — Ambulance — RAV Zeeland Ambulance 19-137 ( Koegors Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001320138` — Ambulance — RAV Zeeland Ambulance 19-138 ( Koegors Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001320139` — Ambulance — RAV Zeeland Ambulance 19-139 ( Koegors Terneuzen ) — sources: capcodes_eu, tomzulu
+- `001320140` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320202` — Ambulance — RAV Zeeland ( Medewerker BOT ) — sources: capcodes_eu, tomzulu
+- `001320203` — Ambulance — RAV Zeeland ( Medewerker BOT ) — sources: capcodes_eu, tomzulu
+- `001320210` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320400` — Ambulance — RAV Zeeland ( GAGS ) — sources: capcodes_eu, tomzulu
+- `001320500` — Ambulance — Ambulance Zeeland — sources: capcodes_eu
+- `001320501` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320515` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320570` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320571` — Ambulance — 639 | Nieuwvliet | Strand Reddingspost Nieuwvliet-Bad (Infocode) — sources: tomzulu
+- `001320572` — Ambulance — 640 | Breskens | Strand Reddingspost Breskens (Infocode) — sources: tomzulu
+- `001320573` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320574` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320575` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320576` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320577` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320578` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320579` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320580` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320581` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320582` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320583` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320584` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320585` — Ambulance — 653 | Breskens | Strand Reddingspost Goede (Infocode) — sources: tomzulu
+- `001320586` — Ambulance — Ambulance Zeeland | — sources: capcodes_eu, tomzulu
+- `001320593` — Ambulance — 655 | Grootschalige Geneeskundige Bijstand (GGB) | GGB voertuig Goes DB 19-593 — sources: tomzulu
+- `001320600` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320601` — Ambulance — 657 | Grootschalige Geneeskundige Bijstand (GGB) | NRK Noodhulp-Team UGS Teamleiders — sources: tomzulu
+- `001320602` — Ambulance — 658 | Grootschalige Geneeskundige Bijstand (GGB) | NRK Noodhulp-Team UGS Tholen — sources: tomzulu
+- `001320603` — Ambulance — 659 | Grootschalige Geneeskundige Bijstand (GGB) | NRK Noodhulp-Team UGS Yerseke — sources: tomzulu
+- `001320604` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320605` — Ambulance — 661 | Grootschalige Geneeskundige Bijstand (GGB) | NRK Noodhulp-Team UGS Middelburg — sources: tomzulu
+- `001320606` — Ambulance — 662 | Grootschalige Geneeskundige Bijstand (GGB) | NRK Noodhulp-Team UGS Terneuzen — sources: tomzulu
+- `001320607` — Ambulance — 663 | Grootschalige Geneeskundige Bijstand (GGB) | NRK Noodhulp-Team UGS Rilland — sources: tomzulu
+- `001320817` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320818` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320819` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320824` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320871` — Ambulance — Ambulance Zeeland — sources: capcodes_eu, tomzulu
+- `001320879` — Ambulance — Ambulance Zeeland — sources: capcodes_eu
+- `001320900` — Ambulance — Ambulance Zeeland — sources: capcodes_eu
+- `001320911` — Ambulance — Ambulance Zeeland — sources: capcodes_eu
+- `001330001` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330018` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330020` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330046` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330047` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330048` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330049` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330050` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330051` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330052` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330053` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330054` — - — 684 | POL | Politie Eenheid Zeeland-West-Brabant | Infocode GRIP 4 Zeeland — sources: tomzulu
+- `001330055` — - — 685 | POL | Politie Eenheid Zeeland-West-Brabant | Inzet Code GRIP 4 Zeeland — sources: tomzulu
+- `001330100` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330101` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330102` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330103` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330115` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330119` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330120` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330121` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330122` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330125` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330126` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330129` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330130` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001330131` — Politie — Politie Zeeland — sources: capcodes_eu, tomzulu
+- `001400021` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuner RegOT ) — sources: capcodes_eu, tomzulu
+- `001400026` — Brandweer — BRW Rotterdam-Rijnmond ( Hoofdofficier ) — sources: capcodes_eu, tomzulu
+- `001400028` — Brandweer — BRW Rotterdam-Rijnmond ( Hoofdofficier ) — sources: capcodes_eu, tomzulu
+- `001400029` — Brandweer — BRW Rotterdam-Rijnmond ( Leider RegOT + Hoofdofficier ) — sources: capcodes_eu, tomzulu
+- `001400030` — Brandweer — BRW Rotterdam-Rijnmond ( Hoofdofficier ) — sources: capcodes_eu
+- `001400033` — Brandweer — BRW Rotterdam-Rijnmond ( Informatiemanager CoPi ) — sources: capcodes_eu, tomzulu
+- `001400034` — Brandweer — BRW Rotterdam-Rijnmond ( Informatiemanager CoPI ) — sources: capcodes_eu, tomzulu
+- `001400035` — Brandweer — BRW Rotterdam-Rijnmond ( Informatiemanager CoPI ) — sources: capcodes_eu, tomzulu
+- `001400038` — Brandweer — BRW Rotterdam-Rijnmond ( Leider RegOT + HS-GHOR + RGFVD-GHOR + CVDG ) — sources: capcodes_eu, tomzulu
+- `001400043` — Brandweer — BRW Rotterdam-Rijnmond ( Leider RegOT ) — sources: capcodes_eu, tomzulu
+- `001400047` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400048` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400049` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400050` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400052` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400054` — Brandweer — BRW Rotterdam-Rijnmond ( USAR ) — sources: capcodes_eu, tomzulu
+- `001400056` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400058` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400060` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400062` — - — 28 | BRW | Regionaal | Piket Pelotonscommandant Logistiek (Persoonlijk) — sources: tomzulu
+- `001400063` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400064` — Brandweer — BRW Rotterdam-Rijnmond ( Hoofdofficier Stage ) — sources: capcodes_eu, tomzulu
+- `001400065` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400066` — Brandweer — BRW Rotterdam-Rijnmond ( Hoofdofficier ) — sources: capcodes_eu, tomzulu
+- `001400067` — Brandweer — BRW Rotterdam-Rijnmond ( Commandant Brielle ) — sources: capcodes_eu, tomzulu
+- `001400071` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400073` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400074` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400075` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400076` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400077` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400078` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400079` — Brandweer — BRW Rotterdam-Rijnmond ( Hoofdofficier Stage ) — sources: capcodes_eu, tomzulu
+- `001400083` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400084` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400086` — Brandweer — BRW Rotterdam-Rijnmond ( Stafofficier ) — sources: capcodes_eu, tomzulu
+- `001400087` — Brandweer — BRW Rotterdam-Rijnmond ( Stafofficier ) — sources: capcodes_eu
+- `001400088` — Brandweer — BRW Rotterdam-Rijnmond ( Stafofficier ) — sources: capcodes_eu, tomzulu
+- `001400089` — Brandweer — BRW Rotterdam-Rijnmond ( Stafofficier ) — sources: capcodes_eu, tomzulu
+- `001400090` — Brandweer — BRW Rotterdam-Rijnmond ( Stafofficier ) — sources: capcodes_eu, tomzulu
+- `001400095` — Brandweer — BRW Rotterdam-Rijnmond ( Regionaal Functionaris ) — sources: capcodes_eu
+- `001400101` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400113` — - — 51 | BRW | Hoek van Holland | Verkenningseenheid Natuurbrand Bestrijding — sources: tomzulu
+- `001400127` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400128` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400149` — Brandweer — BRW Schiedam ( Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001400153` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400154` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400155` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400160` — - — 74 | BRW | Vlaardingen | Decentrale Uitgifte — sources: tomzulu
+- `001400163` — - — 75 | BRW | Barendrecht | Decentrale Uitgifte — sources: tomzulu
+- `001400167` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400168` — - — 78 | BRW | Regionaal | Evenementen Kazerne — sources: tomzulu
+- `001400169` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400170` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400180` — - — 81 | BRW | Regionale inzet Reserve TS | TS 17-9233 — sources: tomzulu
+- `001400185` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400186` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400232` — Brandweer — BRW Rotterdam-Noord ( Pilot OMS-eenheid DA 20-2 ) — sources: capcodes_eu, tomzulu
+- `001400233` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400257` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400258` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400262` — Brandweer — BRW Lansingerland ( WvD Bleiswijk ) — sources: capcodes_eu, tomzulu
+- `001400265` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400270` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400271` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400272` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400274` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400275` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400277` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400278` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400279` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400283` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400285` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400286` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400287` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400288` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400289` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400291` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400292` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400293` — - — 123 | BRW | Regionaal | Grip 3 Alarm — sources: tomzulu
+- `001400294` — - — 124 | BRW | Regionaal | Grip 4 Alarm — sources: tomzulu
+- `001400301` — - — 125 | BRW | Rotterdam-Bosland | Infocode Kazerne Bosland — sources: tomzulu
+- `001400314` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400334` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400343` — Brandweer — BRW Krimpen aan de IJssel ( WvD ) — sources: capcodes_eu, tomzulu
+- `001400345` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400346` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400348` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400361` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400380` — - — 151 | BRW | Havenbedrijf Rotterdam | RPA 20 — sources: tomzulu
+- `001400381` — - — 152 | BRW | Havenbedrijf Rotterdam | RPA 01 — sources: tomzulu
+- `001400382` — - — 153 | BRW | Havenbedrijf Rotterdam | RPA 02 — sources: tomzulu
+- `001400384` — - — 154 | BRW | Havenbedrijf Rotterdam | RPA 14 — sources: tomzulu
+- `001400385` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400386` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400387` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400390` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400391` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400392` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400394` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400395` — - — 162 | BRW | Havenbedrijf Rotterdam | RPA 06 — sources: tomzulu
+- `001400396` — - — 163 | BRW | Havenbedrijf Rotterdam | RPA 07 — sources: tomzulu
+- `001400410` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400427` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400434` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400435` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400436` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400443` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400463` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400479` — Brandweer — BRW Ridderkerk ( Commando ) — sources: capcodes_eu, tomzulu
+- `001400485` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400486` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400487` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400488` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400490` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400491` — - — 199 | BRW | Regionaal | Piket Landelijk Adviseur Team Digitale Verkenning (Persoonlijk) — sources: tomzulu
+- `001400492` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400496` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400503` — Brandweer — BRW Rotterdam-Regio ( OVD OD 50.2 ) — sources: capcodes_eu, tomzulu
+- `001400504` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400507` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400508` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400509` — Brandweer — BRW Rotterdam-Regio ( Oefenploeg CE50-1 ) — sources: capcodes_eu, tomzulu
+- `001400513` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400514` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400562` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400563` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400564` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400569` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400570` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400571` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400572` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400573` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400574` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400575` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400576` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400577` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400578` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400579` — - — 230 | BRW | Gezamenlijke Brandweer Rotterdam | Piket Coördinator Digitale Verkenning (Persoonlijk) — sources: tomzulu
+- `001400599` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400605` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400606` — - — 241 | BRW | Oostvoorne | Verkenningseenheid Natuurbrand Bestrijding — sources: tomzulu
+- `001400608` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400609` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400612` — Brandweer — BRW Westvoorne ( WvD Rockanje ) — sources: capcodes_eu, tomzulu
+- `001400619` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400635` — Brandweer — BRW Brielle ( Duikploeg ) — sources: capcodes_eu, tomzulu
+- `001400639` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400653` — Brandweer — BRW Spijkenisse ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001400665` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400667` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400681` — - — 280 | BRW | Gezamenlijke Brandweer Rotterdam | Verkenningseenheid Bedrijvenpark Botlek — sources: tomzulu
+- `001400693` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400699` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400705` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400708` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400709` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400719` — Brandweer — BRW Goedereede — sources: capcodes_eu, tomzulu
+- `001400763` — Brandweer — BRW Middelharnis ( HV Ploeg ) — sources: capcodes_eu, tomzulu
+- `001400764` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400765` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400766` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400767` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400768` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400769` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400771` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400772` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400773` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400774` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400775` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400784` — - — 332 | BRW | Regionaal | Piket TCO Coördinator (Persoonlijk) — sources: tomzulu
+- `001400792` — - — 333 | BRW | Havenbedrijf Rotterdam | Operationeel Manager — sources: tomzulu
+- `001400794` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400795` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400796` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400799` — - — 337 | BRW | Brw Zuid-Holland Zuid | Infobord GMC — sources: tomzulu
+- `001400802` — Brandweer — BRW Rotterdam-Rijnmond ( Verslaglegger RegOT ) — sources: capcodes_eu, tomzulu
+- `001400803` — - — 339 | BRW | Regionaal — sources: tomzulu
+- `001400804` — Brandweer — BRW Rotterdam-Rijnmond ( Informatiemanager CoPI Piket ) — sources: capcodes_eu, tomzulu
+- `001400806` — Brandweer — BRW Rotterdam-Rijnmond ( Verslaglegger RegOT + Infomanager Copi Pike ) — sources: capcodes_eu, tomzulu
+- `001400807` — Brandweer — BRW Rotterdam-Rijnmond ( Informatiemanager CoPI Piket ) — sources: capcodes_eu, tomzulu
+- `001400808` — - — 343 | BRW | GMK Rotterdam | Centralist — sources: tomzulu
+- `001400809` — Brandweer — BRW Rotterdam-Rijnmond ( Verslaglegger RegOT ) — sources: capcodes_eu, tomzulu
+- `001400810` — Brandweer — BRW Rotterdam-Rijnmond ( Verslaglegger RegOT ) — sources: capcodes_eu, tomzulu
+- `001400813` — Brandweer — BRW Rotterdam-Rijnmond ( Verslaglegger RegOT ) — sources: capcodes_eu, tomzulu
+- `001400815` — - — 347 | BRW | Regionaal | Piket Algemeen Commandant Bevolkingszorg (Persoonlijk) — sources: tomzulu
+- `001400819` — Brandweer — BRW Rotterdam-Rijnmond ( Hoofdofficier Piket ) — sources: capcodes_eu, tomzulu
+- `001400820` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuner RegOt Piket + Plotter ) — sources: capcodes_eu, tomzulu
+- `001400823` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuner RegOT ) — sources: capcodes_eu, tomzulu
+- `001400824` — Brandweer — BRW Rotterdam-Rijnmond ( Informatiemanager CoPI Piket ) — sources: capcodes_eu, tomzulu
+- `001400825` — Brandweer — BRW Rotterdam-Rijnmond ( Informatiemanager CoPI Piket ) — sources: capcodes_eu, tomzulu
+- `001400831` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400834` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400836` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400837` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400838` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400840` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400847` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400848` — Brandweer — BRW Rotterdam-Rijnmond ( IP 90.1 Piket ) — sources: capcodes_eu, tomzulu
+- `001400849` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400851` — - — 364 | BRW | Regionaal | Piket Medewerkers Sectie Crisiscommunicatie (Persoonlijk) — sources: tomzulu
+- `001400856` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400857` — Brandweer — BRW Rotterdam-Rijnmond ( Perswoordvoerder ) — sources: capcodes_eu, tomzulu
+- `001400859` — - — 371 | BRW | Regionaal | Piket Algemeen Commandant Crisiscommunicatie (Persoonlijk) — sources: tomzulu
+- `001400860` — Brandweer — BRW Rotterdam-Rijnmond ( ROT Piket ) — sources: capcodes_eu, tomzulu
+- `001400861` — Brandweer — BRW Rotterdam-Rijnmond ( ROT Piket ) — sources: capcodes_eu, tomzulu
+- `001400863` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400866` — Brandweer — BRW Rotterdam-Rijnmond ( Infocode Kustwachtcentrum ) — sources: capcodes_eu, tomzulu
+- `001400867` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400869` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu
+- `001400870` — - — 377 | BRW | Havenbedrijf Rotterdam | Divisie Havenmeester (Piket NCTV/ROT/CMT) (Persoonlijk) — sources: tomzulu
+- `001400871` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400873` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400875` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400876` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400877` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400889` — Brandweer — Brandweer Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001400890` — Brandweer — BRW Rotterdam-Rijnmond ( Alarmeringscode IM 90-1 ) — sources: capcodes_eu, tomzulu
+- `001400891` — Brandweer — BRW Rotterdam-Rijnmond ( Alarmeringscode IM 90-2 ) — sources: capcodes_eu, tomzulu
+- `001400892` — Brandweer — BRW Rotterdam-Rijnmond ( Alarmeringscode IP 90-2 ) — sources: capcodes_eu, tomzulu
+- `001400893` — - — 394 | BRW | Regionaal | Piket GMK Beheer/MAC (Persoonlijk) — sources: tomzulu
+- `001400894` — Brandweer — BRW Rotterdam-Rijnmond ( IP 90.1 Piket ) — sources: capcodes_eu, tomzulu
+- `001400896` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuning RegOT Piket ) — sources: capcodes_eu, tomzulu
+- `001400897` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuning RegOT Piket ) — sources: capcodes_eu, tomzulu
+- `001400899` — Brandweer — BRW Rotterdam-Rijnmond ( Stafofficier Stage ) — sources: capcodes_eu, tomzulu
+- `001400900` — - — 399 | BRW | Regionaal | Leiding Vakbekwaam (Persoonlijk) — sources: tomzulu
+- `001400920` — - — 405 | BRW | OCB Rotterdam | Tactisch Officier Alarmcentrale (Persoonlijk) — sources: tomzulu
+- `001400934` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuning RegOT Piket ) — sources: capcodes_eu, tomzulu
+- `001400936` — Brandweer — BRW Rotterdam-Rijnmond ( GMK Piket ) — sources: capcodes_eu, tomzulu
+- `001400937` — Brandweer — BRW Rotterdam-Rijnmond ( GMK Piket + Verslaglegger RegOt ) — sources: capcodes_eu, tomzulu
+- `001400938` — Brandweer — BRW Rotterdam-Rijnmond ( GMK Piket ) — sources: capcodes_eu
+- `001400942` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuning RegOT ) — sources: capcodes_eu, tomzulu
+- `001400944` — Brandweer — BRW Rotterdam-Rijnmond ( Algemeen Ondersteuning RegOT ) — sources: capcodes_eu, tomzulu
+- `001400960` — Brandweer — BRW Rotterdam-Rijnmond ( TS96-1 ) — sources: capcodes_eu, tomzulu
+- `001400961` — Brandweer — BRW Rotterdam-Rijnmond ( Groepsoproep AG 90-1 ) — sources: capcodes_eu, tomzulu
+- `001400962` — Brandweer — BRW Rotterdam-Rijnmond ( Groepsoproep AG 90-2 ) — sources: capcodes_eu, tomzulu
+- `001400976` — Brandweer — MKA Rotterdam-Rijnmond ( Ambtenaar Rampenbestrijding Dirksland ) — sources: capcodes_eu, tomzulu
+- `001400983` — - — 446 | BRW | Regionaal | OvD-Bevolkingszorg Oostflakkee — sources: tomzulu
+- `001403001` — KNRM — KNRM Dordrecht ( Lichtkrant KWC Den Helder ) — sources: capcodes_eu, tomzulu
+- `001403006` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403010` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403020` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403030` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403031` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu
+- `001403033` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403034` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403035` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403036` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403037` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403038` — - — 15 | BRW | BRW Zuid-Holland Zuid | Slagboom Jachthaven Westergoot Dordrecht — sources: tomzulu
+- `001403090` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403092` — - — 38 | BRW | Regionaal | Duik Adviseurs Regio — sources: tomzulu
+- `001403093` — - — 39 | BRW | Regionaal | Adviseur Gevaarlijke Stoffen Operationeel Team — sources: tomzulu
+- `001403094` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403096` — Brandweer — BRW Zuid Holland-Zuid ( HOvD ) — sources: capcodes_eu, tomzulu
+- `001403097` — - — 43 | BRW | Regionaal | HOvD`s (Groepscode) — sources: tomzulu
+- `001403172` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403300` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403301` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403302` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403303` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403304` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403305` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403306` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403307` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403308` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403359` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu
+- `001403417` — Brandweer — BRW Klaaswaal ( Staflid van Dienst ) — sources: capcodes_eu, tomzulu
+- `001403419` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403554` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403577` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403586` — Brandweer — BRW Dordrecht ( Meetplanleider ) — sources: capcodes_eu, tomzulu
+- `001403587` — Brandweer — BRW Dordrecht ( Meetplanleiders ) — sources: capcodes_eu, tomzulu
+- `001403589` — Brandweer — BRW Dordrecht ( BvD ) — sources: capcodes_eu, tomzulu
+- `001403597` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403604` — - — 82 | BRW | Dordrecht-Leerpark | Vrije Wacht C — sources: tomzulu
+- `001403609` — Brandweer — BRW Dordrecht ( Blusgroep 1 Totaal ) — sources: capcodes_eu, tomzulu
+- `001403610` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403614` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403615` — - — 86 | BRW | Dordrecht-Oranjepark | Vrije Wacht C — sources: tomzulu
+- `001403616` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403620` — - — 88 | BRW | Dordrecht-Leerpark | Vrije Wacht B — sources: tomzulu
+- `001403621` — - — 89 | BRW | Dordrecht-Oranjepark | Vrije Wacht B — sources: tomzulu
+- `001403626` — - — 90 | BRW | Dordrecht-Leerpark | Vrije Wacht A — sources: tomzulu
+- `001403627` — - — 91 | BRW | Dordrecht-Oranjepark | Vrije Wacht A — sources: tomzulu
+- `001403628` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403629` — Brandweer — BRW Dordrecht ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001403645` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403731` — Brandweer — BRW Brandwijk/Molenaarsgraaf ( Staflid van Dienst ) — sources: capcodes_eu, tomzulu
+- `001403732` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403733` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403734` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403736` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403740` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403757` — Brandweer — BRW Goudriaan-Ottoland ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001403758` — Brandweer — BRW Brandwijk/Molenaarsgraaf ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001403759` — Brandweer — BRW Bleskensgraaf ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001403769` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403865` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403866` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403867` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403868` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403955` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001403989` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404070` — Brandweer — BRW Gorinchem ( MDT TS-807 ) — sources: capcodes_eu, tomzulu
+- `001404074` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404075` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404076` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404077` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404078` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404085` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404094` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404279` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404280` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404290` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404291` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404612` — Brandweer — BRW Nieuw-Lekkerland ( PLV Commandant ) — sources: capcodes_eu, tomzulu
+- `001404615` — Brandweer — BRW Nieuw-Lekkerland ( Bevelvoerders SVD ) — sources: capcodes_eu, tomzulu
+- `001404721` — Brandweer — BRW Groot-Ammers ( HV Bemanning ) — sources: capcodes_eu, tomzulu
+- `001404723` — Brandweer — BRW Groot-Ammers ( Staflid van Dienst ) — sources: capcodes_eu, tomzulu
+- `001404724` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404726` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404730` — Brandweer — BRW Liesveld ( Commandant ) — sources: capcodes_eu, tomzulu
+- `001404778` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404815` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404816` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404817` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404823` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404923` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404928` — Brandweer — BRW Papendrecht ( Bevelvoerders ) — sources: capcodes_eu, tomzulu
+- `001404932` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001404933` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405018` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405019` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405020` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405021` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405022` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405023` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405024` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405025` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405026` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405125` — Brandweer — BRW Groot-Ammers ( Persoonlijke Code ) — sources: capcodes_eu, tomzulu
+- `001405129` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405200` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405273` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405355` — Brandweer — BRW Zwijndrecht ( Bemanning Vaartuig SB-121 ) — sources: capcodes_eu, tomzulu
+- `001405356` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405362` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405369` — Brandweer — BRW Heerjansdam ( SVD ) — sources: capcodes_eu, tomzulu
+- `001405371` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405372` — Brandweer — BRW Zwijndrecht ( Commandant ) — sources: capcodes_eu, tomzulu
+- `001405373` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405377` — Brandweer — BRW Heerjansdam ( WvD Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001405378` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405576` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405596` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405600` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405601` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405602` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405603` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405604` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405605` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405606` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405607` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405608` — - — 273 | BRW | Regionaal | Strategisch Adviseur Bz (Persoonlijk) — sources: tomzulu
+- `001405609` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405610` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405611` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405612` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405682` — - — 278 | BRW | Regionaal | Piket OvD-Bevolkingszorg Alblasserwaard (Persoonlijk) — sources: tomzulu
+- `001405925` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405960` — - — 281 | BRW | Onbekende code | Onbekende code — sources: tomzulu
+- `001405975` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405976` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405978` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405980` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405981` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405982` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405983` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405990` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405991` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001405992` — Brandweer — Brandweer Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001420018` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-118 ) — sources: capcodes_eu, tomzulu
+- `001420019` — Ambulance — 480 | Regionaal | AZRR Ambulancelance (17-119) — sources: tomzulu
+- `001420020` — Ambulance — MKA Rotterdam-Rijnmond ( Bestuurder MotorAmbulance 17-320 ) — sources: capcodes_eu, tomzulu
+- `001420021` — Ambulance — MKA Rotterdam-Rijnmond ( Bestuurder MotorAmbulance 17-321 ) — sources: capcodes_eu, tomzulu
+- `001420022` — Ambulance — MKA Rotterdam-Rijnmond ( Bestuurder MotorAmbulance 17-322 ) — sources: capcodes_eu, tomzulu
+- `001420023` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420024` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420025` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420030` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420031` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420032` — Ambulance — 493 | Regionaal | AZRR Ambulancelance (17-132) — sources: tomzulu
+- `001420033` — Ambulance — MKA Rotterdam-Rijnmond ( MICU 17-301 ) — sources: capcodes_eu, tomzulu
+- `001420034` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-134 ) — sources: capcodes_eu, tomzulu
+- `001420038` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-138 ) — sources: capcodes_eu, tomzulu
+- `001420039` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-139 ) — sources: capcodes_eu, tomzulu
+- `001420042` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-142 ) — sources: capcodes_eu, tomzulu
+- `001420044` — Ambulance — 505 | Regionaal | AZRR Ambulancelance (17-144) — sources: tomzulu
+- `001420045` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-145 ) — sources: capcodes_eu, tomzulu
+- `001420047` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420048` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420049` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420050` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-150 ) — sources: capcodes_eu, tomzulu
+- `001420053` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-153 ) — sources: capcodes_eu, tomzulu
+- `001420055` — Ambulance — MKA Rotterdam-Rijnmond ( Ambulance 17-155 ) — sources: capcodes_eu, tomzulu
+- `001420057` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420058` — Ambulance — MKA Rotterdam-Rijnmond ( Hulpambulance 17-408 ) — sources: capcodes_eu, tomzulu
+- `001420060` — Ambulance — 521 | Regionaal | AZRR Ambulancelance (17-160) — sources: tomzulu
+- `001420062` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420069` — Ambulance — 529 | Regionaal | AZRR Ambulancelance (17-169) — sources: tomzulu
+- `001420071` — Ambulance — 531 | Regionaal | AZRR Ambulancelance (17-171) — sources: tomzulu
+- `001420073` — Ambulance — 533 | Regionaal | AZRR Ambulancelance (17-173) — sources: tomzulu
+- `001420078` — Ambulance — 538 | Regionaal | AZRR Ambulancelance (17-178) — sources: tomzulu
+- `001420079` — Ambulance — 539 | Regionaal | AZRR Ambulancelance (17-179) — sources: tomzulu
+- `001420091` — Ambulance — MKA Rotterdam-Rijnmond ( Hulpambulance 17-409 ) — sources: capcodes_eu, tomzulu
+- `001420095` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420102` — Brandweer — BRW Rotterdam-Rijnmond ( Centralist ) — sources: capcodes_eu, tomzulu
+- `001420108` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420143` — Ambulance — 553 | GMK Rotterdam | Centralist (Persoonlijk) — sources: tomzulu
+- `001420145` — Ambulance — 554 | GMK | Centralist Meldkamer Ambulancelance — sources: tomzulu
+- `001420147` — Ambulance — 555 | GMK | Proefalarm Centralisten Meldkamer Brandweer / Ambulancelance — sources: tomzulu
+- `001420149` — Ambulance — 556 | GMK | Centralist Meldkamer Brandweer — sources: tomzulu
+- `001420154` — Ambulance — MKA Rotterdam-Rijnmond ( First Responder 17-341 ) — sources: capcodes_eu, tomzulu
+- `001420155` — Ambulance — MKA Rotterdam-Rijnmond ( First Responder 17-340 ) — sources: capcodes_eu, tomzulu
+- `001420156` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420157` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420158` — Ambulance — MKA Rotterdam-Rijnmond ( First Responder 17-348 ) — sources: capcodes_eu, tomzulu
+- `001420159` — Ambulance — MKA Rotterdam-Rijnmond ( First Responder 17-349 ) — sources: capcodes_eu, tomzulu
+- `001420160` — Ambulance — 564 | Regionaal | Rapid Responder motorAmbulancelance (17-323) — sources: tomzulu
+- `001420161` — Ambulance — 565 | Regionaal | Rapid Responder motorAmbulancelance (17-324) — sources: tomzulu
+- `001420162` — Ambulance — MKA Rotterdam-Rijnmond ( MICU 17-302 ) — sources: capcodes_eu, tomzulu
+- `001420163` — Ambulance — 567 | Regionaal | AZRR Ambulancelance (17-133) — sources: tomzulu
+- `001420164` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420166` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420167` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420168` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420169` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420172` — Ambulance — MKA Rotterdam-Rijnmond ( Low Care Ambulance 17-402 ) — sources: capcodes_eu, tomzulu
+- `001420173` — Ambulance — MKA Rotterdam-Rijnmond ( Low Care Ambulance 17-403 ) — sources: capcodes_eu, tomzulu
+- `001420175` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420176` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420177` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420179` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420180` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420185` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420186` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420187` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420188` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420191` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420192` — Ambulance — Ambulance Rotterdam Rijnmond | — sources: capcodes_eu, tomzulu
+- `001420199` — Ambulance — 589 | Regionaal | Algemeen Commandant Geneeskundige Zorg (ACGz) — sources: tomzulu
+- `001420201` — Ambulance — MKA Rotterdam-Rijnmond ( GHOR ) — sources: capcodes_eu, tomzulu
+- `001420203` — Ambulance — MKA Rotterdam-Rijnmond ( Groepscode OvD-G ) — sources: capcodes_eu, tomzulu
+- `001420205` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420209` — Ambulance — GHOR Rotterdam-Rijnmond ( G-AGS Groepsoproep ) — sources: capcodes_eu, tomzulu
+- `001420210` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420213` — Ambulance — MKA Rotterdam-Rijnmond ( GGD Arts infectieziektenbestrijding + G-ABS ) — sources: capcodes_eu, tomzulu
+- `001420215` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420217` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420232` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Rotterdam ) — sources: capcodes_eu
+- `001420233` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420234` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Zuidhollandse Eilanden ) — sources: capcodes_eu, tomzulu
+- `001420235` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Nieuwe Waterweg Noord ) — sources: capcodes_eu, tomzulu
+- `001420238` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420239` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420251` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Zuidhollandse Eilanden ) — sources: capcodes_eu, tomzulu
+- `001420253` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420259` — Ambulance — MKA Rotterdam-Rijnmond ( Hoofd Actiecentrum Piket ) — sources: capcodes_eu, tomzulu
+- `001420268` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Zuidhollandse Eilanden ) — sources: capcodes_eu, tomzulu
+- `001420279` — Ambulance — 607 | VR Rotterdam-Rijnmond | Calamiteitenteam Zuid — sources: tomzulu
+- `001420285` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Zuidhollandse Eilanden ) — sources: capcodes_eu, tomzulu
+- `001420293` — Ambulance — MKA Rotterdam-Rijnmond ( RGFvD Piket ) — sources: capcodes_eu, tomzulu
+- `001420294` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420295` — Ambulance — MKA Rotterdam-Rijnmond ( OvD-G Piket ) — sources: capcodes_eu, tomzulu
+- `001420296` — Ambulance — 612 | Ambulancelance Rotterdam-Rijnmond | Piket Chef van Dienst Zuid)(Persoonlijk) — sources: tomzulu
+- `001420303` — Ambulance — 613 | GHOR Rotterdam-Rijnmond | Piket Technisch Centralist Verbindings-Commandowagen (Persoonlijk) — sources: tomzulu
+- `001420307` — Ambulance — MKA Rotterdam-Rijnmond ( Technisch Centralist VC Piket ) — sources: capcodes_eu, tomzulu
+- `001420309` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Zuidhollandse Eilanden ) — sources: capcodes_eu, tomzulu
+- `001420311` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420312` — Ambulance — 617 | GHOR Rotterdam-Rijnmond | Piket Operationeel Medewerker Actiecentrum (Persoonlijk) — sources: tomzulu
+- `001420328` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Nieuwe Waterweg Noord ) — sources: capcodes_eu, tomzulu
+- `001420336` — Ambulance — 619 | VR Rotterdam-Rijnmond | Calamiteitenteam Zuid — sources: tomzulu
+- `001420341` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420347` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Nieuwe Waterweg Noord ) — sources: capcodes_eu, tomzulu
+- `001420349` — Ambulance — MKA Rotterdam-Rijnmond ( LKPH Piket ) — sources: capcodes_eu, tomzulu
+- `001420354` — Ambulance — GHOR Rotterdam-Rijnmond ( Ambuteam-lid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420356` — Ambulance — MKA Rotterdam-Rijnmond ( LKPH Piket ) — sources: capcodes_eu, tomzulu
+- `001420366` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Nieuwe Waterweg Noord ) — sources: capcodes_eu, tomzulu
+- `001420367` — Ambulance — 626 | GHOR Rotterdam-Rijnmond | Piket Operationeel Medewerker Actiecentrum (Persoonlijk) — sources: tomzulu
+- `001420368` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Nieuwe Waterweg Noord ) — sources: capcodes_eu, tomzulu
+- `001420385` — Ambulance — GHOR Rotterdam-Rijnmond ( OvD-G Piket ) — sources: capcodes_eu, tomzulu
+- `001420387` — Ambulance — MKA Rotterdam-Rijnmond ( CvD-G Piket ) — sources: capcodes_eu, tomzulu
+- `001420407` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Nieuwe Waterweg Noord ) — sources: capcodes_eu, tomzulu
+- `001420408` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420414` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420415` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420424` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigma-lid Zuidhollandse Eilanden ) — sources: capcodes_eu, tomzulu
+- `001420425` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420429` — Ambulance — MKA Rotterdam-Rijnmond ( G-AGS Piket ) — sources: capcodes_eu, tomzulu
+- `001420433` — Ambulance — MKA Rotterdam-Rijnmond ( OMSG Piket ) — sources: capcodes_eu, tomzulu
+- `001420435` — Ambulance — MKA Rotterdam-Rijnmond ( OvD-G Oost Alarmeringscode ) — sources: capcodes_eu, tomzulu
+- `001420436` — Ambulance — MKA Rotterdam-Rijnmond ( OvD-G West Alarmeringscode ) — sources: capcodes_eu, tomzulu
+- `001420437` — Ambulance — MKA Rotterdam-Rijnmond ( Communicatieadviseur Piket ) — sources: capcodes_eu
+- `001420438` — Ambulance — GHOR Rotterdam-Rijnmond ( Technisch Centralist VC Piket ) — sources: capcodes_eu, tomzulu
+- `001420447` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420448` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420449` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigmalid Nieuwe Waterweg Noord ) — sources: capcodes_eu, tomzulu
+- `001420451` — Ambulance — GHOR Rotterdam-Rijnmond ( Sigmalid Rotterdam ) — sources: capcodes_eu, tomzulu
+- `001420452` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420454` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420473` — Ambulance — 647 | GGD Rotterdam-Rijnmond | Piket Infectieziekten (Persoonlijk) — sources: tomzulu
+- `001420487` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420488` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420489` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420491` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420499` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420500` — Ambulance — MKA Rotterdam-Rijnmond ( G-AGS Alarmeringscode ) — sources: capcodes_eu, tomzulu
+- `001420504` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420506` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420507` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420508` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420509` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420510` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420511` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420512` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420513` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420514` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420515` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420545` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420851` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420870` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420872` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420873` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420874` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420875` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001420901` — Ambulance — Ambulance Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001423000` — Ambulance — CPA Zuidholland-Zuid ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `001423002` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423095` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423150` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423254` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423260` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423262` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423264` — Ambulance — CPA Zuidholland-Zuid ( OvD-G van Dienst ) — sources: capcodes_eu, tomzulu
+- `001423268` — Ambulance — CPA Zuidholland-Zuid ( OMAC ) — sources: capcodes_eu, tomzulu
+- `001423272` — Ambulance — CPA Zuidholland-Zuid ( RGF ) — sources: capcodes_eu, tomzulu
+- `001423282` — Ambulance — CPA Zuidholland-Zuid ( OvD-G ) — sources: capcodes_eu, tomzulu
+- `001423285` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423292` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423306` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423340` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423341` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423342` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423343` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423344` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423345` — Ambulance — 314 | Regionaal | Rapid Responder 18-344 (reserve) — sources: tomzulu
+- `001423350` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423351` — Ambulance — 316 | Dordrecht | Biker Ambulance 18-351 — sources: tomzulu
+- `001423352` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423353` — Ambulance — 318 | Dordrecht | Biker Ambulance 18-353 — sources: tomzulu
+- `001423360` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423361` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423372` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423374` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423375` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423376` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423377` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423385` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423390` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423391` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423392` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001423394` — Ambulance — Ambulance Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001430011` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430015` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430021` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430039` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430041` — Politie — Politie Rotterdam-Rijnmond ( Persoonlijke Code BCCB ) — sources: capcodes_eu, tomzulu
+- `001430055` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430065` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430066` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430067` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430068` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430070` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430071` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430072` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430073` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430074` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430075` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430076` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430077` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430122` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430173` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430260` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430261` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu
+- `001430270` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430403` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430404` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430406` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001430999` — Politie — Politie Rotterdam Rijnmond — sources: capcodes_eu, tomzulu
+- `001433000` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001433001` — Politie — Politie Zuid Holland-Zuid ( Regionaal Functionaris ) — sources: capcodes_eu, tomzulu
+- `001433002` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001433003` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001433005` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu
+- `001433006` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu
+- `001433020` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001433021` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001433023` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001433024` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu, tomzulu
+- `001433197` — Politie — Politie Zuid-Holland Zuid — sources: capcodes_eu
+- `001433218` — - — 347 | POL | Operationeel Centrum Politie | GMK Beheer (Persoonlijk) — sources: tomzulu
+- `001500004` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500007` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500010` — Brandweer — BRW Haaglanden ( Monitorcode RAC ) — sources: capcodes_eu
+- `001500012` — Brandweer — BRW Haaglanden ( Monitorcode Westland ) — sources: capcodes_eu, tomzulu
+- `001500013` — - — 8 | BRW | Regionaal | Nationaal Crisiscentrum — sources: tomzulu
+- `001500018` — Brandweer — BRW Haaglanden ( AGS ) — sources: capcodes_eu
+- `001500019` — Brandweer — BRW Haaglanden ( SOB Stafofficier ) — sources: capcodes_eu
+- `001500124` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500126` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500145` — Brandweer — BRW Leidschendam-Voorburg ( Meetploeg ) — sources: capcodes_eu, tomzulu
+- `001500147` — Brandweer — BRW Leidschendam-Voorburg ( BOT Medewerkers ) — sources: capcodes_eu, tomzulu
+- `001500151` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500153` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500159` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500160` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500162` — Brandweer — BRW Rijswijk ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001500183` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500184` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500185` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500186` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500187` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500188` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500189` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500190` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu
+- `001500193` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500195` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500200` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500201` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500210` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500301` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500306` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500337` — Brandweer — BRW Monster ( RV ) — sources: capcodes_eu, tomzulu
+- `001500401` — Brandweer — BRW Zoetermeer ( Logistiek Officier ) — sources: capcodes_eu, tomzulu
+- `001500601` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500602` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500901` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500902` — - — 142 | BRW | Regionaal | Informatiemanager Beleidsteam — sources: tomzulu
+- `001500906` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500908` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500911` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500924` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500927` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500929` — - — 155 | BRW | Zoetermeer | Bouw- en Woningtoezicht — sources: tomzulu
+- `001500932` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500934` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500941` — - — 161 | BRW | Regionaal | OvD Defensie — sources: tomzulu
+- `001500950` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500965` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500970` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500971` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500972` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500973` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500980` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500981` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500984` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500985` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500986` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500987` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500989` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500990` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500991` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500992` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500993` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001500998` — Brandweer — Brandweer Haaglanden — sources: capcodes_eu, tomzulu
+- `001503003` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503004` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503008` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503009` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503010` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu
+- `001503021` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503080` — Brandweer — BRW Bergambacht ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001503085` — Brandweer — BRW Bergambacht ( Chauffeurs ) — sources: capcodes_eu, tomzulu
+- `001503098` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503104` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503119` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503149` — Brandweer — BRW Gouda ( Kazernealarm Duikers ) — sources: capcodes_eu, tomzulu
+- `001503154` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503155` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503180` — - — 63 | BRW | Gouda - Vrijwilligers | Postalarm — sources: tomzulu
+- `001503181` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503193` — - — 67 | BRW | Hillegom | Verkenningseenheid — sources: tomzulu
+- `001503203` — Brandweer — BRW Katwijk ( Chauffeursploeg 1 ) — sources: capcodes_eu, tomzulu
+- `001503204` — Brandweer — BRW Katwijk ( Chauffeursploeg 2 ) — sources: capcodes_eu, tomzulu
+- `001503205` — Brandweer — BRW Katwijk ( Chauffeursploeg 3 ) — sources: capcodes_eu, tomzulu
+- `001503206` — Brandweer — BRW Katwijk ( Chauffeursploeg 4 ) — sources: capcodes_eu, tomzulu
+- `001503207` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503208` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503233` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503234` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503239` — Brandweer — BRW Jacobswoude ( Korpscoordinator ) — sources: capcodes_eu, tomzulu
+- `001503274` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503275` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503279` — Brandweer — BRW Leiden-Noord ( Kazernealarm ) — sources: capcodes_eu, tomzulu
+- `001503289` — Brandweer — BRW Leiden-Zuid ( Kazernealarm ) — sources: capcodes_eu, tomzulu
+- `001503294` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503320` — Brandweer — BRW Nieuwkoop-Nieuwveen ( Postcommandant ) — sources: capcodes_eu, tomzulu
+- `001503321` — - — 110 | BRW | Nieuwveen | Bezetting WT Ploeg 1 — sources: tomzulu
+- `001503322` — - — 111 | BRW | Nieuwveen | Bezetting WT Ploeg 2 — sources: tomzulu
+- `001503323` — Brandweer — BRW Nieuwkoop-Nieuwveen ( Korpsalarm ) — sources: capcodes_eu, tomzulu
+- `001503325` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503359` — Brandweer — BRW Zuidplas-Post Moordrecht ( Korpscoordinator ) — sources: capcodes_eu, tomzulu
+- `001503365` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503374` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503406` — Brandweer — BRW Nieuwkoop/Nieuwveen ( Combi-Alarm ) — sources: capcodes_eu, tomzulu
+- `001503437` — Brandweer — BRW Noordwijk ( Korpscoordinator ) — sources: capcodes_eu, tomzulu
+- `001503462` — Brandweer — BRW Ouderkerk a/d Ijssel ( Commandant ) — sources: capcodes_eu, tomzulu
+- `001503463` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503472` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503479` — Brandweer — BRW Gouderak ( Korpscoordinator ) — sources: capcodes_eu, tomzulu
+- `001503492` — Brandweer — BRW Reeuwijk ( Blusgroep 1 ) — sources: capcodes_eu, tomzulu
+- `001503493` — Brandweer — BRW Reeuwijk ( Blusgroep 2 ) — sources: capcodes_eu, tomzulu
+- `001503494` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503501` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503536` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503548` — - — 179 | BRW | Benthuizen | 25 kV Ploeg HSL — sources: tomzulu
+- `001503556` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503567` — Brandweer — BRW Teylingen-Sassenheim ( Korpscoordinator ) — sources: capcodes_eu, tomzulu
+- `001503591` — Brandweer — BRW Schoonhoven ( Korpscoordinator ) — sources: capcodes_eu, tomzulu
+- `001503592` — - — 193 | BRW | Schoonhoven | Schipper — sources: tomzulu
+- `001503595` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503604` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503612` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503628` — Brandweer — BRW Vlist/Stolwijk ( Bemanning HV Groep 1 ) — sources: capcodes_eu, tomzulu
+- `001503629` — Brandweer — BRW Vlist/Stolwijk ( Bemanning HV Groep 2 ) — sources: capcodes_eu, tomzulu
+- `001503643` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503644` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503691` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503718` — Brandweer — BRW Zuidplas-Post Zevenhuizen ( Postcommandant ) — sources: capcodes_eu, tomzulu
+- `001503720` — Brandweer — BRW Zuidplas-Post Zevenhuizen ( Korpscoordinator ) — sources: capcodes_eu, tomzulu
+- `001503721` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503722` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503733` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503739` — Brandweer — BRW Roelofarendsveen ( HV Groep ) — sources: capcodes_eu, tomzulu
+- `001503742` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503801` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503802` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503803` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503804` — Brandweer — BRW Hollands-Midden ( Functionaris GHOR ) — sources: capcodes_eu, tomzulu
+- `001503810` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503905` — - — 249 | BRW | MKB Den Haag > | MKB Amsterdam (Infocode) — sources: tomzulu
+- `001503971` — - — 254 | BRW | Regionaal | Voorlichting (Groepscode) — sources: tomzulu
+- `001503976` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503988` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503996` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001503997` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504005` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504006` — Brandweer — BRW Hollands-Midden ( Regionaal Bot Team ) — sources: capcodes_eu, tomzulu
+- `001504023` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu
+- `001504044` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504053` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504054` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504055` — - — 279 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001504058` — - — 280 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001504064` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504077` — - — 282 | BRW | Regionaal | Persoonlijke Code — sources: tomzulu
+- `001504079` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504083` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504192` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504193` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504194` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504198` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504199` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504229` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504299` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504411` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504412` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504416` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504417` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504501` — - — 316 | BRW | Regionaal | Coördinator DCU (Katwijk) — sources: tomzulu
+- `001504502` — - — 317 | BRW | Regionaal | Noordwijk (Coördinator DCU) — sources: tomzulu
+- `001504503` — - — 318 | BRW | Regionaal | Lisse (Coördinator DCU) — sources: tomzulu
+- `001504504` — - — 319 | BRW | Regionaal | Leiden-Noord (Coördinator DCU) — sources: tomzulu
+- `001504505` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504506` — - — 321 | BRW | Regionaal | Roelofarendsveen (Coördinator DCU) — sources: tomzulu
+- `001504507` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504508` — - — 323 | BRW | Regionaal | Alphen a/d Rijn (Coördinator DCU) — sources: tomzulu
+- `001504509` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001504510` — - — 325 | BRW | Regionaal | Reeuwijk (Coördinator DCU) — sources: tomzulu
+- `001504511` — - — 326 | BRW | Regionaal | Gouda (Coördinator DCU) — sources: tomzulu
+- `001504512` — - — 327 | BRW | Regionaal | Nieuwerkerk a/d IJssel (Coördinator DCU) — sources: tomzulu
+- `001504513` — - — 328 | BRW | Regionaal | Bergambacht (Coördinator DCU) — sources: tomzulu
+- `001505291` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505292` — - — 330 | BRW | Regionaal | Infocode GRIP 2 — sources: tomzulu
+- `001505293` — - — 331 | BRW | Regionaal | Infocode GRIP 3 — sources: tomzulu
+- `001505294` — - — 332 | BRW | Regionaal | Infocode GRIP 4 — sources: tomzulu
+- `001505295` — - — 333 | BRW | Regionaal | Infocode GRIP 5 — sources: tomzulu
+- `001505358` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu
+- `001505595` — - — 334 | BRW | Regionaal | Voorzitter VR — sources: tomzulu
+- `001505600` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Alphen aan den Rijn ) — sources: capcodes_eu
+- `001505601` — - — 335 | BRW | Regionaal | Burgemeester Alphen a/d Rijn — sources: tomzulu
+- `001505605` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505610` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Bodegraven ) — sources: capcodes_eu, tomzulu
+- `001505620` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Gouda ) — sources: capcodes_eu, tomzulu
+- `001505625` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Hillegom ) — sources: capcodes_eu, tomzulu
+- `001505631` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505636` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Katwijk ) — sources: capcodes_eu, tomzulu
+- `001505646` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505651` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505661` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505681` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Oegstgeest ) — sources: capcodes_eu, tomzulu
+- `001505701` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Teylingen ) — sources: capcodes_eu, tomzulu
+- `001505706` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Voorschoten ) — sources: capcodes_eu, tomzulu
+- `001505726` — Brandweer — BRW Hollands-Midden ( Burgemeester Gemeente Zuidplas ) — sources: capcodes_eu, tomzulu
+- `001505731` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505732` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001505810` — Brandweer — Brandweer Hollands Midden — sources: capcodes_eu, tomzulu
+- `001520019` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520031` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520032` — Ambulance — GGD Den haag ( Ambulance 15-132 ) — sources: capcodes_eu, tomzulu
+- `001520033` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520034` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520035` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520036` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520038` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520039` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520047` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520048` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520049` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520100` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520105` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520122` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520132` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520133` — Ambulance — 250 | Regionaal | Informatiecoordinatoren GGD (Groepscode) — sources: tomzulu
+- `001520199` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520200` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520201` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520202` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520203` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520204` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520205` — Ambulance — 257 | Regionaal | NRK Noodhulp-Team UGS Rijswijk — sources: tomzulu
+- `001520206` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520207` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520208` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520209` — Ambulance — 261 | Regionaal | NRK Noodhulp-Team UGS Delft — sources: tomzulu
+- `001520210` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520211` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520212` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520213` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520214` — Ambulance — 266 | Regionaal | NRK Noodhulp-Team UGS — sources: tomzulu
+- `001520215` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520216` — Ambulance — 268 | Regionaal | NRK Noodhulp-Team Coördinator — sources: tomzulu
+- `001520220` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520221` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520222` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520223` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520224` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520225` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520226` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520227` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520228` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520229` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520230` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520231` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520232` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520240` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520241` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520242` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520301` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520317` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu
+- `001520318` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520319` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520321` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520334` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520340` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520341` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520342` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520343` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520344` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520346` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520348` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520349` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520364` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520372` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520381` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520391` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520621` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520622` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520627` — Ambulance — 313 | Regionaal | Psycholance Broeder de Vries — sources: tomzulu
+- `001520713` — Ambulance — 314 | Hadoks Haaglanden | HAP voertuig 15-713 — sources: tomzulu
+- `001520714` — Ambulance — 315 | Hadoks Haaglanden | HAP voertuig 15-714 — sources: tomzulu
+- `001520953` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu
+- `001520990` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520997` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520998` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001520999` — Ambulance — Ambulance Haaglanden — sources: capcodes_eu, tomzulu
+- `001523000` — Ambulance — CPA Hollands-Midden ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `001523001` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523002` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523005` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523006` — Ambulance — 361 | MKA Hollands Midden | GRIP Infocode GHOR — sources: tomzulu
+- `001523007` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523010` — Ambulance — 363 | Reddingsbrigade Alphen a/d Rijn | Alarmploeg — sources: tomzulu
+- `001523011` — Ambulance — 364 | Reddingsbrigade Alphen a/d Rijn | OvD — sources: tomzulu
+- `001523020` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523021` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523022` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523023` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523025` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523035` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523100` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523150` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523151` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523156` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523157` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523161` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523163` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523164` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523165` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu
+- `001523166` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu
+- `001523170` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523172` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523173` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523174` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523175` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523177` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523178` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523180` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523181` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523182` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523183` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523185` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523186` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523187` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu
+- `001523188` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu
+- `001523189` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu
+- `001523190` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523191` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523250` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu
+- `001523251` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu
+- `001523270` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523271` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523272` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523273` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523274` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523275` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523276` — Ambulance — 410 | RAV Hollands Midden | Middencomplexe ZorgAmbulancelance 16-276 — sources: tomzulu
+- `001523280` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523281` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523282` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523283` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523284` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523285` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523286` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523310` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523348` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523349` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523350` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523351` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523352` — Ambulance — 423 | Kaag | First Responder 16-352 — sources: tomzulu
+- `001523353` — Ambulance — 424 | Roelofarendsveen | First Responder 16-353 — sources: tomzulu
+- `001523354` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523355` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523357` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523358` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523359` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523360` — Ambulance — 430 | Aarlanderveen | First Responder 16-360 — sources: tomzulu
+- `001523361` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523362` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523365` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523366` — Ambulance — 434 | Benthuizen | First Responder 16-366 — sources: tomzulu
+- `001523367` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523368` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523369` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523370` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523371` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523372` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523373` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523374` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523375` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523376` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523377` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523378` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523379` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523385` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523386` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523387` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523388` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523389` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523590` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523791` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523792` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523793` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523798` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523800` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523801` — Ambulance — CPA Hollands-Midden ( OvD-G West ) — sources: capcodes_eu, tomzulu
+- `001523805` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523816` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523817` — Ambulance — CPA Hollands-Midden ( BOT ) — sources: capcodes_eu, tomzulu
+- `001523822` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523852` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523853` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523871` — Ambulance — GHOR Hollands-Midden ( MMA ) — sources: capcodes_eu, tomzulu
+- `001523876` — Ambulance — Ambulance Hollands Midden — sources: capcodes_eu, tomzulu
+- `001523953` — - — 474 | NRK | Nederlands Rode Kruis | Locatie Alphen aan den Rijn — sources: tomzulu
+- `001523955` — - — 475 | NRK | Nederlands Rode Kruis | Locatie Gouda — sources: tomzulu
+- `001530002` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530003` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530005` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530006` — Politie — Politie Haaglanden — sources: capcodes_eu
+- `001530008` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530030` — - — 328 | POL | Operationeel Centrum Politie | Teamleider Explosieven Veiligheid (TEV) — sources: tomzulu
+- `001530615` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530616` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530623` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530624` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530633` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530659` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530660` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530664` — - — 341 | POL | Regionaal | Hoofd Ondersteuning — sources: tomzulu
+- `001530668` — - — 342 | POL | Regionaal | Staf SGBO (Staf Grootschalig- en Bijzonder Optreden) — sources: tomzulu
+- `001530675` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001530676` — Politie — Politie Haaglanden — sources: capcodes_eu, tomzulu
+- `001533000` — Politie — Politie Hollands-Midden ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `001533038` — Politie — Politie Hollands Midden — sources: capcodes_eu, tomzulu
+- `001533501` — Politie — Politie Hollands Midden — sources: capcodes_eu, tomzulu
+- `001533504` — Politie — Politie Hollands Midden — sources: capcodes_eu, tomzulu
+- `001733993` — KNRM — KNRM KNRM — sources: capcodes_eu
+- `001735000` — KNRM — Kustwachtcentrum ( Proefalarm ) — sources: capcodes_eu, tomzulu
+- `001735013` — KNRM — KNRM KNRM — sources: capcodes_eu
+- `001735031` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735051` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Groningen ) — sources: capcodes_eu, tomzulu
+- `001735052` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Friesland ) — sources: capcodes_eu, tomzulu
+- `001735056` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer N.O Gelderland ) — sources: capcodes_eu, tomzulu
+- `001735060` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer N.H Noord ) — sources: capcodes_eu, tomzulu
+- `001735061` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Zaanstreek-Waterland ) — sources: capcodes_eu, tomzulu
+- `001735062` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Kennemerland ) — sources: capcodes_eu, tomzulu
+- `001735064` — KNRM — Kustwachtcentrum ( Lichtkrant GMK Gooi en Vechtstreek ) — sources: capcodes_eu, tomzulu
+- `001735066` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Hollands-Midden ) — sources: capcodes_eu, tomzulu
+- `001735068` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Zuid Holland-Zuid ) — sources: capcodes_eu, tomzulu
+- `001735069` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Zeeland ) — sources: capcodes_eu, tomzulu
+- `001735075` — KNRM — Kustwachtcentrum ( Lichtkrant Meldkamer Flevoland ) — sources: capcodes_eu, tomzulu
+- `001735102` — KNRM — Kustwachtcentrum ( Cadzand - Schippers ) — sources: capcodes_eu, tomzulu
+- `001735108` — KNRM — Kustwachtcentrum ( Cadzand - Bemanning Winifred Lucy Verkade-Clark ) — sources: capcodes_eu, tomzulu
+- `001735110` — KNRM — Kustwachtcentrum ( Cadzand - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735112` — KNRM — Kustwachtcentrum ( Breskens - Schippers ) — sources: capcodes_eu, tomzulu
+- `001735118` — KNRM — Kustwachtcentrum ( Breskens - Bemanning Zeemanshoop ) — sources: capcodes_eu, tomzulu
+- `001735122` — KNRM — Kustwachtcentrum ( Westkapelle - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735128` — KNRM — Kustwachtcentrum ( Westkapelle - Bemanning ULY ) — sources: capcodes_eu, tomzulu
+- `001735130` — KNRM — Kustwachtcentrum ( Westkapelle - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735132` — KNRM — Kustwachtcentrum ( Veere - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735133` — - — 29 | KNRM-KWC | Reddingstation Veere | Bemanning Reddingboot Oranje — sources: tomzulu
+- `001735138` — KNRM — Kustwachtcentrum ( Veere - Bemanning Oranje ) — sources: capcodes_eu
+- `001735142` — KNRM — Kustwachtcentrum ( Neeltje Jans - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735148` — KNRM — Kustwachtcentrum ( Neeltje Jans-Buiten - Bemanning Koopmansdank ) — sources: capcodes_eu, tomzulu
+- `001735149` — KNRM — Kustwachtcentrum ( Neeltje Jans-Binnen - Bemanning Harder ) — sources: capcodes_eu, tomzulu
+- `001735152` — KNRM — Kustwachtcentrum ( Ouddorp - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735158` — KNRM — Kustwachtcentrum ( Ouddorp - Bemanning Griend ) — sources: capcodes_eu, tomzulu
+- `001735159` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735160` — KNRM — Kustwachtcentrum ( Ouddorp - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735162` — KNRM — Kustwachtcentrum ( Stellendam - Schippers ) — sources: capcodes_eu, tomzulu
+- `001735168` — KNRM — Kustwachtcentrum ( Stellendam-Buiten - Bemanning Antoinette ) — sources: capcodes_eu, tomzulu
+- `001735169` — KNRM — Kustwachtcentrum ( Stellendam-Binnen Bemanning Neeltje STruijs ) — sources: capcodes_eu, tomzulu
+- `001735171` — - — 40 | KNRM-KWC | Reddingstation Hoek van Holland | SAR liaison — sources: tomzulu
+- `001735172` — KNRM — Kustwachtcentrum ( Hoek van Holland - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735178` — KNRM — Kustwachtcentrum ( Hoek van Holland - Bemanning Jeanine Parqui ) — sources: capcodes_eu, tomzulu
+- `001735182` — KNRM — Kustwachtcentrum ( Ter-Heijde - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735190` — KNRM — Kustwachtcentrum ( Ter-Heijde - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735192` — KNRM — Kustwachtcentrum ( Scheveningen - Schipper Kitty Roosmale Nepveu ) — sources: capcodes_eu, tomzulu
+- `001735200` — KNRM — Kustwachtcentrum ( Scheveningen - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735201` — - — 49 | KNRM-KWC | Reddingstation Katwijk | SAR liaison — sources: tomzulu
+- `001735202` — KNRM — Kustwachtcentrum ( Katwijk aan Zee - Schippers ) — sources: capcodes_eu, tomzulu
+- `001735208` — KNRM — Kustwachtcentrum ( Katwijk aan Zee - Bemanning De Redder ) — sources: capcodes_eu, tomzulu
+- `001735210` — KNRM — Kustwachtcentrum ( Katwijk aan Zee - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735212` — KNRM — Kustwachtcentrum ( Noordwijk aan Zee - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735218` — KNRM — Kustwachtcentrum ( Noordwijk aan Zee - Bemanning Paul Johannes ) — sources: capcodes_eu, tomzulu
+- `001735220` — KNRM — Kustwachtcentrum ( Noordwijk aan Zee - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735222` — KNRM — Kustwachtcentrum ( Zandvoort - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735228` — KNRM — Kustwachtcentrum ( Zandvoort - Bemanning Annie Poulisse ) — sources: capcodes_eu, tomzulu
+- `001735230` — KNRM — Kustwachtcentrum ( Zandvoort Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735232` — KNRM — Kustwachtcentrum ( IJmuiden - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735238` — KNRM — Kustwachtcentrum ( IJmuiden - Bemanning Koos van Messel ) — sources: capcodes_eu, tomzulu
+- `001735242` — KNRM — Kustwachtcentrum ( Wijk aan Zee - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735248` — KNRM — Kustwachtcentrum ( Wijk aan Zee - Bemanning Donateur ) — sources: capcodes_eu, tomzulu
+- `001735250` — KNRM — Kustwachtcentrum ( Wijk aan Zee - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735252` — KNRM — Kustwachtcentrum ( Egmond aan Zee - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735258` — KNRM — Kustwachtcentrum ( Egmond aan Zee - Bemanning Adriaan Hendrik ) — sources: capcodes_eu, tomzulu
+- `001735260` — KNRM — Kustwachtcentrum ( Egmond aan Zee - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735262` — - — 67 | KNRM-KWC | Reddingstation Petten | Schippers — sources: tomzulu
+- `001735268` — KNRM — Kustwachtcentrum ( Petten - Bemanning Dolfijn ) — sources: capcodes_eu, tomzulu
+- `001735270` — KNRM — Kustwachtcentrum ( Petten - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735271` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735272` — KNRM — Kustwachtcentrum ( Callantsoog - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735278` — KNRM — Kustwachtcentrum ( Callantsoog - Bemanning Koen Oberman ) — sources: capcodes_eu, tomzulu
+- `001735280` — KNRM — Kustwachtcentrum ( Callantsoog - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735281` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735282` — KNRM — Kustwachtcentrum ( Den Helder - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735288` — KNRM — Kustwachtcentrum ( Den Helder - Bemanning Joke Dijkstra ) — sources: capcodes_eu, tomzulu
+- `001735292` — - — 77 | KNRM-KWC | Reddingstation Texel De Koog | Schippers — sources: tomzulu
+- `001735298` — KNRM — Kustwachtcentrum ( De Koog - Bemanning Zalm en Francine Kroezen ) — sources: capcodes_eu, tomzulu
+- `001735299` — KNRM — Kustwachtcentrum ( Texel-Oudeschild - Bemanning Francine Kroezen ) — sources: capcodes_eu, tomzulu
+- `001735300` — KNRM — Kustwachtcentrum ( De Koog - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735301` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735302` — KNRM — Kustwachtcentrum ( De Cocksdorp - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735308` — KNRM — Kustwachtcentrum ( De Cocksdorp - Bemanning Beursplein 5 ) — sources: capcodes_eu, tomzulu
+- `001735311` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735312` — KNRM — Kustwachtcentrum ( Vlieland - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735314` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735318` — KNRM — Kustwachtcentrum ( Vlieland - Bemanning Graaf van Bylandt ) — sources: capcodes_eu, tomzulu
+- `001735319` — KNRM — Kustwachtcentrum ( Vlieland ) — sources: capcodes_eu, tomzulu
+- `001735320` — KNRM — Kustwachtcentrum ( Vlieland ) — sources: capcodes_eu, tomzulu
+- `001735332` — KNRM — Kustwachtcentrum ( West-Terschelling - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735338` — KNRM — Kustwachtcentrum ( West-Terschelling - Bemanning Arie Visser ) — sources: capcodes_eu, tomzulu
+- `001735342` — KNRM — Kustwachtcentrum ( Paal 8 - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735344` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735348` — KNRM — Kustwachtcentrum ( Paal 8 - Bemanning Frans Hoogewind ) — sources: capcodes_eu, tomzulu
+- `001735350` — KNRM — Kustwachtcentrum ( Paal 8 - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735352` — KNRM — Kustwachtcentrum ( Ballumerbocht - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735354` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735355` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735356` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735357` — - — 100 | KNRM-KWC | Reddingstation Ameland Buren | Lifeguards — sources: tomzulu
+- `001735358` — KNRM — Kustwachtcentrum ( Ameland-Ballumerbocht - Bemanning Anna Margaretha ) — sources: capcodes_eu, tomzulu
+- `001735362` — KNRM — Kustwachtcentrum ( Nes-Ameland - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735368` — KNRM — Kustwachtcentrum ( Nes-Ameland - Bemanning Maria Hofker ) — sources: capcodes_eu, tomzulu
+- `001735370` — KNRM — Kustwachtcentrum ( Nes-Ameland - Bemanning KHV ) — sources: capcodes_eu, tomzulu
+- `001735372` — KNRM — Kustwachtcentrum ( Schiermonnikoog -Schipper ) — sources: capcodes_eu, tomzulu
+- `001735378` — KNRM — Kustwachtcentrum ( Schiermonnikoog - Bemanning Koning Willem 1 ) — sources: capcodes_eu, tomzulu
+- `001735380` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735382` — - — 108 | KNRM-KWC | Reddingstation Schiermonnikoog | Schippers Koning Willem I — sources: tomzulu
+- `001735384` — - — 109 | KNRM-KWC | Reddingstation Schiermonnikoog | Lifeguards — sources: tomzulu
+- `001735388` — KNRM — Kustwachtcentrum ( Schiermonnikoog - Bemanning Edzard Jacob ) — sources: capcodes_eu, tomzulu
+- `001735392` — KNRM — Kustwachtcentrum ( Eemshaven - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735398` — KNRM — Kustwachtcentrum ( Eemshaven - Bemanning Jan en Titia Visser ) — sources: capcodes_eu, tomzulu
+- `001735402` — KNRM — Kustwachtcentrum ( Lauwersoog - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735408` — KNRM — Kustwachtcentrum ( Lauwersoog - Bemanning Annie Jacoba Visser ) — sources: capcodes_eu, tomzulu
+- `001735409` — KNRM — Kustwachtcentrum ( Lauwersoog-Binnen - Bemanning Palace Noordwijk ) — sources: capcodes_eu, tomzulu
+- `001735411` — - — 116 | KNRM-KWC | Reddingstation Harlingen | SAR liaison — sources: tomzulu
+- `001735412` — KNRM — Kustwachtcentrum ( Harlingen - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735418` — KNRM — Kustwachtcentrum ( Harlingen Bemanning Wiecher Jap Visser Politiek ) — sources: capcodes_eu, tomzulu
+- `001735422` — KNRM — Kustwachtcentrum ( Hindeloopen - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735428` — KNRM — Kustwachtcentrum ( Hindeloopen - Bemanning Alida en Narwal ) — sources: capcodes_eu, tomzulu
+- `001735432` — KNRM — Kustwachtcentrum ( Lemmer - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735438` — KNRM — Kustwachtcentrum ( Lemmer - Bemanning Anna Dorothea - John Stegers ) — sources: capcodes_eu, tomzulu
+- `001735441` — - — 123 | KNRM-KWC | Reddingstation Urk | SAR liaison — sources: tomzulu
+- `001735442` — KNRM — Kustwachtcentrum ( Urk - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735448` — KNRM — Kustwachtcentrum ( Urk - Kapiteins Hazewinkel en Willemtje ) — sources: capcodes_eu, tomzulu
+- `001735452` — KNRM — Kustwachtcentrum ( Elburg - Schipper Evert Floor ) — sources: capcodes_eu, tomzulu
+- `001735458` — KNRM — Kustwachtcentrum ( Elburg - Bemanning Evert Floor ) — sources: capcodes_eu, tomzulu
+- `001735462` — KNRM — Kustwachtcentrum ( Marken - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735468` — KNRM — Kustwachtcentrum ( Marken Bemanning Frans Verkade en Hendrik Jacob ) — sources: capcodes_eu, tomzulu
+- `001735472` — KNRM — Kustwachtcentrum ( Enkhuizen - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735477` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735478` — KNRM — Kustwachtcentrum ( Enkhuizen - Bemanning Watersport KNWV ) — sources: capcodes_eu, tomzulu
+- `001735482` — KNRM — Kustwachtcentrum ( Den Oever - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735488` — KNRM — Kustwachtcentrum ( Den Oever - Bemanning Johanna Margaretha ) — sources: capcodes_eu, tomzulu
+- `001735492` — KNRM — Kustwachtcentrum ( Schipper van Dienst Huizen ) — sources: capcodes_eu, tomzulu
+- `001735498` — KNRM — Kustwachtcentrum ( Huizen Bemanning Nikolaas Wijsenbeek + RB Naarden ) — sources: capcodes_eu, tomzulu
+- `001735502` — KNRM — Kustwachtcentrum ( KNRM Hansweert Schipper ) — sources: capcodes_eu, tomzulu
+- `001735508` — KNRM — Kustwachtcentrum ( KNRM Hansweert Bemanning Jan van Engelenburg ) — sources: capcodes_eu, tomzulu
+- `001735512` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735518` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735528` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735702` — KNRM — KNBRD Andijk ( TSpan - Schipper ) — sources: capcodes_eu, tomzulu
+- `001735708` — KNRM — Kustwachtcentrum ( Andijk Bemanning T Span ) — sources: capcodes_eu, tomzulu
+- `001735711` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735712` — KNRM — Kustwachtcentrum ( Medemblik Schipper Bernadine ) — sources: capcodes_eu, tomzulu
+- `001735718` — KNRM — Kustwachtcentrum ( Medemblik Bemanning Bernadine ) — sources: capcodes_eu, tomzulu
+- `001735722` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735728` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735732` — KNRM — Kustwachtcentrum (KNBRD Zeevang - Warder Schipper Simac en de Beer ) — sources: capcodes_eu, tomzulu
+- `001735738` — KNRM — Kustwachtcentrum (KNBRD Zeevang - Warder Bemanning Simac en de Beer ) — sources: capcodes_eu, tomzulu
+- `001735742` — - — 151 | KNRM-KWC | Reddingstation Dordrecht | Schippers — sources: tomzulu
+- `001735748` — KNRM — Kustwachtcentrum ( Dordrecht-Zuid Bemanning KBW-1910 ) — sources: capcodes_eu, tomzulu
+- `001735749` — KNRM — Kustwachtcentrum ( Dordrecht Bemanning DRB-49 ) — sources: capcodes_eu, tomzulu
+- `001735752` — KNRM — Kustwachtcentrum ( Wijdenes-Schippers ) — sources: capcodes_eu, tomzulu
+- `001735758` — KNRM — Kustwachtcentrum ( Wijdenes-Bemanning Mantelmeuw ) — sources: capcodes_eu, tomzulu
+- `001735768` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735770` — - — 157 | KNRM-KWC | Reddingstation Maasvlakte | Opstappers KHV — sources: tomzulu
+- `001735778` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735788` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735792` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735795` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735798` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735800` — KNRM — Kustwachtcentrum ( Lichtkrant Reddingsbrigade ) — sources: capcodes_eu, tomzulu
+- `001735801` — - — 164 | KNRM-KWC | Reddingsbrigade Castricum | Strandploeg — sources: tomzulu
+- `001735802` — - — 165 | KNRM-KWC | Reddingsbrigade Castricum | Alarmploeg — sources: tomzulu
+- `001735803` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735804` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735805` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735806` — KNRM — Kustwachtcentrum ( Reddingsbrigade Castricum ) — sources: capcodes_eu, tomzulu
+- `001735807` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735809` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735811` — KNRM — Kustwachtcentrum ( Reddingsbrigade Callantsoog ) — sources: capcodes_eu, tomzulu
+- `001735813` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735815` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735816` — - — 175 | KNRM-KWC | Reddingsbrigade Schoorl | Strandploeg — sources: tomzulu
+- `001735817` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735818` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735819` — - — 178 | KNRM-KWC | Reddingsbrigade Domburg | Strandploeg — sources: tomzulu
+- `001735825` — - — 179 | KNRM-KWC | Reddingsbrigade Vlissingen | Strandploeg — sources: tomzulu
+- `001735827` — - — 180 | KNRM-KWC | Reddingsbrigade Petten | Alarmploeg — sources: tomzulu
+- `001735828` — - — 181 | KNRM-KWC | Reddingsbrigade Vlissingen | Alarmploeg — sources: tomzulu
+- `001735829` — - — 182 | KNRM-KWC | Reddingsbrigade Vrouwenpolder | Strandploeg — sources: tomzulu
+- `001735831` — - — 183 | KNRM-KWC | Reddingsbrigade Callantsoog | Strandploeg — sources: tomzulu
+- `001735832` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735833` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735835` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735836` — KNRM — Kustwachtcentrum ( Reddingsbrigade Den Helder ) — sources: capcodes_eu, tomzulu
+- `001735837` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735841` — KNRM — Kustwachtcentrum ( Reddingsbrigade Texel de Koog ) — sources: capcodes_eu, tomzulu
+- `001735842` — - — 190 | KNRM-KWC | Reddingsbrigade Texel - De Koog | Alarmploeg — sources: tomzulu
+- `001735843` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735847` — - — 192 | KNRM-KWC | Reddingsbrigade Almere | Strandploeg — sources: tomzulu
+- `001735849` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735850` — - — 194 | KNRM-KWC | Reddingsbrigade Heemskerk | Strandploeg — sources: tomzulu
+- `001735851` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735852` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735854` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735855` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735857` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735858` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735859` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735860` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735861` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735863` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735864` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735865` — - — 206 | KNRM-KWC | SSV Strandpost Oostkapelle | Strandploeg — sources: tomzulu
+- `001735866` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735867` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735869` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735871` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735872` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735873` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735874` — - — 213 | KNRM-KWC | SSV Strandpost Noordduine | Strandploeg — sources: tomzulu
+- `001735875` — - — 214 | KNRM-KWC | Reddingsbrigade Monster | Strandploeg — sources: tomzulu
+- `001735876` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735878` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735879` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735880` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735881` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735882` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735884` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735887` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735889` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735981` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735982` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735983` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735984` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735985` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735986` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735987` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735988` — - — 231 | KNRM-KWC | Kustwachtcentrum | Info Hulpvraag Waddenzee — sources: tomzulu
+- `001735989` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735990` — - — 233 | KNRM-KWC | Kustwachtcentrum | Info Hulpvraag Zuidhollandse Stromen — sources: tomzulu
+- `001735991` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735992` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735993` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735994` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735995` — - — 238 | KNRM-KWC | Kustwachtcentrum | Technische dienst/engineer Rescue 06 Den Helder — sources: tomzulu
+- `001735996` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735997` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735998` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `001735999` — KNRM — KNRM KNRM — sources: capcodes_eu, tomzulu
+- `002029570` — - — 246 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029571` — - — 247 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029572` — - — 248 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029573` — - — 249 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029574` — - — 250 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029575` — - — 251 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029576` — - — 252 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029577` — - — 253 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029578` — - — 254 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029579` — - — 255 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029580` — - — 256 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029581` — - — 257 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029582` — - — 258 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
+- `002029583` — - — 259 | FLEX protocol | Groepsoproep code | Landelijke code in gebruik bij alle Gemeenschappelijke Meldkamer`s + KNRM-KWC — sources: tomzulu
