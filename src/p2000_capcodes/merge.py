@@ -195,11 +195,14 @@ def merge_records(
                 field,
                 pairs,
                 priorities,
-                normalize=lambda item: comparable(normalize_service(item))
-                if field == "service"
-                else comparable(item),
+                normalize=lambda item, field=field: (
+                    comparable(normalize_service(item))
+                    if field == "service"
+                    else comparable(item)
+                ),
                 conflict=field in {"service", "station", "callsign"},
             )
+
             if field == "service":
                 value = normalize_service(value)
             selected[field] = value
