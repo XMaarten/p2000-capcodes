@@ -22,12 +22,14 @@ jobs:
         run: p2000-capcodes update
       - name: Commit changed generated data
         run: |
-          if git diff --quiet -- data reports; then
+          git add -A data reports
+
+          if git diff --cached --quiet; then
             echo "No dataset changes"
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data reports
           git commit -m "Update capcode dataset"
           git push
