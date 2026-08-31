@@ -1,6 +1,6 @@
 # Field conflicts
 
-Records with conflicts: **1509**
+Records with conflicts: **1513**
 
 ## `000103105`
 
@@ -6234,7 +6234,7 @@ Selected: **Brandweer / Limburg Zuid**
 
 ## `001020190`
 
-Selected: **Ambulance / Limburg-Noord**
+Selected: **Ambulance / Limburg Noord**
 
 ### station
 - `bommel`: Echt — https://p2000.bommel.net/cap2csv.php
@@ -9276,6 +9276,14 @@ Selected: **Brandweer / Zeeland**
 - `bommel`: ABH-4388 — https://p2000.bommel.net/cap2csv.php
 - `tomzulu`: ABH-19-8480 — https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-BD1gVKHgZnEYcvr21gnNtFN6x7CQ-WMqwU4AQNHvnPXsuz5ie92K6E1R9MZrt6VleswOqKMgeWMl/pubhtml/sheet?headers=false&gid=218400779
 
+## `001303082`
+
+Selected: **Brandweer / Zeeland**
+
+### callsign
+- `capcodes_eu`: OT-19-4381 — https://capcodes.eu/
+- `tomzulu`: DC-8920 — https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-BD1gVKHgZnEYcvr21gnNtFN6x7CQ-WMqwU4AQNHvnPXsuz5ie92K6E1R9MZrt6VleswOqKMgeWMl/pubhtml/sheet?headers=false&gid=218400779
+
 ## `001303090`
 
 Selected: **Brandweer / Zeeland**
@@ -9548,6 +9556,14 @@ Selected: **Brandweer / Zeeland**
 ### callsign
 - `capcodes_eu`: OGS-19-5681 — https://capcodes.eu/
 - `tomzulu`: OGS-19-6610 — https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-BD1gVKHgZnEYcvr21gnNtFN6x7CQ-WMqwU4AQNHvnPXsuz5ie92K6E1R9MZrt6VleswOqKMgeWMl/pubhtml/sheet?headers=false&gid=218400779
+
+## `001303385`
+
+Selected: **Brandweer / Zeeland**
+
+### callsign
+- `capcodes_eu`: OGS-19-5685 — https://capcodes.eu/
+- `tomzulu`: GP-19-6625 — https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-BD1gVKHgZnEYcvr21gnNtFN6x7CQ-WMqwU4AQNHvnPXsuz5ie92K6E1R9MZrt6VleswOqKMgeWMl/pubhtml/sheet?headers=false&gid=218400779
 
 ## `001303390`
 
@@ -11150,6 +11166,18 @@ Selected: **Brandweer / Haaglanden**
 - `capcodes_eu`: Brandweer — https://capcodes.eu/
 
 ## `001500960`
+
+Selected: **Brandweer / Haaglanden**
+
+### discipline
+- `bommel`: Reddingsbrigade — https://p2000.bommel.net/cap2csv.php
+- `capcodes_eu`: Brandweer — https://capcodes.eu/
+
+### service
+- `bommel`: Reddingsbrigade — https://p2000.bommel.net/cap2csv.php
+- `capcodes_eu`: Brandweer — https://capcodes.eu/
+
+## `001500975`
 
 Selected: **Brandweer / Haaglanden**
 
@@ -13349,6 +13377,14 @@ Selected: **KNRM / KNRM**
 - `tomzulu`: Landelijk — https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-BD1gVKHgZnEYcvr21gnNtFN6x7CQ-WMqwU4AQNHvnPXsuz5ie92K6E1R9MZrt6VleswOqKMgeWMl/pubhtml/sheet?headers=false&gid=586908396
 
 ## `001735873`
+
+Selected: **KNRM / KNRM**
+
+### region
+- `capcodes_eu`: KNRM — https://capcodes.eu/
+- `tomzulu`: Landelijk — https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-BD1gVKHgZnEYcvr21gnNtFN6x7CQ-WMqwU4AQNHvnPXsuz5ie92K6E1R9MZrt6VleswOqKMgeWMl/pubhtml/sheet?headers=false&gid=586908396
+
+## `001735875`
 
 Selected: **KNRM / KNRM**
 

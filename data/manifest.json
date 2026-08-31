@@ -1,10 +1,10 @@
 {
-  "source_records": 30633,
-  "unique_capcodes": 17065,
+  "source_records": 30672,
+  "unique_capcodes": 17072,
   "bommel_records": 9647,
   "exact_duplicate_capcodes": 11,
   "conflicting_duplicate_capcodes": 46,
-  "records_with_field_conflicts": 1509,
+  "records_with_field_conflicts": 1513,
   "abbreviation_records": 1236,
   "source_errors": {},
   "bommel_download": {
