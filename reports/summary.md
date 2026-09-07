@@ -1,13 +1,12 @@
 # Dataset summary
 
-- Unique merged capcodes: **17072**
-- Records with field conflicts: **1513**
+- Unique merged capcodes: **16856**
+- Records with field conflicts: **601**
 - Exact duplicate capcodes within a source: **11**
-- Conflicting duplicate capcodes within a source: **46**
-- Abbreviations: **1236**
+- Conflicting duplicate capcodes within a source: **20**
+- Abbreviations: **412**
 
 ## Source record counts
 
 - `bommel`: 9647
-- `capcodes_eu`: 9350
-- `tomzulu`: 11675
+- `tomzulu`: 11686
