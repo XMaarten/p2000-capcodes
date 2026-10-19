@@ -1,12 +1,14 @@
 {
-  "source_records": 27717,
-  "unique_capcodes": 16731,
+  "source_records": 21377,
+  "unique_capcodes": 16890,
   "bommel_records": 9647,
   "exact_duplicate_capcodes": 11,
-  "conflicting_duplicate_capcodes": 46,
-  "records_with_field_conflicts": 1225,
+  "conflicting_duplicate_capcodes": 20,
+  "records_with_field_conflicts": 600,
   "abbreviation_records": 1236,
-  "source_errors": {},
+  "source_errors": {
+    "capcodes_eu": "RuntimeError: capcodes.eu returned no parseable capcode rows"
+  },
   "bommel_download": {
     "url": "https://p2000.bommel.net/cap2csv.php",
     "sha256": "9aef63a7276a46eb8ad9e4302ea33912577b7cd6180b21b993aac91fa9932cc5",
